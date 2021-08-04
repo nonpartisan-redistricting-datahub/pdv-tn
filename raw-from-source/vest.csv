@@ -1,0 +1,1984 @@
+,NAME
+0,8
+1,6
+2,Mayland
+3,Rinnie
+4,Woody
+5,Oak Hill
+6,Crab Orchard Town Hall
+7,Fairfield Glade North
+8,Martin Luther King
+9,Everett
+10,Lanier
+11,William Blount Academy
+12,Maryville High School
+13,Miser Station
+14,Louisville
+15,Heritage
+16,Chilhowee View
+17,East LaFollette
+18,Jacksboro
+19,Eastside
+20,Valley Forge
+21,Harold McCormick
+22,Little Milligan
+23,5-1 Greenbrier Church of Christ
+24,Fairfield Glade South
+25,Chestnut Hill
+26,Ozone-Pineview
+27,Grassy Cove
+28,Linary
+29,Big Lick
+30,Vandever
+31,Tansi
+32,Homestead
+33,Dorton
+34,Complex 2
+35,Cornerstone Baptist Church
+36,Lantana
+37,Midway
+38,Pleasant Hill
+39,Pomona
+40,Bakers
+41,Tabor
+42,10-4
+43,Big Springs
+44,William Blount High
+45,Campbell County High School
+46,Demory
+47,Alder Springs
+48,Well Springs
+49,Habersham
+50,White Oak
+51,Newcomb
+52,Jellico
+53,Gassaway
+54,4 Short Mountain
+55,Westside
+56,Eastside
+57,Woodland
+58,Auburntown
+59,Pleasant Ridge
+60,2 Short Mountain
+61,8 Civic Center
+62,17 Senior Citizens
+63,12 Bruceton
+64,4-3 Sycamore Middle School
+65,3-1 Pleasant View City Hall
+66,2-1 East Cheatham Elementary
+67,4-1 West Cheatham Elementary
+68,6-1 Harpeth High School
+69,5-2 Pegram City Hall
+70,1-1 Cheatham Co Library
+71,5-1 East Chester School
+72,1-2 Enville
+73,3-2 Montezuma
+74,2-2 Friendship
+75,4-1 West Chester School
+76,3-6 Deanburg
+77,3-4 Masseyville
+78,6-1 City Hall
+79,2-1 Jacks Creek
+80,1-5 Sweet Lips
+81,10-5
+82,10-6
+83,11-1
+84,11-2
+85,Walland
+86,Montvale
+87,Porter
+88,John Sevier
+89,Maryville College
+90,Prospect
+91,601 Valley View School
+92,401 Oak Grove School
+93,603 Waterville School
+94,Woodbury
+95,13 Hollow Rock
+96,6 Clarksburg
+97,11 Buena Vista
+98,4 McLemoresville
+99,16 Atwood
+100,22 McKenzie City hall
+101,9 Huntingdon Police Station
+102,5 Cedar Grove
+103,18 Cannon
+104,1 Lavinia
+105,21 Bethel
+106,20 Westport
+107,2 Trezevant
+108,1-6 Harmony
+109,7-1 Arthur
+110,9-1 Clairfield
+111,5-1 Big Spring Union
+112,6-1 Harrogate
+113,2-2 Goin
+114,3-2 New Tazewell
+115,3-1 Lone Mountain
+116,8-2 Vanbebber Springs
+117,12-2
+118,12-3
+119,1-1
+120,1-2
+121,1-3
+122,501 Blythe/Bower School
+123,602 Blue Springs School
+124,102 Prospect School
+125,103 Hopewell School
+126,101 McDonald Ruritan
+127,701 Stuart School
+128,604 Black Fox School
+129,201 E.L. Ross School
+130,202 Walker Valley High
+131,302 Senior Center
+132,7 Macedonia
+133,14 Vale
+134,19 Concord
+135,Elk Mills
+136,Roan Mountain
+137,Hampton
+138,Gap Creek
+139,Tiger Valley
+140,Unaka
+141,Watauga
+142,Midway
+143,7-2 Cumberland Gap
+144,1-1 Tazewell
+145,2-3 Sandlick
+146,4-1 Gibson Hall
+147,2-1 Clouds
+148,4-2 Howard's Quarter
+149,4-4 Springdale
+150,4-3 Liberty
+151,8-1 Rogers Mill
+152,4-1 Maple Grove
+153,5-1 Arcot/Beech Bethany
+154,1 Dentons Cross Roads
+155,5-2 Pea Ridge
+156,10-2
+157,10-3
+158,702 Cleveland High
+159,402 Michigan Ave School
+160,301 Lee University
+161,502 5 Points Museum
+162,National Guard Armory
+163,Happy Valley
+164,Central
+165,Range
+166,Westside
+167,3 Celina
+168,4-2 Butlers Landing
+169,2 Hermitage Springs
+170,Long Creek
+171,Cocke County High School
+172,Centerview
+173,Del Rio
+174,Smoky Mountain
+175,Newport Grammar School
+176,11-3
+177,11-4
+178,12-1
+179,College Hill
+180,Caryville
+181,West LaFollette
+182,Valley View
+183,Elk Valley
+184,LaFollette Elementary School
+185,High School
+186,Court House
+187,Keenburg
+188,Hunter
+189,Siam
+190,Northport
+191,Grassy Fork
+192,Edwina
+193,Cosby
+194,Armory
+195,Edgemont
+196,Forest Hill
+197,West End
+198,Bridgeport
+199,Houston Valley
+200,1-4
+201,1-5
+202,10-1
+203,South Clinton
+204,Clinton
+205,Clinton High
+206,Emory Valley
+207,Pine Valley
+208,Oak Ridge City Hall
+209,West Hills
+210,Bull Run
+211,Claxton
+212,Andersonville
+213,Glen Alpine
+214,Glenwood
+215,Highland View
+216,Woodland
+217,Parrottsville
+218,16 Lions Club
+219,05 Hillsboro Community Center
+220,06 Tennessee Vocational Center
+221,Robertsville
+222,Hendrix Creek
+223,Rankin
+224,Central
+225,07 Forrest Mill Church of Christ Activity Center
+226,Fairview
+227,Norris
+228,Lake City Middle School
+229,15 Grace Baptist Church
+230,18 First Christian Church
+231,Lake City
+232,Briceville
+233,Rosedale
+234,Norwood
+235,Marlow
+236,Dutch Valley
+237,Clinton Middle School
+238,North Clinton
+239,101 Wartrace Baptist Church
+240,801 Thomas School
+241,502 Flat Creek Community Center
+242,303 Uniounville Fire Hall
+243,403 Bedford Community Center
+244,601 East Side School
+245,19 CD Stamps Center
+246,08 New Union Fire Hall
+247,9-1 Pocahontas Community Center
+248,9-2 Summitville Community Center
+249,13-2 Grace Baptist Center
+250,17 National Guard Armory
+251,701 Deery Eakin School
+252,102 Bell Buckle/Webb School
+253,203 Fairhaven Baptist Church
+254,505 Normandy Baptist Church
+255,902 Southside School
+256,6 Big Sandy School
+257,5 Benton Co. Courthouse
+258,1 Holladay School
+259,3 Benton Co. Courthouse
+260,2 Camden High School
+261,4 Camden Elementary School
+262,Lee Station
+263,Pikeville
+264,Lusk
+265,Brayton
+266,Dill
+267,Griffith
+268,Nine Mile
+269,Luminary
+270,Bellview
+271,Jacksboro Station
+272,Pinecrest
+273,Ridgewood
+274,Clinchmore
+275,02 Saint Paul United Methodist Church
+276,20 Coffee County Senior Citizens
+277,21 Wilson Avenue Church of Christ
+278,Cold Springs
+279,Mt.Crest
+280,Rigsby
+281,Fairview
+282,Carpenters
+283,Happy Valley
+284,Pellissippi Campus
+285,Eagleton Cafeteria
+286,Townsend
+287,Oak View
+288,04 First Baptist Church
+289,03 Trinity Baptist Church
+290,01 Ada Right Center
+291,10 Mt. Ararat Baptist Church
+292,11 Freedonia Community Center
+293,12 North Coffee Elementary School
+294,13-1 Blanton's Chapel Community Center
+295,14 Hickerson Fire Hall
+296,4
+297,1
+298,2
+299,11
+300,12
+301,5
+302,3
+303,Rockford
+304,Middlesettlements
+305,Alcoa High School
+306,Blount County Board of Education
+307,Maryville Junior High
+308,Mentor
+309,Beech Grove
+310,Oak Street
+311,Maryville Municipal
+312,Friendsville
+313,9
+314,10
+315,7
+316,31-4
+317,32-1
+318,32-2
+319,Courthouse
+320,5-3 Sherwood
+321,7-1 North Lake
+322,1-1 FC Annex
+323,8-1 Decherd
+324,6-3 UTSI
+325,6-2 Capitol Hill
+326,4-2 Cowan
+327,3-3 Walnut Grove
+328,7-2 Winchester Springs & Center Grove
+329,8-2 Estill Springs
+330,6-1 Alto/Oak Grove
+331,3-1 Broadview
+332,3-2 Huntland
+333,5-1 Keith Springs
+334,2-1 Clark Memorial
+335,4-3 Liberty
+336,32-3
+337,32-4
+338,33-1
+339,33-3
+340,34-4
+341,35-1
+342,06 Humboldt Ch of Chr
+343,02 Sitka Community Center
+344,22 Agri Plex
+345,28 Cumberland Presbyterian Church
+346,26 Union Central
+347,37 Good Luck
+348,32 Bradford
+349,33-2
+350,33-4
+351,30 Milan Assembly/God
+352,29 Milan Polk Clark
+353,34-1
+354,34-2
+355,5-5
+356,31 Milan Muni Bldg
+357,09 Humboldt Lane Chapel
+358,27 Skullbone
+359,34 Laneview
+360,14 Brazil
+361,12 Edison
+362,20 CourtHouse
+363,6-1
+364,6-2
+365,6-3
+366,8-2
+367,38 Dyer
+368,39 Currie
+369,17 Yorkville
+370,40 Rutherford
+371,13 Fruitland
+372,08 St. James Baptist Church
+373,07 Humboldt Park
+374,8-3
+375,8-4
+376,04 Gibson
+377,24 Moore's Chapel
+378,01 Medina
+379,18 Kenton
+380,10 Humboldt High School
+381,1B Prospect
+382,2B Airport
+383,2A Minor Hill
+384,1A Ardmore
+385,3A Richland Trace Market
+386,9-1
+387,9-2
+388,9-3
+389,6-4
+390,3B Campbellsville
+391,4A Lynnville
+392,4B Odds Fellows Hall
+393,5A TCAT
+394,5B Agri-Park
+395,6A MMC Martin Methodist College
+396,6B BMS Bridgeforth Middle School
+397,7A GCHS Giles County High School
+398,3-4
+399,3-5
+400,3-6
+401,6-5
+402,7-1
+403,7-2
+404,7-3
+405,7-4
+406,7B Recreation Center
+407,3-1 Blaine City Hall
+408,2-2 Grainger High School
+409,1-1 Rutledge Middle School
+410,4-2 Washburn Ele. School
+411,1-2 Old Central Point School
+412,5-1 Bean Station Library
+413,4-1 Thorn Hill Comm. Blg.
+414,2-1 Bean Station Ele. School
+415,3-2 Indian Ridge Comm. Blg.
+416,5-2 Senior Citizens Center
+417,South Greene
+418,Baileyton
+419,Chuckey Doak
+420,Chuckey
+421,Mosheim
+422,Ottway
+423,Nolachuckey
+424,30-1
+425,30-2
+426,30-3
+427,7-5
+428,7-6
+429,8-1
+430,Scotts Hill
+431,4th Decaturville
+432,3rd Decaturville
+433,Dunbar
+434,5th Parsons
+435,6th Parsons
+436,7-1 Jeanette
+437,8th Parsons
+438,9-2 Hydro
+439,Liberty
+440,Perryville
+441,1-3 Edgar Evins State Park
+442,2-1 Liberty
+443,Tusculum View
+444,Middle School
+445,McDonald
+446,Glenwood
+447,Debusk
+448,West Pines
+449,Doak
+450,High School
+451,30-4
+452,31-1
+453,31-2
+454,9th Beacon
+455,3rd Beacon
+456,3 Church of God
+457,6-3 Blue Springs
+458,4-3 Courthouse
+459,5-2 County Complex
+460,Court House
+461,Camp Creek
+462,Central
+463,Pelham
+464,Altamont
+465,Palmer
+466,Coalmont
+467,31-3
+468,28-3
+469,29-1
+470,7 Church of Christ Annex
+471,1-1 Alexandria
+472,1-2 Temperence Hall
+473,2-2 Dowelltown
+474,2-3 Snows Hill
+475,4-2 Rock Castle
+476,5-1 Johnson Chapel
+477,6-2 Keltonburg
+478,6-1 Belk
+479,7-1 Pomona Baptist Church
+480,3-1 Calvary Chapel
+481,12-2 Greater Things Baptist Church
+482,10-1 First Baptist Church
+483,1-2 Sylvia Baptist Church
+484,4-1 Jackson Chapel
+485,2-2 TN City Fire Hall
+486,12-1 White Bluff Community Center
+487,9-1 Restoration Church
+488,3-2 Vanleer Town Hall
+489,Cross Roads
+490,Collins
+491,Hubbard's Cove
+492,Gruetli
+493,Tarlton
+494,Beersheba
+495,Monteagle
+496,Tracy
+497,11-2
+498,11-1
+499,29-2
+500,29-3
+501,29-4
+502,3-1
+503,3-2
+504,8-1 Senior Citizens
+505,1-1 Collier House
+506,6-2 Porter Community Center
+507,6-1 Burns Church of Christ
+508,2-1 Eno Community Center
+509,5-1 White Bluff Civic Center
+510,I - Hurricane Hill
+511,D - Millsfield
+512,J-N Dyersburg
+513,E - Lenox
+514,D-Bogota
+515,B - Newbern
+516,E - Finley
+517,A - Fowlkes
+518,H - E. Dyersburg
+519,I - Community Center
+520,4-1
+521,1-1
+522,34-3
+523,34-5
+524,11-1 Tennsco Community Center
+525,G - Courthouse
+526,C-Tatumville
+527,A - Bonicord
+528,2-1
+529,3-1
+530,5-1
+531,6-1
+532,7-1
+533,8-1
+534,9-1
+535,9-2
+536,10-1
+537,10-2
+538,12-1
+539,13-1
+540,14-1
+541,35-2
+542,35-3
+543,35-4
+544,C - Trimble
+545,F - Dyer County Central
+546,4-1
+547,4-2
+548,4-3
+549,4-4
+550,C - Roellen
+551,10 Rossville
+552,12 Williston
+553,8 Elba
+554,1 Somerville
+555,4 Braden
+556,14 Parks
+557,13 Moscow
+558,5-1
+559,5-2
+560,5-3
+561,5-4
+562,9 Piperton
+563,3 Garnett
+564,15 La Grange
+565,5 Gallaway
+566,6 Oakland
+567,7 Hickory White
+568,2 Fayette Corner
+569,11 Macon
+570,Pine Haven
+571,Crossroad
+572,Allardt
+573,Grimsley
+574,West Fentress
+575,Community Center
+576,Pall Mall
+577,East Jamestown
+578,Armathwaite
+579,Banner
+580,Tinchtown
+581,Clarkrange
+582,4-1 Belvidere
+583,5-2 Sewanee
+584,33
+585,74
+586,61
+587,59
+588,72
+589,56
+590,58-S
+591,73
+592,19-W
+593,2-4
+594,2-5
+595,20-1
+596,20-2
+597,3-2 Springville
+598,02-3 East Bank
+599,07-4 Coble
+600,06-1 Justice Center
+601,07-1 Nunnelly
+602,01-2 Pinewood
+603,03-1 East Community Center
+604,07-2 Pleasantville
+605,05-1 Mt. Pleasant
+606,Erin Elementary School
+607,Erin City Hall
+608,Arlington Sr. Citizens Cntr
+609,Houston Co. Middle School
+610,Griffin Chapel Church
+611,Stewart Community Center
+612,5-6 Wildwood
+613,1-1 Jera Building
+614,58-N
+615,69-E
+616,70-E
+617,23
+618,20-3
+619,21-1
+620,21-2
+621,Armory
+622,3-4 MLEC
+623,2-3 WFCN
+624,4-5 Safe Room
+625,6-7 South McEwen
+626,7-8 CCC
+627,1-2 Compassion Church
+628,5-2
+629,1-2
+630,6-2
+631,4-2
+632,6-1
+633,2-2
+634,3-2
+635,4-1
+636,5-1
+637,1-1
+638,3-1
+639,2-1
+640,7th New Market City Hall
+641,3rd White Pine School
+642,2nd Piedmont Elementary School
+643,4th Jefferson Elementary School
+644,65-E
+645,69-W
+646,21-3
+647,21-4
+648,22-1
+649,10th Jefferson City Fire Dept
+650,9th Talbott Elementary School
+651,8-2 Old Swannsylvania School
+652,5th Jefferson Middle School
+653,6th Rush Strong School
+654,1st Dandridge Elementary School
+655,8-1 Old Chestnut Hill School
+656,5 Doe Valley
+657,1B Cold Springs
+658,3B Neva
+659,2 Forge/Shouns
+660,4B Butler
+661,3A Trade
+662,6 Shady
+663,1A Laurel
+664,4A Dry Run
+665,50-S
+666,09
+667,10-N
+668,19-1
+669,19-2
+670,19-3
+671,19-4
+672,7 City
+673,10-W
+674,48
+675,12
+676,15
+677,30
+678,19-5
+679,19-6
+680,2-1
+681,24-5
+682,39
+683,41
+684,40
+685,80
+686,85
+687,86
+688,82
+689,87
+690,76
+691,78
+692,79
+693,77
+694,31
+695,13
+696,24-6
+697,25-1
+698,25-2
+699,19-E
+700,92
+701,93
+702,90
+703,27
+704,89
+705,25
+706,29
+707,71
+708,69-S
+709,06
+710,20
+711,25-3
+712,25-4
+713,26-1
+714,10-S
+715,42
+716,43
+717,15-2
+718,15-3
+719,15-4
+720,15-5
+721,26-2
+722,26-3
+723,26-4
+724,50-N
+725,24-Q
+726,16-1
+727,16-2
+728,16-3
+729,16-4
+730,27-1
+731,27-2
+732,27-3
+733,5th
+734,3rd
+735,2nd
+736,49
+737,51
+738,16-5
+739,17-1
+740,17-2
+741,17-3
+742,17-4
+743,22-2
+744,22-3
+745,22-4
+746,4th
+747,6th
+748,7th
+749,1st
+750,Middleton
+751,Toone
+752,Whiteville
+753,Saulsbury
+754,Dixie Hills
+755,Silerton
+756,West Bolivar
+757,Hornsby
+758,Grand Junction
+759,Bolivar
+760,Hickory Valley
+761,Pocahontas
+762,Lacy
+763,8 North
+764,2 Nixon
+765,9 Courthouse
+766,7 Walnut Grove
+767,6 Rhodes
+768,4 Crump
+769,5 Morris Chapel
+770,47
+771,46
+772,65-W
+773,62
+774,64
+775,70-W
+776,67
+777,45
+778,63
+779,63-N
+780,17-5
+781,17-6
+782,17-7
+783,12-4
+784,23-1
+785,23-2
+786,5 Saltillo
+787,1 Olivet
+788,10 Fairground
+789,3 Counce
+790,4 Shiloh
+791,7 Whites
+792,3 Southside
+793,2 Walkers
+794,1 Armory
+795,6 Olive Hill
+796,6 Cerro Gordo
+797,1 Allandale Inside
+798,1 Allandale Outside
+799,1 Mount Carmel
+800,2 Church Hill Inside
+801,2 Church Hill Outside
+802,2 McPheeter's Bend
+803,3 Carter's Valley
+804,3 Wallace
+805,3 Watterson
+806,4 Dykes
+807,4 Kepler
+808,4 Rogersville North Outside
+809,69-N
+810,66-S
+811,12-5
+812,13-1
+813,13-2
+814,23-3
+815,23-4
+816,23-5
+817,4 Surgoinsville Outside
+818,4 Upper Beech
+819,5 Rogersville North Inside
+820,5 Rogersville South Inside
+821,5 Rogersville South Outside
+822,6 Alumwell
+823,6 Choptack
+824,6 Clinch
+825,4 Surgoinsville Inside
+826,6 Mooresburg
+827,65-N
+828,68
+829,13-3
+830,13-4
+831,14-1
+832,24-1
+833,24-2
+834,24-3
+835,24-4
+836,7 Bulls Gap Inside
+837,7 Bulls Gap Outside
+838,7 St. Clair
+839,7 Cherokee
+840,10 Haywood Junior High
+841,07 Delta Heritage Center
+842,03 Jefferson Court Community Building
+843,02 Parks & Recreation Dept
+844,04 Chamber Basement
+845,09B West Side Church of Christ
+846,06 Wyatt-Duke National Guard Armory
+847,05 Tibbs Fire Station
+848,09A Stanton City Hall
+849,68-E
+850,55
+851,14-2
+852,14-3
+853,14-4
+854,14-5
+855,28-1
+856,28-2
+857,01 Christ Temple Apostolic Church
+858,08 Douglas Community Center
+859,1-1 Bargerton
+860,1-2 Beaver
+861,6-1 Broad Street
+862,5-1 TN Technology Center
+863,2-1 Westover
+864,3-2 Fire Station #10
+865,3-4 Pin Oak Fire Station #4
+866,3-3 Darden
+867,7-3 Scotts Hill
+868,7-2 Reagan
+869,4-1 Civic Center
+870,3-1 Christian Chapel
+871,2-2 South Haven
+872,44
+873,66-N
+874,84
+875,26
+876,57
+877,60
+878,81
+879,18
+880,15-1
+881,18-1
+882,18-2
+883,18-3
+884,3-3
+885,7-1 Middleburg
+886,7-4 Sardis
+887,2-3 Oakland
+888,1-1 Puryear
+889,2-2 Mansfield
+890,3-3 Jones Chapel
+891,4-2 City Hall
+892,5-1 HC High School
+893,1-2 Cottage Grove
+894,1-3 Buchanan
+895,2-1 Henry
+896,3-1 Russwood
+897,02-2 Fairfield
+898,05-3 Shady Grove
+899,04-1 Lake Benson Camp
+900,01-1 Nunnelly
+901,07-3 Brushy
+902,05-2 Middle School
+903,37
+904,36
+905,35
+906,18-4
+907,18-5
+908,2-2
+909,2-3
+910,5-2 Vo-Tech
+911,4-1 Grove
+912,34
+913,16
+914,4-3 Oakland Middle School
+915,4-2 North Boulevard Church of Christ
+916,17-2 Kingwood Heights Church of Christ
+917,Greenback
+918,Glendale
+919,Highland Park
+920,Loudon Mt Zion
+921,Lenoir City
+922,Lenoir City Outside
+923,Browder
+924,Eatons
+925,Riverside
+926,Bigbyville
+927,Culleoka
+928,Spring Hill Middle
+929,04 Englewood School
+930,11 McMinn Courthouse
+931,08 Niota School
+932,601 Lobelville City Hall
+933,401 Brush Creek
+934,101 Cedar Creek
+935,302 Flatwoods
+936,High School
+937,Oak Hill
+938,Chanute
+939,Community Center
+940,Travisville
+941,Moodyville
+942,Bolestown
+943,Boom
+944,15-2 Northfield Elementary School
+945,16-2 Mitchell-Neilson Primary School
+946,17-1 North Boulevard Church of Christ
+947,17-3 Wesley Foundation
+948,Tellico Village South
+949,Tellico Village North
+950,Red Boiling Springs High School
+951,12 North City School
+952,09 Ingleside School
+953,10 Tennessee College of Applied Technology
+954,06 Riceville School
+955,05 Rogers Creek School
+956,14 EK Baker School
+957,01 City Park School
+958,15 Mountain View School
+959,07 Calhoun School
+960,02 Etowah Community Center
+961,03 Central High School
+962,Barnes Ridge
+963,3A Cooper Basin High School
+964,2 Greasy Creek Comm. Club
+965,1B Chilhowee Middle Sch. Gym
+966,1 Delano Lions Club
+967,1A Polk County High School
+968,2A Springtown Firehall
+969,3B Turtletown
+970,2C South Polk School
+971,2D Shiloh Baptist Youth Center
+972,3 Ducktown Courthouse
+973,06A Cane Creek
+974,09B Double Springs
+975,01A Capshaw
+976,05C Prescott South
+977,07D Twin Oak
+978,08F Cornerstone Middle
+979,08E Buffalo Valley
+980,08G Upperman
+981,08D Boma
+982,19-2 New Vision Baptist Church
+983,20-2 Blackman High School
+984,Willette Community Center
+985,Macon County High School
+986,Macon County Junior High School
+987,Westside Elementary School
+988,Cross Roads Community Center
+989,Macon County Welcome Center
+990,Central Elementary School
+991,13 Jones Chapel Family Life
+992,2 Adamsville
+993,4 Rose Creek
+994,3 North East Selmer
+995,1 McNairy
+996,5 Ramer
+997,6 Courthouse SE
+998,7 Michie
+999,1 Bethel Springs
+1000,1 Finger
+1001,3 Leapwood
+1002,3 Purdy
+1003,2 Lawton
+1004,7 Stantonville
+1005,5 East View
+1006,5 Guys
+1007,5 Cypress
+1008,4 North Selmer
+1009,05F Dry Valley
+1010,04C Poplar Grove Community Center
+1011,11B Cookeville High School
+1012,12A Algood Inside
+1013,11A Bangham
+1014,12B Algood Outside
+1015,02A Northeast Elementary
+1016,7-1 New Heights Chapel
+1017,13-2 Cason Lane Academy
+1018,Lafayette Elementary School
+1019,National Guard Armory
+1020,10-3 North Side High School
+1021,9-3 Three Way City Meeting Room
+1022,3 Courthouse
+1023,2 Meigs South
+1024,1 Eastview
+1025,3 City Hall
+1026,5 Ten Mile
+1027,4 Meigs North
+1028,Election Commission
+1029,Vonore Community Center
+1030,Brown Elementary School
+1031,Coker Creek School
+1032,03A University
+1033,10 Pavilion
+1034,10B Sycamore
+1035,12C Brotherton
+1036,05A Cookeville Community Center
+1037,04A Burks Middle School
+1038,07A Burgess Falls
+1039,5-1 Dayton North
+1040,18-1 Patterson Park Community Center
+1041,13-1 Bellwood-Bowdoin Pre-School
+1042,2-1 Alexander Elementary School
+1043,2-3 Tigrett School
+1044,Rural Vale Fire Dept
+1045,Sequoyah High School
+1046,Vonore Elementary School
+1047,Notchey Creek Fire Dept
+1048,Ballplay Fire Dept
+1049,Sweetwater High School
+1050,Broad Street School
+1051,Tellico Community Center
+1052,Madisonville Primary School
+1053,12
+1054,04B Monterey High School
+1055,8-1 Garrison
+1056,3-1 Wolf Creek
+1057,9-1 Graysville
+1058,2-1 Spring City South
+1059,4-1 Evensville South
+1060,1-1 Spring City North
+1061,3-2 Evensville North
+1062,6-1 Dayton West
+1063,7-1 Frazier
+1064,1-2 Grandview
+1065,9-2 Waldens Ridge
+1066,Rockwood Ward 1
+1067,Cave Creek
+1068,21-1 Hobgood Elementary School
+1069,21-2 BlackFox Elementary School
+1070,8-2 Eagleville Community Center
+1071,2-1 Lascassas Elementary School
+1072,12-3 LaVergne High School
+1073,3-1 Leanna Church of Christ
+1074,2-2 Aldersgate United Methodist Church
+1075,4-2 Andrew Jackson School
+1076,4-3 Festivities Events Place
+1077,13
+1078,5A
+1079,6A
+1080,4A
+1081,21B
+1082,Lawnville
+1083,Paw Paw
+1084,Midway
+1085,Cherokee
+1086,Kingston Ward 1
+1087,Dyllis
+1088,Oak Hills
+1089,Orchard View
+1090,Emory Heights
+1091,Emory
+1092,Kingston Ward 2
+1093,Midtown
+1094,South Harriman
+1095,Eureka
+1096,Renfro
+1097,Fairview
+1098,Glen Alice
+1099,Rockwood Ward 2
+1100,Paint Rock
+1101,7-2 Barfield Elementary School
+1102,18-2 Riverdale High School
+1103,4-1 Masonic Temple Lodge #45
+1104,1-1 Carl Perkins Civic Center
+1105,1-2 Mt. Moriah Baptist Church
+1106,18
+1107,2A
+1108,Harriman Ward 1
+1109,Oliver Springs
+1110,Johnson School House
+1111,1-1 East Robertson Elementary School
+1112,2-1 Robert F. Woodall Elementary School
+1113,3-2 White House Heritage HS
+1114,4-1 Watauga Elementary School
+1115,6-2 Mt. Sharon C.P. Church
+1116,6-1 Coopertown Middle School
+1117,7-2 Stroudsville Church of Christ
+1118,3 Lake County Middle School
+1119,1 Tiptonville Senior Center
+1120,2 Lake County Courthouse
+1121,Central
+1122,Edith
+1123,Ripley 2
+1124,Arp
+1125,McBride
+1126,Conner
+1127,Lightfoot
+1128,Nankipoo
+1129,Halls 8
+1130,Henning
+1131,2-1 Loretto Civic Center
+1132,4-1 Crossroads Fire Hall
+1133,3-1 South East Lawrence
+1134,1-2 West Loretto
+1135,5-1 Leoma School Gym
+1136,5-1 Whitehall Elementary School
+1137,5-2 Macedonia Baptist Church
+1138,5-3 North Parkway School
+1139,7-1 UT Agricultural Experiment Station
+1140,7-2 TN Technology Center
+1141,7-3 Denmark West Community Center
+1142,7-4 Mercer Fire Station
+1143,6-3 Malesus Community Center
+1144,6-4 Medon City Hall
+1145,6-2 South Elementary School
+1146,8-5 Lesters Fire Station
+1147,8-4 East Union Ruritan Center
+1148,8-3 Mifflin Road Fire Station
+1149,8-1 Beech Bluff Baptist Church
+1150,8-2 Browns United Methodist Church
+1151,14
+1152,8A
+1153,5-1 Greenbrier High School
+1154,7-1 Jo Byrns Elementary School
+1155,3-1 Ebenezer Baptist Church
+1156,8-2 H.A.T.S
+1157,8-1 Krisle School
+1158,8-3 Owens Chapel Fellowship Hall
+1159,9-1 Robertson County Fair Assoc.
+1160,10-1 South Haven Christian School
+1161,11-2 Heads Free Will Baptist Church
+1162,11-1 Westside School
+1163,5-2 LaVergne Middle School
+1164,9-1 Stewarts Creek Elementary School
+1165,20-1 Blackman United Methodist Church
+1166,8-1 Rockvale Middle School
+1167,8-3 Lebanon Campground Church
+1168,8-4 Crescent Church of Christ
+1169,Gates
+1170,10-2 North East School
+1171,3-1 Madison Co Board of Ed.
+1172,3-3 Jackson Center for Ind. Living
+1173,9
+1174,3
+1175,10
+1176,1B
+1177,12-1 Bransford School
+1178,12-2 Smyrna Elementary School
+1179,11-1 Smyrna Middle School
+1180,Ripley 4
+1181,Ripley 3
+1182,6-2 West Point
+1183,8-1 New Prospect
+1184,9-2 Mars Hill
+1185,10-1 Howards
+1186,3-2 Old Bells Fire Station
+1187,9-1 VFW
+1188,9-2 Pope Elementary School
+1189,6-1 South Side High School
+1190,7
+1191,11
+1192,2B
+1193,10-2 Lifepoint Church
+1194,19-1 Creekmont General Baptist Church
+1195,1-1 St. Joseph
+1196,7-1 Lawrenceburg Public
+1197,11-1 Summertown
+1198,10-1 Spring Creek Fire Station #7
+1199,20B
+1200,5B
+1201,21A
+1202,6B
+1203,15
+1204,19
+1205,11-2 StewartsboroElementary School
+1206,9-2 Browns Chapel Elementary School
+1207,12-2 Henryville Community Club
+1208,13-1 West End
+1209,14-1 Crawfish Valley
+1210,15-1 David Crockett
+1211,3-2 Centerpoint
+1212,16-1 Rotary Park
+1213,17-1 Sowell
+1214,18-1 E.O. Coffman
+1215,6-1 Iron City
+1216,Shellmound
+1217,4B
+1218,17
+1219,1A
+1220,8B
+1221,5 Motlow College
+1222,1-1 LaVergne Lake Elementary School
+1223,5-1 Cedar Grove Elementary School
+1224,5-2 Gandy
+1225,9-1 Ethridge
+1226,12-1 Prince Tree Service
+1227,2-1
+1228,4-1
+1229,3-1
+1230,1-1
+1231,5-1
+1232,6-1
+1233,7-1
+1234,Orme
+1235,South Pittsburg
+1236,Lodge
+1237,Monteagle
+1238,Kimball
+1239,20A
+1240,16
+1241,1 Courthouse
+1242,3 Moore County Building
+1243,2 Moore County High School
+1244,4 Elementary School
+1245,Chestnut Ridge 4-3
+1246,10-1 Rock Springs Elementary School
+1247,6-2 Christiana Middle School
+1248,6-1 Whitworth-Buchannan Middle School
+1249,4-1 Kittrell Elementary School
+1250,2-3 Milton Fire Station
+1251,2-2 Wilson Elementary School
+1252,16-3 Lane Agri-Park
+1253,8-1
+1254,9-1
+1255,New Hope
+1256,Haletown-Ladds
+1257,Elder Mountain
+1258,River Canyon
+1259,Waldens Ridge
+1260,Jasper
+1261,Foster Falls
+1262,Sequatchie
+1263,Powells Crossroads
+1264,Whitwell
+1265,Whitwell Mtn. FD
+1266,Recreation Center
+1267,Lewisburg Gas Dept.
+1268,Belfast
+1269,Henry Horton State Park
+1270,Cornersville
+1271,West Hills Elementary
+1272,Hardison School
+1273,Lancing 4-1
+1274,Petros 6-2
+1275,Oakdale 2-3
+1276,Coalfield 1-1
+1277,Oakdale High 2-1
+1278,Kelly's 6-1
+1279,Deer Lodge 4-2
+1280,Sunbright 5-1
+1281,Mossy Grove 2-2
+1282,Wartburg 3-1
+1283,Burrville 5-2
+1284,1-1 SOUTH FULTON
+1285,7-2 OBION CO. LIBRARY
+1286,2-4 WOODLAND
+1287,5-4 HORNBEAK
+1288,5-5 SAMBURG
+1289,2-1 EDDIE COX SR. CENTER
+1290,3-2 KENTON
+1291,6-2 OBION
+1292,5-2 CLOVERDALE
+1293,16-1 Central Magnet School
+1294,14-1 Siegel Middle School
+1295,Elora Community Center
+1296,Flintville Fire Hall
+1297,Kelso Cumberland Presbyterian Church
+1298,Lincoln Community Center
+1299,South Lincoln
+1300,Armory
+1301,Fayetteville CPC
+1302,Taft Baptist Church
+1303,Molino
+1304,Boonshill Community Center
+1305,Blanche
+1306,Howell
+1307,Petersburg
+1308,Recreation Center
+1309,Liberty
+1310,Calvary Baptist Fellowship Hall
+1311,Belleville Community Center
+1312,Mulberry Fire Hall
+1313,Chapel Hill
+1314,McKnight Center
+1315,Neapolis
+1316,Spring Hill
+1317,Theta
+1318,Armory
+1319,Santa Fe
+1320,St. Catherine
+1321,CP Church
+1322,West End
+1323,Highland
+1324,6-1 TROY SENIOR CENTER
+1325,3-4 RIVES
+1326,4-1 FAIR GROUNDS
+1327,5 Fairgrounds
+1328,3 Wilson
+1329,1 Livingston
+1330,5 Hilham
+1331,2 Allons
+1332,3 Poteet
+1333,4 Rickman
+1334,2 Monroe
+1335,3 Rushing Springs
+1336,501 Perry Co. Courthouse
+1337,102 Marsh Creek
+1338,301 Coon Creek
+1339,201 Pineview
+1340,403 Lobelville Elem. School
+1341,202 Pope
+1342,14-2 Siegel Elementary School
+1343,15-1 John Pittard Elementary
+1344,Maranatha
+1345,FNB Community Room
+1346,Luttrell
+1347,Loudon Outside
+1348,Loudon
+1349,Philadelphia
+1350,Davis
+1351,First Family
+1352,Mt. Pleasant
+1353,Hampshire
+1354,College Hill
+1355,Pleasant Heights
+1356,Rally Hill
+1357,Bear Creek
+1358,2B
+1359,7B
+1360,Memphis 71-4
+1361,Memphis 90-2
+1362,Millington 1
+1363,Millington 2
+1364,Memphis 83
+1365,Memphis 84-2
+1366,Memphis 72-3
+1367,Memphis 70-1
+1368,Memphis 92-1
+1369,Memphis 60-7
+1370,Memphis 60-5
+1371,Memphis 74-9
+1372,7A
+1373,11B
+1374,Stewartville
+1375,ARL-01
+1376,ARL-02
+1377,Lakeland 1
+1378,Lakeland 2
+1379,Brunswick 1
+1380,Memphis 17
+1381,Memphis 16-1
+1382,Memphis 28
+1383,Memphis 45-4
+1384,Memphis 74-5
+1385,Memphis 73-3
+1386,Memphis 66
+1387,9B
+1388,2A
+1389,11A
+1390,5C
+1391,6C
+1392,7C
+1393,8A
+1394,9A
+1395,Brunswick 2
+1396,Bartlett 05
+1397,Memphis 90-3
+1398,Memphis 46-2
+1399,Memphis 57
+1400,Memphis 68-3
+1401,Memphis 58-4
+1402,Memphis 73-1
+1403,Memphis 59-5
+1404,10B
+1405,5B
+1406,5A
+1407,4C
+1408,4B
+1409,2C
+1410,8B
+1411,501 First Baptist Gallatin
+1412,404 Union Elementary
+1413,401 Howard Elementary School
+1414,1201 Oakmont Elementary
+1415,Memphis 86
+1416,Memphis 87-4
+1417,Memphis 81-1
+1418,Memphis 80-2
+1419,Germantown 10
+1420,Germantown 08
+1421,Germantown 02
+1422,1001 Walton Ferry Elementary
+1423,701 Whitten Elementary
+1424,1102 Church of the Nazarene
+1425,1101 Beech High School Annex
+1426,1103 Millersville Community Center
+1427,1203 White House Middle School
+1428,403 Cottontown Fire Hall
+1429,703 Long Hollow Baptist Church
+1430,802 Hawkins Middle School
+1431,Memphis 87-3
+1432,Bartlett 06
+1433,Bartlett 09
+1434,Germantown 05
+1435,Germantown 03
+1436,Germantown 04
+1437,Germantown 12
+1438,Memphis 81-3
+1439,Memphis 81-7
+1440,101 Westmoreland Middle
+1441,1002 Merrol Hyde Magnet School
+1442,301 Gallatin Civic Center
+1443,601 Vol State College
+1444,Memphis 95-1
+1445,Memphis 96-2
+1446,Memphis 96-1
+1447,Eads
+1448,Memphis 36-1
+1449,Memphis 52-1
+1450,Memphis 53-1
+1451,Memphis 54
+1452,Memphis 93-1
+1453,Memphis 67-3
+1454,Memphis 67-1
+1455,203 Wiseman Elementary
+1456,202 Portland High School
+1457,602 Gallatin Sr. High School
+1458,801 Brown Elementary
+1459,902 Indian Lake Elementary
+1460,Morning Sun 02
+1461,Cordova 3
+1462,Morning Sun 01
+1463,Memphis 95-8
+1464,Memphis 68-1
+1465,Memphis 64
+1466,Memphis 55-2
+1467,Memphis 74-1
+1468,Memphis 74-2
+1469,Memphis 93-3
+1470,32
+1471,14
+1472,11
+1473,17
+1474,5-2 Winfield
+1475,2-1 Elgin
+1476,3-1 Huntsville
+1477,Memphis 91-2
+1478,Memphis 91-4
+1479,Memphis 44-1
+1480,Memphis 44-5
+1481,Memphis 37
+1482,Memphis 33
+1483,Memphis 58-1
+1484,Memphis 45-2
+1485,Memphis 61
+1486,Memphis 47-1
+1487,3-2 Old Jefferson Church of Christ
+1488,12-1 TN National Guard Armory
+1489,Memphis 89-2
+1490,Memphis 91-1
+1491,Memphis 20-1
+1492,Memphis 16-3
+1493,Germantown 11
+1494,Memphis 79-1
+1495,Memphis 77-3
+1496,Memphis 76-5
+1497,Memphis 76-6
+1498,4-5 Bud's Tire
+1499,2-2 Robbins
+1500,4-1 Helenwood
+1501,5-1 Pine Hill
+1502,6-1 Oneida
+1503,7-1 West Oneida
+1504,1-1 Fairview
+1505,3-2 Paint Rock
+1506,1 Lewis Chapel
+1507,8 Lone Oak
+1508,5 Chapel Hill
+1509,6 Daus
+1510,2 Cagle
+1511,9 Fredonia
+1512,Memphis 95-7
+1513,Memphis 95-6
+1514,Memphis 95-5
+1515,Collierville 6
+1516,Collierville 4
+1517,Forest Hills 2
+1518,Memphis 76-4
+1519,Memphis 77-1
+1520,Memphis 60-3
+1521,7 City Justice Center
+1522,4 Electric Co-op
+1523,3 Court House
+1524,Cordova 4
+1525,Cordova 5
+1526,Memphis 89-1
+1527,Forest Hills 1
+1528,Forest Hills 3
+1529,Ross Store 14
+1530,Ross Store 16
+1531,Memphis 26
+1532,Memphis 34-2
+1533,Memphis 49
+1534,Catons Chapel 2
+1535,Pittman Center 1
+1536,Jones Cove 1
+1537,Caton's Chapel 1
+1538,Harrisburg 2
+1539,New Center 1
+1540,Gatlinburg 2
+1541,Pigeon Forge 2
+1542,Wearwood 2
+1543,Waldens Creek 2
+1544,DuPont 2
+1545,Whites 2
+1546,Memphis 69-2
+1547,Memphis 70-2
+1548,Memphis 94-8
+1549,Ross Store 05
+1550,Ross Store 15
+1551,Memphis 50-2
+1552,Memphis 13
+1553,Memphis 12
+1554,Memphis 50-1
+1555,Senior Citizens 2
+1556,Middle School 2
+1557,Voting Machine Whse. 2
+1558,Seymour Primary Sch. 2
+1559,Catlettsburg 2
+1560,Boyd's Creek 2
+1561,Seymour Intm.Sch. 2
+1562,Kodak 1
+1563,Memphis 72-7
+1564,Memphis 42-1
+1565,Memphis 81-5
+1566,Germantown 06
+1567,Memphis 31-2
+1568,Memphis 31-4
+1569,Memphis 60-9
+1570,Memphis 60-6
+1571,Underwood 1
+1572,Jones Cove 2
+1573,Kodak 2
+1574,Catlettsburg 1
+1575,Memphis 87-2
+1576,Lucy 3
+1577,Lucy 1
+1578,McConnells
+1579,Memphis 20-3
+1580,Memphis 01
+1581,Memphis 02
+1582,Collierville 8
+1583,Collierville 9
+1584,Collierville 1
+1585,Collierville 3
+1586,Memphis 78-3
+1587,Memphis 79-7
+1588,Memphis 79-3
+1589,Memphis 79-2
+1590,Memphis 75-1
+1591,Bartlett 11
+1592,Bartlett 04
+1593,Bartlett 03
+1594,Memphis 11
+1595,Memphis 21
+1596,Memphis 41-3
+1597,Collierville 5
+1598,Collierville 7
+1599,Collierville 2
+1600,Memphis 75-7
+1601,Memphis 75-6
+1602,Memphis 75-11
+1603,Memphis 82-2
+1604,Bartlett 08
+1605,Bartlett 13
+1606,Memphis 36-2
+1607,Memphis 88-3
+1608,Memphis 88-2
+1609,Memphis 88-4
+1610,Memphis 62-0
+1611,Memphis 94-7
+1612,Memphis 94-3
+1613,Ross Store 13
+1614,Memphis 94-6
+1615,5-1 Visitors Center
+1616,3-1 Bumpus Mills
+1617,2-1 Big Rock
+1618,4-1 Family Life Center
+1619,6-1 County Library
+1620,7-1 Cumberland City
+1621,1-1 Indian Mound
+1622,06 Carthage
+1623,02 Tanglewood
+1624,01 Defeated
+1625,04 Rock City
+1626,03 New Middleton
+1627,07 South Carthage
+1628,08 Elmwood
+1629,05 Gordonsville
+1630,6A
+1631,6B
+1632,10A
+1633,4A
+1634,3A
+1635,1A
+1636,28 South Side
+1637,24 Henry Johnson
+1638,26 North Side
+1639,6-2 Brentwood Safety Center
+1640,4-1 Prairie Life Fitness Center
+1641,4-2 Millview Church of Christ
+1642,27 Keystone
+1643,18 Fairmont
+1644,11 Indian Trail
+1645,13 Stratton
+1646,12 Princeton
+1647,20  Visitor's Center
+1648,21 Asbury
+1649,16 Marvin's Chapel
+1650,4-3 Franklin Christian Church
+1651,5-2 Nolensville Methodist Church
+1652,17 Towne Acres
+1653,9 Boones Creek City
+1654,3 Gray East
+1655,8 Boones Creek West
+1656,4 Gray City
+1657,7 Gray West
+1658,6 Sulphur Springs
+1659,2 Harmony
+1660,34 New Victory Church
+1661,32 Cherokee Outside
+1662,39 New Salem
+1663,38 South Central
+1664,35 Limestone
+1665,36 West View
+1666,33 Telford
+1667,37 Lamar
+1668,14 Bowmantown
+1669,15 Courthouse
+1670,3-1
+1671,13-1
+1672,14-1
+1673,12-1
+1674,22-1
+1675,25-1
+1676,4-1
+1677,9-2
+1678,7-1
+1679,21-2
+1680,15-1
+1681,40 Embreeville
+1682,19 Leesburg
+1683,1 Fall Branch
+1684,23 Woodland
+1685,22 Fairhaven Outside
+1686,29 Fairhaven Inside
+1687,25 Millennium Centre
+1688,5 Boones Creek East
+1689,20-1
+1690,23-1
+1691,17-1
+1692,24-1
+1693,30 Grace Fellowship Church
+1694,10 Lakeridge
+1695,31 Cherokee City
+1696,5 Lutts
+1697,3 Eagle Creek Fire Hall
+1698,4 Shawnatee
+1699,6 Southgate Fire Hall
+1700,19-1
+1701,6-1
+1702,21-1
+1703,5-1
+1704,18-1
+1705,7 Buffalo River Fire Dept.
+1706,7 Ovilla Fire Hall
+1707,1 Waynesboro City
+1708,5 Wayne Co. High School
+1709,3 Crazy Horse
+1710,5 Big Cypress
+1711,2 Clifton
+1712,3 Beech Creek Fire Hall
+1713,4 Collinwood City
+1714,6 Holly Creek Fire Hall
+1715,08 Martin First United Methodist Church
+1716,05  Martin Church of Christ
+1717,01B Latham Vol. Fire Dept.
+1718,01A Palmersville Fire Station
+1719,02 Gleason Community Building
+1720,04 Sharon First Baptist Church
+1721,8-1
+1722,1-1
+1723,2-1
+1724,06 Martin Trinity Presbyterian Church
+1725,03 Greenfield First Baptist Church
+1726,09 Dresden First United Methodist Church
+1727,07 Martin Shepardsfield Church
+1728,"4-1 Woodland Park School, County"
+1729,"1-1 Sparta Civic Center, City"
+1730,10-1
+1731,16-1
+1732,11-1
+1733,303 Creekside Fellowship
+1734,502 Guild Elementary
+1735,103 Corinth Church of Christ
+1736,03 S.E. Covington
+1737,01 N. E. Covington
+1738,19 Austin Peay
+1739,21 W. Wilkinsville
+1740,22 Brighton
+1741,14 Southwest Tipton
+1742,12 Munford
+1743,06 Tipton West
+1744,11 Atoka
+1745,2 Cato
+1746,"5-1 Doyle Civic Center Hall, County"
+1747,"6-2 Cassville School, County"
+1748,"6-1 Central View School, County"
+1749,"2-2 Woodland Park School, County"
+1750,"2-1 Ag Fair Complex, City"
+1751,"4-2 Bondecroft School, County"
+1752,"3-1 Ag Fair Complex, County"
+1753,"7-1 Northfield School, County"
+1754,"1-2 Sparta Civic Center, County"
+1755,6-3 Holy Family Catholic Church
+1756,11-3 Winstead Elementary School
+1757,11-1 Franklin Elementary School
+1758,9-3 Westhaven Clubhouse
+1759,1-1 Westwood Elementary School
+1760,1-2 Fairview Recreation Center
+1761,9-2 Benton Hall School
+1762,5-4 Nolensville Baptist Church
+1763,9-5 Independence High School
+1764,25-2
+1765,9-1
+1766,7-2
+1767,12-2
+1768,4-2
+1769,4 Halltown
+1770,3 Beech Grove
+1771,1 Senior Center
+1772,10 Providence
+1773,6 Walnut Grove
+1774,6-1 Brentwood Library
+1775,7-3 New Hope Community Church
+1776,5 Templow
+1777,7 High School
+1778,8 Willard
+1779,9 City
+1780,Fishery
+1781,Flag Pond
+1782,Temple Hill
+1783,High School
+1784,Love Chapel
+1785,Rock Creek
+1786,Limestone Cove
+1787,Unicoi
+1788,7-2 Baptist Children's Home
+1789,7-1 Brenthaven Church
+1790,3-3 Brock Community Center
+1791,2-2 Luttrell Elementary School
+1792,1-1 Union County High School
+1793,3-2 Cedar Grove Community Cen.
+1794,4-7 Big Ridge Elementary Sch.
+1795,6-6 Paulette Elementary School
+1796,7-1 Plainview Community Center
+1797,10-1 Franklin Recreation Complex
+1798,10-2 Liberty Elementary School
+1799,11-2 Robert Ring Indoor Soccer Complex
+1800,5-13 Braden Chapel Church
+1801,5-10 Sharps Chapel Elementary
+1802,Spencer 5
+1803,Fall Creek Falls Comm. Center
+1804,Cedar Grove Community Cntr.
+1805,Piney Fire Hall
+1806,Cummingsville Community Cntr
+1807,White Hill Community Cntr.
+1808,Spencer 1
+1809,08-3 Bonner Church of Christ
+1810,11-1 Midway Community Center
+1811,07-1 Friendship The Baptist Church
+1812,04-1 TSU Nursery Res. Center
+1813,11-2 Hwy 56 N Church of Christ
+1814,12-2 Lucky Community Center
+1815,10-1 Centertown United Methodist Church
+1816,8-3 Episcopal Church
+1817,9-1 Walnut Grove Elementary School
+1818,05-2 Beersheba Towers
+1819,02-1 Courthouse
+1820,10-3 Hunter's Bend Elementary School
+1821,5-1 Sunset Elementary School
+1822,8-2 First Presbyterian Church
+1823,8-1 Grassland Middle School
+1824,1-5 The Church of Spring Hill
+1825,02-2 Warren County Airport
+1826,12-2 The Church of the City-Franklin
+1827,2-3 Oakview Elementary School
+1828,2-1 Bethesda Recreation Center
+1829,03-1 Westwood Church of Christ
+1830,08-1 Fairview Community Center
+1831,05-1 Three Star Mall
+1832,06-1 Caney Fork Electric Auditorium
+1833,10-2 Centertown Comm. Ctr.
+1834,09-2 Viola Valley Comm. Center
+1835,09-1 Morrison Ruritan Club
+1836,03-2 Smartt First Baptist Church
+1837,2-5 Conduit Church
+1838,5-3 Triune Baptist Church
+1839,9-4 Grace Chapel Church
+1840,1-4 Burwood Community Center
+1841,3-1 Heritage Elementary School
+1842,2-4 College Grove Community Center
+1843,3-2 Longview Recreation Center
+1844,1-3 Old Pinewood School
+1845,12-1 Northside Baptist Church
+1846,01-1 Civic Center
+1847,12-1 Franklin Community of Faith Church
+1848,2-2 Thompson Station Baptist Church
+1849,3-3 Chapman's Retreat Elementary School
+1850,12-3 The Gate Community Church
+1851,603 Jack Anderson Elementary
+1852,901 Hendersonville High School
+1853,East Chattanooga 1
+1854,Murray Hills 1
+1855,Lake Hills
+1856,Kingspoint 3
+1857,Concord 2
+1858,Concord 7
+1859,East Ridge 2
+1860,Mowbray
+1861,Dalewood
+1862,Tyner 1
+1863,North Chattanooga 1
+1864,East Brainerd 2
+1865,Eastgate 1
+1866,East Ridge 3
+1867,East Ridge 1
+1868,Concord 1
+1869,Brainerd Hills
+1870,Courthouse 2
+1871,Downtown 2
+1872,Sale Creek
+1873,Woodmore 2
+1874,Dallas 2
+1875,Birchwood
+1876,Courthouse 1
+1877,Valdeau
+1878,Eastgate 2
+1879,Lookout Valley 1
+1880,East Ridge 4
+1881,Soddy Daisy 1
+1882,Bakewell 2
+1883,Concord 5
+1884,Northwoods 2
+1885,Eastside 2
+1886,Soddy Daisy 3
+1887,Soddy Daisy 2
+1888,DuPont
+1889,Missionary Ridge
+1890,Harrison 5
+1891,Lakesite
+1892,Dallas 1
+1893,Tyner 2
+1894,Harrison 2
+1895,Concord 4
+1896,Bakewell 1
+1897,Collegedale 4
+1898,Collegedale 5
+1899,Collegedale 1
+1900,Apison 1
+1901,Riverview
+1902,Collegedale 2
+1903,Mountain Creek 1
+1904,Red Bank 3
+1905,Ganns
+1906,Pleasant Grove 1
+1907,Hixson 3
+1908,Hixson 2
+1909,Murray Hills 2
+1910,Harrison 1
+1911,Ooltewah 3
+1912,Snowhill 2
+1913,Ooltewah 5
+1914,Ooltewah 1
+1915,Snowhill 1
+1916,Ooltewah 4
+1917,Lookout Valley 2
+1918,Signal Mountain 1
+1919,Kingspoint 2
+1920,St Elmo 2
+1921,Alton Park 2
+1922,Lookout Mountain
+1923,Walden
+1924,Fairmount
+1925,Amnicola
+1926,Bushtown
+1927,Summit 1
+1928,Apison 3
+1929,Stuart Heights
+1930,Ridgedale 1
+1931,Eastside 1
+1932,Collegedale 3
+1933,Lupton City
+1934,Harrison 3
+1935,Summit 4
+1936,Summit 2
+1937,East Brainerd 1
+1938,Westview 3
+1939,Westview 2
+1940,Westview 1
+1941,Summit 3
+1942,Airport
+1943,Brainerd
+1944,Woodmore 1
+1945,Mountain Creek 2
+1946,Apison 2
+1947,Avondale
+1948,East Lake
+1949,Kingspoint 1
+1950,Red Bank 1
+1951,Ooltewah 2
+1952,Northwoods 1
+1953,Collegedale 6
+1954,Pleasant Grove 2
+1955,Signal Mountain 2
+1956,Downtown 1
+1957,Harrison 4
+1958,North Chattanooga 2
+1959,Mountain Creek 3
+1960,St Elmo 1
+1961,Northgate 1
+1962,Ridgeside
+1963,Eastdale
+1964,Glenwood
+1965,Soddy Daisy 4
+1966,Northgate 2
+1967,Red Bank 2
+1968,Moccasin Bend
+1969,Flat Top Mountain
+1970,Middle Valley 2
+1971,Hixson 1
+1972,Alton Park 1
+1973,Ridgedale 2
+1974,East Chattanooga 2
+1975,Bonny Oaks
+1976,Falling Water
+1977,Ooltewah 6
+1978,Concord 6
+1979,Meadowview
+1980,Concord 3
+1981,Harrison 6
+1982,Middle Valley 1

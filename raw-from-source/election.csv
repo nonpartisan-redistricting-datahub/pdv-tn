@@ -1,0 +1,2023 @@
+,Precinct
+0,Andersonville
+1,Briceville
+2,Bull Run
+3,Clinton
+4,Clinton High
+5,Claxton
+6,Clinton Middle
+7,Dutch Valley
+8,Emory Valley
+9,Fairview
+10,Glen Alpine
+11,Glenwood
+12,Hendrix Creek
+13,Highland View
+14,Lake City MS
+15,Marlow
+16,North Clinton
+17,Norris
+18,Norwood
+19,Oak Ridge
+20,Pine Valley
+21,Robertsville
+22,Rosedale
+23,Rocky Top
+24,South Clinton
+25,Woodland
+26,West Hills
+27,1-1 Wartrace
+28,1-2 Bell Buckle
+29,2-3 Fair Haven
+30,3-3 Unionville
+31,4-3 Bedford
+32,5-2 Flat Creek
+33,5-5 Normandy
+34,6-1 East Side
+35,7-1 Deery Eakin
+36,8-1 Thomas
+37,9-2 Southside
+38,Early Voting - Write-Ins
+39,1 Holladay
+40,2 Camden Jr High
+41,3 Camden City Hall
+42,4 Camden Elementary
+43,5 Library
+44,6 Big Sandy
+45,1-1 Dill
+46,1-2 Griffith
+47,1-3 Mt. Crest
+48,2-1 Cold Springs
+49,2-2 Luminary
+50,3-1 Brayton
+51,3-2 Rigsby
+52,4-1 Pikeville
+53,5-1 Bellview
+54,5-2 Nine Mile
+55,6-1 Lee Station
+56,6-2 Lusk
+57,Alcoa
+58,Beech Grove
+59,Big Springs
+60,Board of Education
+61,Carpenters
+62,Chilhowee View
+63,Eagleton MS Cafeteria
+64,Everett
+65,Fairview
+66,Friendsville
+67,Happy Valley
+68,Heritage
+69,John Sevier
+70,Lanier
+71,Louisville
+72,Martin Luther King
+73,Maryville College
+74,Maryville HS
+75,Maryville Jr High
+76,Maryville Municipal
+77,Mentor
+78,Middlesettlements
+79,Miser Station
+80,Montvale
+81,Oak Street
+82,Oakview
+83,Pellissippi Campus
+84,Porter
+85,Prospect
+86,Rockford
+87,Townsend
+88,Walland
+89,William Blount HS
+90,Wm Blount Academy
+91,1-1 McDonald
+92,1-2 Prospect
+93,1-3 Hopewell
+94,2-1 E.L. Ross
+95,2-2 Walker Valley
+96,3-1 Lee University
+97,3-2 Senior Center
+98,4-1 Oak Grove
+99,4-2 Michigan Ave
+100,5-1 Blythe/Bower
+101,5-2 Museum
+102,6-1 Valley View
+103,6-2 Blue Springs
+104,6-3 Waterville
+105,6-4 Black Fox
+106,7-1 Stuart
+107,7-2 Cleveland High
+108,Early Voting - Write-Ins
+109,1-1 Alder Springs
+110,1-2 Demory
+111,1-3 Pinecrest
+112,1-4 Valley View
+113,1-5 Well Springs
+114,2-1 College Hill
+115,2-2 East LaFollette
+116,2-3 LaFollette ES
+117,3-1 CCHS
+118,3-2 Jacksboro Sta
+119,3-3 West LaFollette
+120,4-1 Caryville
+121,4-2 Clinchmore
+122,4-3 Jacksboro
+123,4-4 Ridgewood
+124,5-1 Elk Valley
+125,5-2 Habersham
+126,5-3 Jellico
+127,5-4 Newcomb
+128,5-5 White Oak
+129,1-1 Westside
+130,2-1 Auburntown
+131,2-2 Gassaway
+132,2-3 Pleasant Ridge
+133,2-4 Short Mountain
+134,3-2 Woodland
+135,4-1 Eastside
+136,4-2 Short Mountain
+137,5-1 Woodbury
+138,Early Voting - Write-Ins
+139,Lavinia
+140,Trezevant
+141,McLemoresville
+142,Cedar Grove
+143,Clarksburg
+144,Macedonia
+145,Civic Center
+146,Huntingdon
+147,Buena Vista
+148,Bruceton
+149,Hollow Rock
+150,Vale
+151,Atwood
+152,Senior Citizens
+153,Cannon
+154,Concord
+155,Westport
+156,Bethel College
+157,McKenzie
+158,Hunter
+159,Midway
+160,Unaka
+161,Roan Mountain
+162,Tiger Valley
+163,Central
+164,Keenburg
+165,Range
+166,Watauga
+167,Courthouse
+168,Eastside
+169,National Guard
+170,Siam
+171,Happy Valley
+172,Elk Mills
+173,Hampton
+174,Little Milligan
+175,Valley Forge
+176,Gap Creek
+177,Westside
+178,Harold McCormick
+179,High School
+180,Early Voting - Write-Ins
+181,1-1 County Library
+182,2-2 East Cheatham
+183,3-1 Pleasant View
+184,4-1 West Cheatham
+185,4-3 Sycamore
+186,5-1 Greenbrier
+187,5-2 Pegram
+188,6-1 Harpeth
+189,1-2 Enville
+190,1-5 Sweet Lips
+191,1-6 Harmony
+192,2-1 Jacks Creek
+193,2-2 Friendship
+194,3-2 Montezuma
+195,3-4 Masseyville
+196,3-6 Deanburg
+197,4-1 West Chester
+198,4-1 West Chester - City
+199,5-1 East Chester
+200,5-1 East Chester - City
+201,6-1 City Hall
+202,1-1 Tazewell
+203,2-1 Clouds
+204,2-2 Goin
+205,2-3 Sandlick
+206,3-1 Lone Mountain
+207,3-2 New Tazewell
+208,4-1 Gibson Hall
+209,4-2 Howard's Quarter
+210,4-3 Liberty
+211,4-4 Springdale
+212,5-1 Big Spring Union
+213,6-1 Harrogate
+214,7-1 Arthur
+215,7-2 Cumberland Gap
+216,8-1 Rogers Mill
+217,8-2 Vanbebber Sprngs
+218,9-1 Clairfield
+219,1 Dentons Cross Road
+220,2 Hermitage Springs
+221,3 Celina
+222,4-1 Maple Grove
+223,4-2 Butlers Landing
+224,5-1 Beech Bethany
+225,5-2 Pea Ridge
+226,Del Rio
+227,Grassy Fork
+228,Edwina
+229,Bridgeport
+230,Long Creek
+231,Houston Valley
+232,Parrottsville
+233,Centerview
+234,Forest Hill
+235,Rankin
+236,Armory
+237,Edgemont
+238,Cocke County High
+239,Cosby
+240,Smoky Mountain
+241,Newport Grammar
+242,Central
+243,Northport
+244,West End
+245,1 Ada Wright CC
+246,2 St Paul
+247,3 Trinity
+248,4 First Baptist
+249,5 Hillsboro
+250,6 TN Vocational Center
+251,7 Forest Mill
+252,8 New Union
+253,9-1 Pocahontas
+254,9-2 Summitville
+255,10 Mt. Ararat
+256,11 Fredonia
+257,12 North Coffee
+258,13-1 Blanton's Chapel
+259,13-2 Grace Baptist
+260,14 Hickerson
+261,15 Grace Baptist
+262,16 Lion's Club
+263,17 National Guard Armory
+264,18 First Christian
+265,19 CD Stamps Center
+266,20 Sr Citizens Center
+267,21 Wilson Ave
+268,01
+269,02
+270,03
+271,04
+272,05
+273,06
+274,07
+275,08
+276,09
+277,10
+278,11
+279,12
+280,1 Cornerstone
+281,2 Complex 2
+282,3 Homestead
+283,3 Dorton
+284,3 Linary
+285,3 Big Lick
+286,4 Tabor
+287,4 Bakers
+288,4 Oak Hill
+289,5 Lantana
+290,5 Vandever
+291,5 Tansi
+292,6 Crab Orchard
+293,6 Chestnut Hill
+294,6 Ozone-Pineview
+295,6 Grassy Cove
+296,7 Rinnie
+297,7 Woody
+298,7 Mayland
+299,8 Pleasant Hill
+300,8 Pomona
+301,8 Midway
+302,9 Fairfield North
+303,9 Fairfield South
+304,Early Voting - Write-Ins
+305,01-1
+306,01-2
+307,01-3
+308,01-4
+309,01-5
+310,02-1
+311,02-2
+312,02-3
+313,02-4
+314,02-5
+315,03-1
+316,03-2
+317,03-3
+318,03-4
+319,03-5
+320,03-6
+321,04-1
+322,04-2
+323,04-3
+324,04-4
+325,05-1
+326,05-2
+327,05-3
+328,05-4
+329,05-5
+330,06-1
+331,06-2
+332,06-3
+333,06-4
+334,06-5
+335,07-1
+336,07-2
+337,07-3
+338,07-4
+339,07-5
+340,07-6
+341,08-1
+342,08-2
+343,08-3
+344,08-4
+345,09-1
+346,09-2
+347,09-3
+348,10-1
+349,10-2
+350,10-3
+351,10-4
+352,10-5
+353,10-6
+354,11-1
+355,11-2
+356,11-3
+357,11-4
+358,12-1
+359,12-2
+360,12-3
+361,12-4
+362,12-5
+363,13-1
+364,13-2
+365,13-3
+366,13-4
+367,14-1
+368,14-2
+369,14-3
+370,14-4
+371,14-5
+372,15-1
+373,15-2
+374,15-3
+375,15-4
+376,15-5
+377,16-1
+378,16-2
+379,16-3
+380,16-4
+381,16-5
+382,17-1
+383,17-2
+384,17-3
+385,17-4
+386,17-5
+387,17-6
+388,17-7
+389,18-1
+390,18-2
+391,18-3
+392,18-4
+393,18-5
+394,19-1
+395,19-2
+396,19-3
+397,19-4
+398,19-5
+399,19-6
+400,20-1
+401,20-2
+402,20-3
+403,21-1
+404,21-2
+405,21-3
+406,21-4
+407,22-1
+408,22-2
+409,22-3
+410,22-4
+411,23-1
+412,23-2
+413,23-3
+414,23-4
+415,23-5
+416,24-1
+417,24-2
+418,24-3
+419,24-4
+420,24-5
+421,24-6
+422,25-1
+423,25-2
+424,25-3
+425,25-4
+426,26-1
+427,26-2
+428,26-3
+429,26-4
+430,27-1
+431,27-2
+432,27-3
+433,28-1
+434,28-2
+435,28-3
+436,29-1
+437,29-2
+438,29-3
+439,29-4
+440,30-1
+441,30-2
+442,30-3
+443,30-4
+444,31-1
+445,31-2
+446,31-3
+447,31-4
+448,32-1
+449,32-2
+450,32-3
+451,32-4
+452,33-1
+453,33-2
+454,33-3
+455,33-4
+456,34-1
+457,34-2
+458,34-3
+459,34-4
+460,34-5
+461,35-1
+462,35-2
+463,35-3
+464,35-4
+465,Absentee
+466,Early Voting - Write-Ins
+467,Provisional - Write-Ins
+468,1-1 Dunbar
+469,2-1 Liberty
+470,2-2 Scotts Hill
+471,3-1 Beacon
+472,3-2 Decaturville
+473,4-1 Decaturville
+474,5-1 Parsons
+475,6-1 Parsons
+476,7-1 Jeanette
+477,7-2 Perryville
+478,8-1 Parsons
+479,9-1 Beacon
+480,9-2 Hydro
+481,1-1 Alexandria
+482,1-2 Temperence Hall
+483,1-3 Edgar Evins Park
+484,2-1 Liberty
+485,2-2 Dowelltown
+486,2-3 Snows Hill
+487,3-1 Church of God
+488,4-2 Rock Castle
+489,4-3 Courthouse
+490,5-1 Johnson Chapel
+491,5-2 County Complex
+492,6-1 Belk
+493,6-2 Keltonburg
+494,6-3 Blue Springs
+495,7-1 Church of Christ
+496,Early Voting - Write-Ins
+497,1-1
+498,1-2
+499,2-1
+500,2-2
+501,3-1
+502,3-2
+503,4-1
+504,5-1
+505,6-1
+506,6-2
+507,7-1
+508,8-1
+509,9-1
+510,10-1
+511,11-1
+512,12-1
+513,12-2
+514,A1- Bonicord
+515,A2- Fowlkes
+516,B- Newbern
+517,C1- Tatumville
+518,C2- Trimble
+519,C3- Roellen
+520,D1- Millsfield
+521,D2- Bogota
+522,E1- Finley
+523,E2- Lenox
+524,F- Dyer Co Central
+525,G- Courthouse
+526,H- E. Dyersburg
+527,I1- Community Center
+528,I2- Hurricane Hill
+529,J- North Dyersburg
+530,Early voting
+531,Somerville City
+532,Fayette Corner
+533,Garnett
+534,Braden
+535,Gallaway
+536,Oakland
+537,Hickory Withe
+538,Elba
+539,Piperton
+540,Rossville
+541,Macon
+542,Williston
+543,Moscow
+544,Parks
+545,LaGrange
+546,Early Voting - Write-Ins
+547,Allardt
+548,Armathwaite
+549,Banner Springs
+550,Community Center
+551,Courthouse
+552,Clarkrange
+553,Crossroads
+554,East Jamestown
+555,Grimsley
+556,Pine Haven
+557,Pall Mall
+558,Tinchtown
+559,West Fentress
+560,Early Voting - Write-Ins
+561,1-1 Annex
+562,2-1 Clark Memorial
+563,3-1 Broadview
+564,3-2 Huntland
+565,3-3 Walnut Grove
+566,4-1 Belvidere
+567,4-2 Cowan
+568,4-3 Liberty
+569,5-1 Keith Springs
+570,5-2 Sewanee
+571,5-3 Sherwood
+572,6-1 Alto/Oak Grove
+573,6-2 Capitol Hill
+574,6-3 UTSI
+575,7-1 North Lake
+576,7-2 CG/Winchester Springs
+577,8-1 Decherd
+578,8-2 Estill Springs
+579,Early Voting - Write-Ins
+580,1-1 Medina
+581,1-2 Sitka
+582,2 Humboldt Church
+583,3 Bailey Park
+584,4 St James Baptist
+585,5 Lane Chapel Church
+586,6 Humboldt HS
+587,6-4 Gibson
+588,7-2 Fruitland
+589,8-1 Edison
+590,8-2 Brazil
+591,9 Courthouse
+592,10 Agri-Plex
+593,11-2 Moore's Chapel
+594,11-4 Union Central
+595,11-5 Skullbone
+596,12 Milan CPC
+597,13 Milan Polk Clark
+598,14 Milan 1stAssembly
+599,15 Milan Municipal
+600,16 Rutherford
+601,16-1 Yorkville
+602,16-2 Kenton
+603,17-1 Bradford
+604,18-1 Laneview
+605,18-2 Good Luck
+606,19-1 Dyer
+607,19-2 Currie
+608,1A Ardmore
+609,1B Prospect
+610,2A Minor Hill
+611,2B Airport
+612,3A Richland Trace
+613,3B Campbellsville
+614,4A Lynnville
+615,4B Odd Fellows Hall
+616,5A TCAT
+617,5B Agri Park
+618,6A Martin
+619,6B Bridgeforth
+620,7A GCHS
+621,7B Rec Center
+622,1-1
+623,1-2
+624,2-1
+625,2-2
+626,3-1
+627,3-2
+628,4-1
+629,4-2
+630,5-1
+631,5-2
+632,1 Baileyton
+633,4 Camp Creek
+634,2 Chuckey Doak
+635,4 Courthouse
+636,2 Chuckey
+637,5 Debusk
+638,3 Doak
+639,7 Glenwood
+640,7 High School
+641,6 McDonald
+642,6 Mosheim
+643,5 Middle School
+644,5 Nolachuckey
+645,1 Ottway
+646,5 South Greene
+647,3 Tusculum View
+648,1 West Pines
+649,Altamont
+650,Beersheba Springs
+651,Hubbard's Cove
+652,Tarlton
+653,Central
+654,Collins
+655,Cross Roads
+656,Pelham
+657,Coalmont
+658,Gruetli-Laager
+659,Palmer
+660,Monteagle
+661,Tracy City
+662,01-1
+663,02-1
+664,03-1
+665,04-1
+666,05-1
+667,06-1
+668,07-1
+669,08-1
+670,09-1
+671,09-2
+672,10-1
+673,10-2
+674,11-1
+675,11-2
+676,12-1
+677,13-1
+678,14-1
+679,175 Airport
+680,212 Alton Park 1
+681,214 Alton Park 2
+682,003 Amnicola
+683,050 Apison 1
+684,118 Apison 2
+685,216 Apison 3
+686,004 Avondale
+687,184 Bakewell 1
+688,183 Bakewell 2
+689,051 Birchwood
+690,005 Bonny Oaks
+691,006 Brainerd
+692,007 Brainerd Hills
+693,008 Bushtown
+694,052 Collegedale 1
+695,122 Collegedale 2
+696,167 Collegedale 3
+697,204 Collegedale 4
+698,217 Collegedale 5
+699,220 Collegedale 6
+700,012 Concord 1
+701,093 Concord 2
+702,141 Concord 3
+703,181 Concord 4
+704,177 Concord 5
+705,178 Concord 6
+706,206 Concord 7
+707,208 Courthouse 1
+708,196 Courthouse 2
+709,014 Dalewood
+710,185 Dallas 1
+711,172 Dallas 2
+712,199 Downtown 1
+713,197 Downtown 2
+714,189 DuPont
+715,017 East Brainerd 1
+716,104 East Brainerd 2
+717,018 East Chattanooga 1
+718,192 East Chattanooga 2
+719,019 East Lake
+720,053 East Ridge 1
+721,054 East Ridge 2
+722,055 East Ridge 3
+723,056 East Ridge 4
+724,195 Eastdale
+725,094 Eastgate 1
+726,095 Eastgate 2
+727,209 Eastside 1
+728,132 Eastside 2
+729,067 Fairmount
+730,187 Falling Water
+731,069 Flat Top Mountain
+732,070 Ganns
+733,023 Glenwood
+734,058 Harrison 1
+735,090 Harrison 2
+736,098 Harrison 3
+737,140 Harrison 4
+738,180 Harrison 5
+739,218 Harrison 6
+740,025 Hixson 1
+741,088 Hixson 2
+742,101 Hixson 3
+743,190 Kingspoint 1
+744,191 Kingspoint 2
+745,176 Kingspoint 3
+746,028 Lake Hills
+747,071 Lakesite
+748,213 Lookout Mountain
+749,048 Lookout Valley 1
+750,092 Lookout Valley 2
+751,029 Lupton City
+752,059 Meadowview
+753,188 Middle Valley 1
+754,186 Middle Valley 2
+755,031 Missionary Ridge
+756,032 Moccasin Bend
+757,033 Mountain Creek 1
+758,106 Mountain Creek 2
+759,215 Mountain Creek 3
+760,074 Mowbray
+761,171 Murray Hills 1
+762,182 Murray Hills 2
+763,035 North Chattanooga 1
+764,139 North Chattanooga 2
+765,194 Northgate 1
+766,193 Northgate 2
+767,037 Northwoods 1
+768,038 Northwoods 2
+769,060 Ooltewah 1
+770,089 Ooltewah 2
+771,143 Ooltewah 3
+772,205 Ooltewah 4
+773,169 Ooltewah 5
+774,168 Ooltewah 6
+775,075 Pleasant Grove 1
+776,103 Pleasant Grove 2
+777,076 Red Bank 1
+778,077 Red Bank 2
+779,078 Red Bank 3
+780,210 Ridgedale 1
+781,211 Ridgedale 2
+782,061 Ridgeside
+783,042 Riverview
+784,080 Sale Creek
+785,207 Signal Mountain 1
+786,200 Signal Mountain 2
+787,170 Snowhill 1
+788,179 Snowhill 2
+789,083 Soddy Daisy 1
+790,084 Soddy Daisy 2
+791,144 Soddy Daisy 3
+792,219 Soddy Daisy 4
+793,043 St. Elmo 1
+794,137 St. Elmo 2
+795,198 Stuart Heights
+796,063 Summit 1
+797,166 Summit 2
+798,203 Summit 3
+799,201 Summit 4
+800,046 Tyner 1
+801,097 Tyner 2
+802,085 Valdeau
+803,086 Walden
+804,064 Westview 1
+805,091 Westview 2
+806,096 Westview 3
+807,173 Woodmore 1
+808,174 Woodmore 2
+809,1st
+810,2nd
+811,3rd
+812,4th
+813,5th
+814,6th
+815,7th
+816,West Bolivar
+817,Bolivar
+818,Whiteville
+819,Hickory Valley
+820,Grand Junction
+821,Saulsbury
+822,Middleton
+823,Pocahontas
+824,Lacy
+825,Hornsby
+826,Silerton
+827,Dixie Hills
+828,Toone
+829,Airport 1-1
+830,Olivet 1-2
+831,Nixon 2-1
+832,Walkers 2-2
+833,Counce 3-1
+834,Southside 3-2
+835,Shiloh 4-1
+836,Crump 4-2
+837,Saltillo 5-1
+838,Morris Chapel 5-2
+839,Cerro Gordo 6-1
+840,Rhodes 6-2
+841,Olive Hill 6-3
+842,Whites 7-1
+843,Walnut Grove 7-2
+844,North 8-1
+845,Library 9-1
+846,Fairground 10-1
+847,6 Alum Well
+848,1 Allandale Inside
+849,1 Allandale Outside
+850,7 Bulls Gap Inside
+851,7 Bulls Gap Outside
+852,3 Carter's Valley
+853,6 Choptack
+854,2 Church Hill Inside
+855,2 Church Hill Outsid
+856,6 Clinch
+857,4 Dykes
+858,4 Keplar
+859,2 McPheeter's Bend
+860,6 Mooresburg
+861,1 Mount Carmel
+862,5 Rogersville No In
+863,4 Rogersville No Out
+864,5 Rogersville So In
+865,5 Rogersville So Out
+866,7 St. Clair
+867,7 Strahl/Cherokee
+868,4 Surgoinsville In
+869,4 Surgoinsville Out
+870,4 Upper Beech
+871,3 Wallace
+872,3 Watterson
+873,1-1
+874,2-1
+875,3-1
+876,4-1
+877,5-1
+878,6-1
+879,7-1
+880,8-1
+881,9-1
+882,9-2
+883,10-1
+884,1-1 Bargerton
+885,1-2 Beaver
+886,3-3 Fire Station #4
+887,3-4 Christian Chapel
+888,5-5 TN Tech Center
+889,4-6 Civic Center
+890,3-7 Darden
+891,6-8 Broad Street
+892,7-9 Middleburg
+893,3-10 Fire Sta #10
+894,7-11 Reagan
+895,7-12 Sardis
+896,7-13 Scotts Hill
+897,2-14 South Haven
+898,2-15 Westover
+899,1-1 Puryear
+900,1-2 Cottage Grove
+901,1-3 Buchanan
+902,2-1 Henry
+903,2-2 Mansfield
+904,2-3 Oakland
+905,3-1 Russwood
+906,3-2 Springville
+907,3-3 Jones Chapel
+908,4-1 Grove
+909,4-2 City Hall
+910,5-1 Henry Co High
+911,5-2 TN Tech Center
+912,Early Voting - Write-Ins
+913,1-1 Nunnelly
+914,1-2 Pinewood
+915,2-2 Fairfield
+916,2-3 East Bank
+917,3-1 East CC
+918,4-1 Lake Benson
+919,5-1 Mt. Pleasant
+920,5-2 Middle School
+921,5-3 Shady Grove
+922,6-1 Justice Center
+923,7-1 Nunnelly
+924,7-2 Pleasantville
+925,7-3 Brushy
+926,7-4 Coble
+927,Stewart
+928,Tennessee Ridge
+929,Erin
+930,Arlington
+931,Erin Elementary
+932,Houston Co Middle
+933,Griffins Chapel
+934,1-1 Jera
+935,1-2 Compassion Church
+936,2-3 WFCN
+937,3-4 MLEC
+938,4-5 NJMC
+939,5-6 Wildwood
+940,6-7 South McEwen
+941,7-8 North McEwen
+942,1-1
+943,1-2
+944,2-1
+945,2-2
+946,3-1
+947,3-2
+948,4-1
+949,4-2
+950,5-1
+951,5-2
+952,6-1
+953,6-2
+954,Early Voting - Write-Ins
+955,1 Dandridge ES
+956,2 Piedmont
+957,3 White Pine
+958,4 Jefferson ES
+959,5 Jefferson Middle
+960,6 Rush Strong
+961,7 New Market
+962,8-1 Chestnut Hill
+963,8-2 Swannsylvania
+964,9 Talbott School
+965,10 Jeff City Fire Dp
+966,1A Laurel
+967,1B Cold Springs
+968,2 Forge/Shouns
+969,3A Trade
+970,3B Neva
+971,4A Dry Run
+972,4B Butler
+973,5 Doe
+974,6 Shady
+975,7 City
+976,Early Voting - Write-Ins
+977,06 Green School
+978,09 Eternal Life Harvest
+979,10N Fort Sanders
+980,10S Howard Baker Center
+981,10W Howard Baker Center
+982,11 Central UMC
+983,12 Eastport
+984,13 Fair Garden
+985,14 Austin-East
+986,15 John T. O'Connor
+987,16 Larry Cox Sr Center
+988,17 Christenberry
+989,18 Lincoln Park
+990,19E Thrive Lonsdale
+991,19W Thrive Lonsdale
+992,20 Beaumont
+993,23 Westview
+994,24Q Sequoyah Hills
+995,25 South Knox CC
+996,26 Dogwood
+997,27 South Knox
+998,29 Anderson
+999,30 Sarah Moore Greene
+1000,31 Chilhowee
+1001,32 Spring Hill
+1002,33 Richard Yoakley
+1003,34 Fountain City Library
+1004,35 Shannondale
+1005,36 Gresham
+1006,37 Inskip Elementary
+1007,39 Inskip Rec Center
+1008,40 Norwood
+1009,41 Norwood
+1010,42 Pleasant Ridge
+1011,43 West Haven
+1012,44 Ridgedale
+1013,45 Bearden Middle
+1014,46 1st Nazarene
+1015,47 Bearden High
+1016,48 Pond Gap
+1017,49 Bearden Elementary
+1018,50N West High
+1019,50S West High
+1020,51 Deane Hill Rec Ctr
+1021,55 Lonas
+1022,56 Heiskell
+1023,57 Hills
+1024,58N Pedigo
+1025,58S Pedigo
+1026,59 Brickey
+1027,60 Fort Sumter
+1028,61 Halls
+1029,62 Hardin Valley
+1030,63 Karns
+1031,63N Karns North
+1032,64 Solway
+1033,65W Concord
+1034,65E Shoreline
+1035,65N Concord North
+1036,66N Farragut I
+1037,66S Farragut II
+1038,67 North Cedar Bluff
+1039,68 South Cedar Bluff
+1040,68E East Cedar Bluff
+1041,69E Bluegrass
+1042,69N West Valley
+1043,69W A. L. Lotts
+1044,69S Northshore
+1045,70E Amherst
+1046,70W Ball Camp
+1047,71 Rocky Hill
+1048,72 Dante
+1049,73 Powell
+1050,74 Shannondale
+1051,76 Sunnyview
+1052,77 Ramsey
+1053,78 Riverdale
+1054,79 Dora Kennedy
+1055,80 Corryton
+1056,81 Gibbs
+1057,82 Ellistown
+1058,84 Ritta
+1059,85 Skaggston
+1060,86 Carter
+1061,87 Thorngrove
+1062,89 Mt. Olive
+1063,90 South Doyle
+1064,92 Gap Creek
+1065,93 Hopewell
+1066,1 Tiptonville SR Citizens
+1067,2 Courthouse
+1068,3 Lake Co Middle
+1069,Henning 1
+1070,McBride 1
+1071,Conner 2
+1072,Ripley 2
+1073,Ripley 3
+1074,Ripley 4
+1075,Lightfoot 5
+1076,Arp 6
+1077,Central 6
+1078,Edith 7
+1079,Gates 7
+1080,Nankipoo 7
+1081,Halls 8
+1082,Early Voting - Write-Ins
+1083,01-1 St. Joseph
+1084,01-2 West Loretto
+1085,02-1 Loretto Civ Ctr
+1086,03-1 SE Lawrence
+1087,03-2 Centerpoint
+1088,04-1 Crossroads
+1089,05-1 Leoma
+1090,05-2 Gandy
+1091,06-1 Iron City
+1092,06-2 West Point
+1093,07-1 Lawrenceburg
+1094,08-1 New Prospect
+1095,09-1 Ethridge
+1096,09-2 Mars Hill
+1097,10-1 Howards
+1098,11-1 Summertown
+1099,12-1 Center
+1100,12-2 Henryville
+1101,13-1 West End
+1102,14-1 Crawfish Valley
+1103,15-1 David Crockett
+1104,16-1 Rotary Park
+1105,17-1 Sowell
+1106,18-1 E. O. Coffman
+1107,1-1
+1108,2-1
+1109,3-1
+1110,4-1
+1111,5-1
+1112,6-1
+1113,7-1
+1114,8-1
+1115,9-1
+1116,1-1 Blanche
+1117,1-2 Molino
+1118,1-3 Taft
+1119,2-1 Boonshill
+1120,2-2 Howell
+1121,2-3 Petersburg
+1122,3-1 Recreation Center
+1123,3-2 Liberty
+1124,4-1 Maranatha
+1125,4-2 FNB
+1126,5-1 Calvary
+1127,5-2 Armory
+1128,6-1 Fayetteville CPC
+1129,6-2 Belleville
+1130,6-3 Mulberry
+1131,7-1 Elora
+1132,7-2 Flintville
+1133,7-3 Kelso
+1134,8-1 Lincoln
+1135,8-2 South Lincoln
+1136,Loudon Mt Zion
+1137,Loudon
+1138,Loudon Outside
+1139,Lenoir City
+1140,Lenoir City Outside
+1141,Greenback
+1142,Glendale
+1143,Davis
+1144,Luttrell
+1145,Philadelphia
+1146,Browder
+1147,Eaton
+1148,Highland Park
+1149,Tellico V. North
+1150,Tellico V. South
+1151,Red Boiling Springs
+1152,Willette
+1153,County High School
+1154,County Junior High
+1155,Westside
+1156,Cross Roads
+1157,Armory
+1158,Welcome Center
+1159,Central
+1160,Lafayette
+1161,Early Voting - Write-Ins
+1162,1-1 Civic Center
+1163,1-2 Mt Moriah
+1164,2-1 Alexander
+1165,2-2 Aldersgate
+1166,2-3 Montessori
+1167,3-1 Board of Educ
+1168,3-2 Old Bells Rd #10
+1169,3-3 J-CIL
+1170,4-1 Masonic Lodge
+1171,4-2 Andrew Jackson
+1172,4-3 Festivities
+1173,5-1 Whitehall
+1174,5-2 Macedonia
+1175,5-3 North Parkway
+1176,6-1 South Side
+1177,6-2 South
+1178,6-3 Malesus
+1179,6-4 Medon
+1180,7-1 UT Experiment
+1181,7-2 TN Tech Ctr
+1182,7-3 Denmark
+1183,7-4 Mercer
+1184,8-1 Beech Bluff
+1185,8-2 Browns
+1186,8-3 Mifflin
+1187,8-4 East Union
+1188,8-5 Lesters
+1189,9-1 VFW
+1190,9-2 Pope
+1191,9-3 Three Way
+1192,10-1 Spring Creek
+1193,10-2 North East
+1194,10-3 North Side
+1195,South Pittsburg
+1196,New Hope
+1197,Orme
+1198,Lodge
+1199,Monteagle
+1200,Kimball
+1201,Shellmound
+1202,Haletown-Ladd
+1203,Jasper
+1204,Foster Falls
+1205,Whitwell Mountain
+1206,Sequatchie
+1207,Walden's Ridge
+1208,Elder Mountain
+1209,River Canyon
+1210,Whitwell
+1211,Powells Crossroad
+1212,1 Chapel Hill
+1213,2 Henry Horton Park
+1214,3 Belfast
+1215,4 Cornersville
+1216,5 Recreation Center
+1217,6 Parkview
+1218,7 Hardison
+1219,8 Lewisburg Gas
+1220,9 McKnight Center
+1221,Early Voting - Write-Ins
+1222,Riverside 1-1
+1223,West End 1-2
+1224,First Family 2-1
+1225,Highland 2-2
+1226,College Hill 3-1
+1227,St. Catherine 4-1
+1228,CP Church 5-1
+1229,Neapolis 5-2
+1230,Santa Fe 6-1
+1231,Spring Hill MS 6-2
+1232,Theta 6-3
+1233,Armory 7-1
+1234,Hampshire 7-2
+1235,Bear Creek 8-1
+1236,Culleoka 8-2
+1237,Bigbyville 9-1
+1238,Pleasant Heights 9-2
+1239,Mt. Pleasant 10-1
+1240,Rally Hill 11-1
+1241,Spring Hill 11-2
+1242,City Park
+1243,Etowah
+1244,Central
+1245,Englewood
+1246,Rogers Creek
+1247,Riceville
+1248,Calhoun
+1249,Niota
+1250,Ingleside
+1251,TCAT
+1252,Courthouse
+1253,North City
+1254,Jones Chapel
+1255,E K Baker
+1256,Mountain View
+1257,Bethel Springs 1-1
+1258,Finger 1-2
+1259,McNairy 1-3
+1260,Adamsville 2-1
+1261,Lawton 2-2
+1262,Leapwood 3-1
+1263,Northeast 3-2
+1264,Purdy 3-3
+1265,North Selmer 4-1
+1266,Rose Creek 4-2
+1267,Cypress 5-1
+1268,East View 5-2
+1269,Guys 5-3
+1270,Ramer 5-4
+1271,Courthouse SE 6-1
+1272,Michie 7-1
+1273,Stantonville 7-2
+1274,1 Eastview
+1275,2 Meigs South
+1276,3-1 City Hall
+1277,3-2 Courthouse
+1278,4 Meigs North
+1279,5 Ten Mile
+1280,01
+1281,02
+1282,03
+1283,04
+1284,05
+1285,06
+1286,07
+1287,08
+1288,09
+1289,10
+1290,11
+1291,12
+1292,14
+1293,1A St B ES
+1294,1B Emmanuel
+1295,2A St B MC
+1296,2B St B CC
+1297,3 East Montgomery
+1298,4A MCMS
+1299,4B WR Event Center
+1300,5A Smith
+1301,5B Madison
+1302,6A Cumberland
+1303,6B Bethel
+1304,7 Woodlawn
+1305,8A Bethel
+1306,8B Barkers Mill
+1307,9 Outlaw
+1308,10 Minglewood
+1309,11 Northwest
+1310,12 Ringgold
+1311,13 Byrns Darden
+1312,14 Glenellen
+1313,15 Sango
+1314,16 New Providence
+1315,17 Grace
+1316,18 Hazelwood
+1317,19 Oakland
+1318,20A Clarksville
+1319,20B Barksdale
+1320,21A Cumberland
+1321,21B Hilldale
+1322,Early Voting - Write-Ins
+1323,1 Courthouse
+1324,2 High School
+1325,3 Moore County Bldg
+1326,4 Lynchburg
+1327,5 Motlow College
+1328,1-1 Coalfield
+1329,2-1 Oakdale High
+1330,2-2 Mossy Grove
+1331,2-3 Oakdale
+1332,3-1 Wartburg
+1333,4-1 Lancing
+1334,4-2 Deer Lodge
+1335,4-3 Chestnut Ridge
+1336,5-1 Sunbright
+1337,5-2 Burrville
+1338,6-1 Kellys
+1339,6-2 Petros
+1340,1-1 South Fulton
+1341,2-1 Eddie Cox Sr Ctr
+1342,2-4 Woodland
+1343,3-2 Kenton
+1344,3-4 Rives
+1345,4-1 Fair Grounds
+1346,5-2 Cloverdale
+1347,5-4 Hornbeak
+1348,5-5 Samburg
+1349,6-1 Troy Sr Ctr
+1350,6-2 Obion Sr Ctr
+1351,7-2 Obion Co Library
+1352,1 Livingston
+1353,2-1 Allons
+1354,2-3 Monroe
+1355,3-2 Poteet
+1356,3-3 Wilson
+1357,3-4 Rushing Springs
+1358,4-2 Rickman
+1359,5-1 Hilham
+1360,5-2 Fairgrounds
+1361,Early Voting - Write-Ins
+1362,1-1 Cedar Creek
+1363,1-2 Marsh Creek
+1364,2-1 Pineview
+1365,2-2 Pope
+1366,3-1 Coon Creek
+1367,3-2 Flatwoods
+1368,4-1 Brush Creek
+1369,4-3 Lobelville
+1370,5-1 Linden
+1371,6-1 Lobelville
+1372,Community Center 1-1
+1373,Moodyville 1-2
+1374,High School 2-1
+1375,Chanute 3-1
+1376,Travisville 3-2
+1377,Boom 4-1
+1378,Oak Hill 4-2
+1379,Barnes Ridge 4-3
+1380,Bolestown 4-4
+1381,1 Delano
+1382,1A Polk Co High
+1383,1B Chilhowee
+1384,2 Greasy Creek
+1385,2A Springtown
+1386,2C South Polk
+1387,2D Shiloh Baptist
+1388,3 Ducktown
+1389,3A Copper Basin
+1390,3B Turtletown
+1391,1A Capshaw
+1392,2A Northeast
+1393,3A University
+1394,4A Burks
+1395,4B Monterey City
+1396,4C Poplar Grove
+1397,5A Cookeville CC
+1398,5C Prescott South
+1399,5F Dry Valley
+1400,6A Cane Creek
+1401,7A Burgess Falls
+1402,7D Twin Oak
+1403,8D Boma
+1404,8E Buffalo Valley
+1405,8F Cornerstone
+1406,8G Upperman
+1407,9B Double Springs
+1408,10A Pavilion
+1409,10B Sycamore
+1410,11A Bangham
+1411,11B Cookeville High
+1412,12A Algood Inside
+1413,12B Algood Outside
+1414,12C Brotherton
+1415,Early Voting - Write-Ins
+1416,1-1 Spring City North
+1417,1-2 Grandview
+1418,2-1 Spring City South
+1419,3-1 Wolf Creek
+1420,3-2 Evensville North
+1421,4-1 Evensville South
+1422,5-1 Dayton North
+1423,6-1 Dayton West
+1424,7-1 Frazier
+1425,8-1 Garrison
+1426,9-1 Graysville
+1427,9-2 Waldens Ridge
+1428,Cave Creek
+1429,Cherokee
+1430,Emory Heights
+1431,Emory
+1432,Fairview
+1433,Glen Alice
+1434,Midtown
+1435,Midway
+1436,Oak Hills
+1437,Oliver Springs
+1438,Orchard View
+1439,Paw Paw
+1440,Paint Rock
+1441,South Harriman
+1442,Dyllis
+1443,Eureka
+1444,Harriman Ward 1
+1445,Johnson Sch House
+1446,Kingston Ward 1
+1447,Kingston Ward 2
+1448,Lawnville
+1449,Renfro
+1450,Rockwood Ward 1
+1451,Rockwood Ward 2
+1452,01-1 East Robertson
+1453,02-1 Woodall
+1454,03-1 Ebenezer
+1455,03-2 Heritage
+1456,04-1 Watauga
+1457,05-1 Greenbrier
+1458,06-1 Coopertown
+1459,06-2 Mt. Sharon
+1460,07-1 Jo Byrns
+1461,07-2 Stroudsville
+1462,08-1 Krisle
+1463,08-2 HATS
+1464,08-3 Owens Chapel
+1465,09-1 Fair Assoc.
+1466,10-1 South Haven
+1467,11-1 Westside
+1468,11-2 Heads
+1469,12-1 Bransford
+1470,Paper Ballots
+1471,Early Voting - Write-Ins
+1472,1-1
+1473,2-1
+1474,2-2
+1475,2-3
+1476,3-1
+1477,3-2
+1478,4-1
+1479,4-2
+1480,4-3
+1481,4-4
+1482,5-1
+1483,5-2
+1484,6-1
+1485,6-2
+1486,7-1
+1487,7-2
+1488,8-1
+1489,8-2
+1490,8-3
+1491,8-4
+1492,9-1
+1493,9-2
+1494,10-1
+1495,10-2
+1496,11-1
+1497,11-2
+1498,12-1
+1499,12-2
+1500,12-3
+1501,13-1
+1502,13-2
+1503,14-1
+1504,14-2
+1505,15-1
+1506,15-2
+1507,16-1
+1508,16-2
+1509,16-3
+1510,17-1
+1511,17-2
+1512,17-3
+1513,18-1
+1514,18-2
+1515,19-1
+1516,19-2
+1517,20-1
+1518,20-2
+1519,21-1
+1520,21-2
+1521,Early Voting - Write-Ins
+1522,1-1 Fairview
+1523,2-1 Elgin
+1524,2-2 Robbins
+1525,3-1 Huntsville
+1526,3-2 Paint Rock
+1527,4-1 Helenwood
+1528,5-1 City Park
+1529,5-2 Winfield
+1530,6-1 Oneida
+1531,7-1 West Oneida
+1532,1 Lewis Chapel
+1533,2 Cagle
+1534,3 Courthouse
+1535,4 Electric Co-op
+1536,5 Chapel Hill
+1537,6 Daus
+1538,7 Justice Center
+1539,8 Lone Oak
+1540,9 Fredonia
+1541,Early Voting - Write-Ins
+1542,1-1 Caton's Chapel
+1543,1-2 Caton's Chapel
+1544,1-3 Jones Cove
+1545,1-4 Jones Cove
+1546,2-1 Wearwood
+1547,2-2 Waldens Creek
+1548,3-1 New Center
+1549,3-2 Harrisburg
+1550,4-1 Pigeon Forge
+1551,5-1 Sevierville
+1552,5-2 Senior Center
+1553,6-1 Seymour
+1554,7-1 Catlettsburg
+1555,7-2 Catlettsburg
+1556,7-3 Walnut Grove
+1557,8-1 Kodak
+1558,8-2 Kodak
+1559,8-3 Underwood
+1560,9-1 Seymour Primary
+1561,10-1 Boyds Creek
+1562,10-2 Whites
+1563,10-3 DuPont
+1564,11-1 Gatlinburg
+1565,11-2 Pittman Center
+1566,Memphis 01
+1567,Memphis 02
+1568,Memphis 11
+1569,Memphis 12
+1570,Memphis 13
+1571,Memphis 16-1
+1572,Memphis 16-3
+1573,Memphis 17
+1574,Memphis 20-1
+1575,Memphis 20-3
+1576,Memphis 21
+1577,Memphis 26
+1578,Memphis 28
+1579,Memphis 31-2
+1580,Memphis 31-4
+1581,Memphis 33
+1582,Memphis 34-2
+1583,Memphis 36-1
+1584,Memphis 36-2
+1585,Memphis 37
+1586,Memphis 41-3
+1587,Memphis 42-1
+1588,Memphis 44-1
+1589,Memphis 44-5
+1590,Memphis 45-2
+1591,Memphis 45-4
+1592,Memphis 46-2
+1593,Memphis 47
+1594,Memphis 49
+1595,Memphis 50-1
+1596,Memphis 50-2
+1597,Memphis 52-1
+1598,Memphis 53-1
+1599,Memphis 54
+1600,Memphis 55-2
+1601,Memphis 57
+1602,Memphis 58-1
+1603,Memphis 58-4
+1604,Memphis 59-5
+1605,Memphis 60-3
+1606,Memphis 60-5
+1607,Memphis 60-6
+1608,Memphis 60-7
+1609,Memphis 60-9
+1610,Memphis 61
+1611,Memphis 62
+1612,Memphis 64
+1613,Memphis 66
+1614,Memphis 67-1
+1615,Memphis 67-3
+1616,Memphis 68-1
+1617,Memphis 68-3
+1618,Memphis 69-2
+1619,Memphis 70-1
+1620,Memphis 70-2
+1621,Memphis 71-4
+1622,Memphis 72-3
+1623,Memphis 72-7
+1624,Memphis 73-1
+1625,Memphis 73-3
+1626,Memphis 74-1
+1627,Memphis 74-2
+1628,Memphis 74-5
+1629,Memphis 74-9
+1630,Memphis 75-1
+1631,Memphis 75-6
+1632,Memphis 75-7
+1633,Memphis 75-11
+1634,Memphis 76-4
+1635,Memphis 76-5
+1636,Memphis 76-6
+1637,Memphis 77-1
+1638,Memphis 77-3
+1639,Memphis 78-3
+1640,Memphis 79-1
+1641,Memphis 79-2
+1642,Memphis 79-3
+1643,Memphis 79-7
+1644,Memphis 80-2
+1645,Memphis 81-1
+1646,Memphis 81-3
+1647,Memphis 81-5
+1648,Memphis 81-7
+1649,Memphis 82-2
+1650,Memphis 83
+1651,Memphis 84-2
+1652,Memphis 86
+1653,Memphis 87-2
+1654,Memphis 87-3
+1655,Memphis 87-4
+1656,Memphis 88-2
+1657,Memphis 88-3
+1658,Memphis 88-4
+1659,Memphis 89-1
+1660,Memphis 89-2
+1661,Memphis 90-2
+1662,Memphis 90-3
+1663,Memphis 91-1
+1664,Memphis 91-2
+1665,Memphis 91-4
+1666,Memphis 92-1
+1667,Memphis 93-1
+1668,Memphis 93-3
+1669,Memphis 94-3
+1670,Memphis 94-6
+1671,Memphis 94-7
+1672,Memphis 94-8
+1673,Memphis 95-1
+1674,Memphis 95-5
+1675,Memphis 95-6
+1676,Memphis 95-7
+1677,Memphis 95-8
+1678,Memphis 96-1
+1679,Memphis 96-2
+1680,Arlington 01
+1681,Arlington 02
+1682,Bartlett 03
+1683,Bartlett 04
+1684,Bartlett 05
+1685,Bartlett 06
+1686,Bartlett 08
+1687,Bartlett 09
+1688,Bartlett 11
+1689,Bartlett 13
+1690,Brunswick 01
+1691,Brunswick 02
+1692,Collierville 01
+1693,Collierville 02
+1694,Collierville 03
+1695,Collierville 04
+1696,Collierville 05
+1697,Collierville 06
+1698,Collierville 07
+1699,Collierville 08
+1700,Collierville 09
+1701,Cordova 03
+1702,Cordova 04
+1703,Cordova 05
+1704,Eads
+1705,Forest Hills 01
+1706,Forest Hills 02
+1707,Forest Hills 03
+1708,Germantown 02
+1709,Germantown 03
+1710,Germantown 04
+1711,Germantown 05
+1712,Germantown 06
+1713,Germantown 08
+1714,Germantown 10
+1715,Germantown 11
+1716,Germantown 12
+1717,Lakeland 01
+1718,Lakeland 02
+1719,Lucy 01
+1720,Lucy 03
+1721,McConnell's
+1722,Millington 01
+1723,Millington 02
+1724,Morning Sun 01
+1725,Morning Sun 02
+1726,Ross 05
+1727,Ross 13
+1728,Ross 14
+1729,Ross 15
+1730,Ross 16
+1731,Stewartville
+1732,01 Defeated
+1733,02 Tanglewood
+1734,03 New Middleton
+1735,04 Rock City
+1736,05 Gordonsville
+1737,06 Carthage
+1738,07 South Carthage
+1739,08 Elmwood
+1740,Early Voting - Write-Ins
+1741,1-1 Indian Mound
+1742,2-1 Big Rock
+1743,3-1 Bumpus Mills
+1744,4-1 Church Street
+1745,5-1 Visitors Center
+1746,6-1 Public Library
+1747,7-1 Cumberland City
+1748,Paper Ballots
+1749,1A
+1750,2A
+1751,2B
+1752,2C
+1753,3A
+1754,4A
+1755,4B
+1756,4C
+1757,5A
+1758,5B
+1759,5C
+1760,6A
+1761,6B
+1762,6C
+1763,7A
+1764,7B
+1765,7C
+1766,8A
+1767,8B
+1768,9A
+1769,9B
+1770,10A
+1771,10B
+1772,11A
+1773,11B
+1774,1-1 Westmoreland
+1775,1-3 Corinth
+1776,2-1 Portland
+1777,2-2 Wiseman
+1778,3-1 Civic Center
+1779,3-3 Creekside
+1780,4-1 Howard
+1781,4-3 Cottontown
+1782,4-4 Union
+1783,5-1 FB Gallatin
+1784,5-2 Guild
+1785,6-1 Vol State
+1786,6-2 Gallatin HS
+1787,6-3 Jack Anderson
+1788,7-1 Whitten
+1789,7-3 Long Hollow
+1790,8-1 Brown
+1791,8-2 Hawkins
+1792,9-1 Hendersonville
+1793,9-2 Indian Lake
+1794,10-1 Walton Ferry
+1795,10-2 Merrol Hyde
+1796,11-1 Beech
+1797,11-2 Goodlettsville
+1798,11-3 Millersville
+1799,12-1 Oakmont
+1800,12-3 White House
+1801,1-1 NE Covington
+1802,2-3 SE Covington
+1803,3-6 Tipton West
+1804,4-11 Atoka
+1805,5-12 Munford
+1806,6-14 SW Tipton
+1807,7-19 Austin Peay
+1808,8-21 Wilkinsville
+1809,9-22 Brighton
+1810,Early Voting - Write-Ins
+1811,01 Senior Center
+1812,02 Cato
+1813,03 Beech Grove
+1814,04 Halltown
+1815,05 Templow
+1816,06 Walnut Grove
+1817,07 High School
+1818,08 Willard
+1819,09 City
+1820,10 Providence
+1821,Early Voting - Write-Ins
+1822,Flag Pond
+1823,Temple Hill
+1824,Love Chapel
+1825,High School
+1826,Rock Creek
+1827,Fishery
+1828,Limestone Cove
+1829,Unicoi
+1830,1-1 UCHS
+1831,2-1 Luttrell
+1832,3-1 Cedar Grove
+1833,3-2 Brock
+1834,4-1 Big Ridge
+1835,5-1 Sharp Chapel
+1836,5-2 Braden Chapel
+1837,6-1 Paulette
+1838,7-1 Plainview
+1839,Paper Ballots
+1840,Spencer 1
+1841,Cummingsville
+1842,Cedar Grove
+1843,Fall Creek Falls
+1844,Piney
+1845,White Hill
+1846,Spencer 5
+1847,Early Voting - Write-Ins
+1848,1-1 Civic Center
+1849,2-1 Courthouse
+1850,2-2 Airport
+1851,3-1 Westwood
+1852,3-2 Smartt
+1853,4-1 TSU
+1854,5-1 Mall
+1855,5-2 Towers
+1856,6-1 Caney Fork
+1857,7-1 Friendship
+1858,8-1 Fairview
+1859,8-3 Bonner
+1860,9-1 Morrison
+1861,9-2 Viola
+1862,10-1 Centertown UMC
+1863,10-2 Centertown CIC
+1864,11-1 Midway
+1865,11-2 Hwy 56 North
+1866,12-1 Northside
+1867,12-2 Lucky
+1868,Early Voting - Write-Ins
+1869,01 Fall Branch
+1870,02 Harmony
+1871,03 Gray East
+1872,04 Gray City
+1873,05 B.C. East
+1874,06 Sulphur Springs
+1875,07 Gray West
+1876,08 B.C. West
+1877,09 B.C. City
+1878,10 Lakeridge
+1879,11 Indian Trail
+1880,12 Princeton
+1881,13 Stratton
+1882,14 Bowmantown
+1883,15 Courthouse
+1884,16 Marvin's Chapel
+1885,17 Town Acres
+1886,18 Fairmont
+1887,19 Leesburg
+1888,20 Visitor's Center
+1889,21 Asbury
+1890,22 Fairhaven Outside
+1891,23 Woodland
+1892,24 Henry Johnson
+1893,25 Millennium
+1894,26 North Side
+1895,27 Keystone
+1896,28 South Side
+1897,29 Fairhaven Inside
+1898,30 Grace
+1899,31 Cherokee City
+1900,32 Cherokee Out
+1901,33 Telford
+1902,34 New Victory
+1903,35 Limestone
+1904,36 West View
+1905,37 Lamar
+1906,38 South Central
+1907,39 New Salem
+1908,40 Embreeville
+1909,Early Voting - Write-Ins
+1910,1 Waynesboro
+1911,2 Clifton
+1912,3-1 Beech Creek
+1913,3-2 Crazy Horse
+1914,3-3 Eagle Creek
+1915,4-1 Collinwood
+1916,4-2 Shawnettee
+1917,5-1 Big Cypress
+1918,5-2 Lutts
+1919,5-3 Wayne Co High
+1920,6-1 Holly Creek
+1921,6-2 South Gate
+1922,7-1 Buffalo River
+1923,7-2 Ovilla
+1924,Early Voting - Write-Ins
+1925,1A Palmersville
+1926,1B Latham
+1927,2A Gleason
+1928,3A Greenfield
+1929,4A Sharon
+1930,5A Martin CoC
+1931,6A Trinity
+1932,7A Martin Shepherd's
+1933,8A Martin FUMC
+1934,9A Dresden
+1935,1-1 Sparta Civic
+1936,1-2 Sparta Civic
+1937,2-1 Ag Fair Complex
+1938,2-2 Woodland Park
+1939,3-1 Ag Fair Complex
+1940,4-1 Woodland Park
+1941,4-2 Bondecroft
+1942,5-1 Doyle Civic
+1943,6-1 Central View
+1944,6-2 Cassville
+1945,7-1 Northfield
+1946,1-1
+1947,1-2
+1948,1-3
+1949,1-4
+1950,1-5
+1951,2-1
+1952,2-2
+1953,2-3
+1954,2-4
+1955,2-5
+1956,3-1
+1957,3-2
+1958,3-3
+1959,4-1
+1960,4-2
+1961,4-3
+1962,5-1
+1963,5-2
+1964,5-3
+1965,5-4
+1966,6-1
+1967,6-2
+1968,6-3
+1969,7-1
+1970,7-2
+1971,7-3
+1972,8-1
+1973,8-2
+1974,8-3
+1975,9-1
+1976,9-2
+1977,9-3
+1978,9-4
+1979,9-5
+1980,10-1
+1981,10-2
+1982,10-3
+1983,11-1
+1984,11-2
+1985,11-3
+1986,12-1
+1987,12-2
+1988,12-3
+1989,1-1
+1990,2-1
+1991,3-1
+1992,4-1
+1993,4-2
+1994,5-1
+1995,6-1
+1996,7-1
+1997,7-2
+1998,8-1
+1999,9-1
+2000,9-2
+2001,10-1
+2002,11-1
+2003,12-1
+2004,12-2
+2005,13-1
+2006,14-1
+2007,15-1
+2008,16-1
+2009,17-1
+2010,18-1
+2011,19-1
+2012,20-1
+2013,21-1
+2014,21-2
+2015,22-1
+2016,23-1
+2017,24-1
+2018,25-1
+2019,25-2
+2020,Provisional
+2021,Absentee

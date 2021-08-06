@@ -1,0 +1,1149 @@
+,NAME,VTD,G16PRERTru_x,G16PREDCli_x,G16PREIDeL_x,G16PRELJoh_x,G16PRESKen_x,G16PREISmi_x,G16PREGSte_x,G16PREOth_x,geometry,county,join_col,County,Precinct,G16PRERTru_y,G16PREDCli_y,G16PREIDeL_y,G16PRELJoh_y,G16PRESKen_y,G16PREISmi_y,G16PREGSte_y,G16PREOth_y,_merge
+2508,,,,,,,,,,,,,Clinton Middle,Anderson,Clinton Middle,453.0,87.0,1.0,9.0,0.0,1.0,3.0,0.0,right_only
+2509,,,,,,,,,,,,,Lake City MS,Anderson,Lake City MS,1219.0,250.0,2.0,18.0,1.0,8.0,4.0,4.0,right_only
+2510,,,,,,,,,,,,,Oak Ridge,Anderson,Oak Ridge,324.0,521.0,0.0,33.0,2.0,0.0,7.0,4.0,right_only
+2511,,,,,,,,,,,,,Rocky Top,Anderson,Rocky Top,303.0,91.0,4.0,14.0,2.0,4.0,3.0,0.0,right_only
+2512,,,,,,,,,,,,,1-1 Wartrace,Bedford,1-1 Wartrace,974.0,230.0,2.0,27.0,1.0,2.0,4.0,0.0,right_only
+2513,,,,,,,,,,,,,1-2 Bell Buckle,Bedford,1-2 Bell Buckle,794.0,213.0,1.0,42.0,2.0,3.0,8.0,0.0,right_only
+2514,,,,,,,,,,,,,2-3 Fair Haven,Bedford,2-3 Fair Haven,1605.0,298.0,3.0,31.0,0.0,10.0,7.0,1.0,right_only
+2515,,,,,,,,,,,,,3-3 Unionville,Bedford,3-3 Unionville,1472.0,289.0,1.0,32.0,2.0,2.0,9.0,3.0,right_only
+2516,,,,,,,,,,,,,4-3 Bedford,Bedford,4-3 Bedford,1582.0,308.0,4.0,20.0,0.0,6.0,6.0,1.0,right_only
+2517,,,,,,,,,,,,,5-2 Flat Creek,Bedford,5-2 Flat Creek,1318.0,271.0,1.0,32.0,1.0,6.0,5.0,0.0,right_only
+2518,,,,,,,,,,,,,5-5 Normandy,Bedford,5-5 Normandy,659.0,146.0,0.0,17.0,0.0,3.0,4.0,3.0,right_only
+2519,,,,,,,,,,,,,6-1 East Side,Bedford,6-1 East Side,490.0,374.0,4.0,24.0,0.0,2.0,8.0,0.0,right_only
+2520,,,,,,,,,,,,,7-1 Deery Eakin,Bedford,7-1 Deery Eakin,837.0,445.0,1.0,34.0,1.0,4.0,8.0,0.0,right_only
+2521,,,,,,,,,,,,,8-1 Thomas,Bedford,8-1 Thomas,744.0,436.0,2.0,16.0,0.0,1.0,6.0,0.0,right_only
+2522,,,,,,,,,,,,,9-2 Southside,Bedford,9-2 Southside,1011.0,385.0,6.0,31.0,1.0,8.0,10.0,0.0,right_only
+2523,,,,,,,,,,,,,Early Voting - Write-Ins,Bedford,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,right_only
+2524,,,,,,,,,,,,,Early Voting - Write-Ins,Bradley,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,156.0,right_only
+2525,,,,,,,,,,,,,Early Voting - Write-Ins,Cannon,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,right_only
+2526,,,,,,,,,,,,,Early Voting - Write-Ins,Carter,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,right_only
+2527,,,,,,,,,,,,,Early Voting - Write-Ins,Cumberland,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,right_only
+2528,,,,,,,,,,,,,Early Voting - Write-Ins,Davidson,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1277.0,right_only
+2529,,,,,,,,,,,,,Early Voting - Write-Ins,DeKalb,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,right_only
+2530,,,,,,,,,,,,,Early Voting - Write-Ins,Fayette,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,right_only
+2531,,,,,,,,,,,,,Early Voting - Write-Ins,Fentress,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,right_only
+2532,,,,,,,,,,,,,Early Voting - Write-Ins,Franklin,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,right_only
+2533,,,,,,,,,,,,,Early Voting - Write-Ins,Henry,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,right_only
+2534,,,,,,,,,,,,,Early Voting - Write-Ins,Jackson,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,right_only
+2535,,,,,,,,,,,,,Early Voting - Write-Ins,Johnson,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,right_only
+2536,,,,,,,,,,,,,Early Voting - Write-Ins,Lauderdale,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,right_only
+2537,,,,,,,,,,,,,Early Voting - Write-Ins,Macon,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,right_only
+2538,,,,,,,,,,,,,Early Voting - Write-Ins,Marshall,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,right_only
+2539,,,,,,,,,,,,,Early Voting - Write-Ins,Montgomery,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133.0,right_only
+2540,,,,,,,,,,,,,Early Voting - Write-Ins,Overton,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,right_only
+2541,,,,,,,,,,,,,Early Voting - Write-Ins,Putnam,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,right_only
+2542,,,,,,,,,,,,,Early Voting - Write-Ins,Robertson,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,right_only
+2543,,,,,,,,,,,,,Early Voting - Write-Ins,Rutherford,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,481.0,right_only
+2544,,,,,,,,,,,,,Early Voting - Write-Ins,Sequatchie,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,right_only
+2545,,,,,,,,,,,,,Early Voting - Write-Ins,Smith,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,right_only
+2546,,,,,,,,,,,,,Early Voting - Write-Ins,Tipton,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,right_only
+2547,,,,,,,,,,,,,Early Voting - Write-Ins,Trousdale,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,right_only
+2548,,,,,,,,,,,,,Early Voting - Write-Ins,Van Buren,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,right_only
+2549,,,,,,,,,,,,,Early Voting - Write-Ins,Warren,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,right_only
+2550,,,,,,,,,,,,,Early Voting - Write-Ins,Washington,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,right_only
+2551,,,,,,,,,,,,,Early Voting - Write-Ins,Wayne,Early Voting - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,right_only
+2552,,,,,,,,,,,,,1 Holladay,Benton,1 Holladay,846.0,213.0,2.0,9.0,0.0,0.0,3.0,1.0,right_only
+2553,,,,,,,,,,,,,2 Camden Jr High,Benton,2 Camden Jr High,784.0,265.0,1.0,18.0,2.0,1.0,5.0,0.0,right_only
+2554,,,,,,,,,,,,,3 Camden City Hall,Benton,3 Camden City Hall,725.0,228.0,2.0,15.0,0.0,0.0,2.0,0.0,right_only
+2555,,,,,,,,,,,,,4 Camden Elementary,Benton,4 Camden Elementary,782.0,247.0,4.0,13.0,3.0,5.0,0.0,0.0,right_only
+2556,,,,,,,,,,,,,5 Library,Benton,5 Library,760.0,270.0,2.0,15.0,4.0,2.0,1.0,0.0,right_only
+2557,,,,,,,,,,,,,6 Big Sandy,Benton,6 Big Sandy,819.0,251.0,1.0,13.0,4.0,3.0,3.0,4.0,right_only
+2558,,,,,,,,,,,,,1-1 Dill,Bledsoe,1-1 Dill,150.0,56.0,1.0,5.0,1.0,0.0,0.0,0.0,right_only
+2559,,,,,,,,,,,,,1-2 Griffith,Bledsoe,1-2 Griffith,84.0,42.0,1.0,4.0,0.0,0.0,1.0,1.0,right_only
+2560,,,,,,,,,,,,,1-3 Mt. Crest,Bledsoe,1-3 Mt. Crest,285.0,56.0,0.0,11.0,0.0,2.0,0.0,2.0,right_only
+2561,,,,,,,,,,,,,2-1 Cold Springs,Bledsoe,2-1 Cold Springs,379.0,98.0,0.0,9.0,0.0,0.0,0.0,3.0,right_only
+2562,,,,,,,,,,,,,2-2 Luminary,Bledsoe,2-2 Luminary,249.0,32.0,0.0,8.0,0.0,0.0,2.0,0.0,right_only
+2563,,,,,,,,,,,,,3-1 Brayton,Bledsoe,3-1 Brayton,332.0,36.0,0.0,5.0,0.0,6.0,2.0,0.0,right_only
+2564,,,,,,,,,,,,,3-2 Rigsby,Bledsoe,3-2 Rigsby,461.0,61.0,1.0,11.0,0.0,0.0,0.0,3.0,right_only
+2565,,,,,,,,,,,,,4-1 Pikeville,Bledsoe,4-1 Pikeville,414.0,198.0,1.0,9.0,1.0,1.0,5.0,2.0,right_only
+2566,,,,,,,,,,,,,5-1 Bellview,Bledsoe,5-1 Bellview,445.0,54.0,2.0,11.0,1.0,0.0,2.0,0.0,right_only
+2567,,,,,,,,,,,,,5-2 Nine Mile,Bledsoe,5-2 Nine Mile,212.0,34.0,0.0,6.0,0.0,0.0,0.0,0.0,right_only
+2568,,,,,,,,,,,,,6-1 Lee Station,Bledsoe,6-1 Lee Station,112.0,62.0,0.0,7.0,0.0,0.0,0.0,0.0,right_only
+2569,,,,,,,,,,,,,6-2 Lusk,Bledsoe,6-2 Lusk,499.0,168.0,1.0,9.0,1.0,0.0,6.0,1.0,right_only
+2570,,,,,,,,,,,,,Alcoa,Blount,Alcoa,1477.0,589.0,7.0,93.0,5.0,11.0,20.0,23.0,right_only
+2571,,,,,,,,,,,,,Board of Education,Blount,Board of Education,1461.0,565.0,0.0,88.0,1.0,12.0,13.0,8.0,right_only
+2572,,,,,,,,,,,,,Eagleton MS Cafeteria,Blount,Eagleton MS Cafeteria,2100.0,661.0,7.0,89.0,4.0,13.0,14.0,19.0,right_only
+2573,,,,,,,,,,,,,Maryville HS,Blount,Maryville HS,1636.0,764.0,5.0,99.0,5.0,13.0,14.0,20.0,right_only
+2574,,,,,,,,,,,,,Maryville Jr High,Blount,Maryville Jr High,1230.0,637.0,4.0,109.0,3.0,4.0,18.0,20.0,right_only
+2575,,,,,,,,,,,,,Oakview,Blount,Oakview,1461.0,319.0,1.0,45.0,1.0,3.0,8.0,7.0,right_only
+2576,,,,,,,,,,,,,William Blount HS,Blount,William Blount HS,954.0,238.0,2.0,47.0,4.0,6.0,3.0,5.0,right_only
+2577,,,,,,,,,,,,,Wm Blount Academy,Blount,Wm Blount Academy,2889.0,614.0,3.0,114.0,5.0,11.0,18.0,18.0,right_only
+2578,,,,,,,,,,,,,1-1 McDonald,Bradley,1-1 McDonald,1122.0,195.0,1.0,39.0,1.0,5.0,6.0,0.0,right_only
+2579,,,,,,,,,,,,,1-2 Prospect,Bradley,1-2 Prospect,2653.0,528.0,5.0,99.0,1.0,19.0,15.0,13.0,right_only
+2580,,,,,,,,,,,,,1-3 Hopewell,Bradley,1-3 Hopewell,1824.0,321.0,0.0,39.0,2.0,3.0,10.0,3.0,right_only
+2581,,,,,,,,,,,,,2-1 E.L. Ross,Bradley,2-1 E.L. Ross,3208.0,749.0,6.0,119.0,4.0,15.0,15.0,12.0,right_only
+2582,,,,,,,,,,,,,2-2 Walker Valley,Bradley,2-2 Walker Valley,2275.0,497.0,4.0,82.0,2.0,6.0,15.0,4.0,right_only
+2583,,,,,,,,,,,,,3-1 Lee University,Bradley,3-1 Lee University,998.0,518.0,3.0,79.0,5.0,8.0,23.0,11.0,right_only
+2584,,,,,,,,,,,,,3-2 Senior Center,Bradley,3-2 Senior Center,2259.0,626.0,11.0,95.0,7.0,16.0,15.0,11.0,right_only
+2585,,,,,,,,,,,,,4-1 Oak Grove,Bradley,4-1 Oak Grove,1998.0,310.0,4.0,62.0,3.0,8.0,11.0,3.0,right_only
+2586,,,,,,,,,,,,,4-2 Michigan Ave,Bradley,4-2 Michigan Ave,2472.0,472.0,3.0,73.0,4.0,8.0,13.0,6.0,right_only
+2587,,,,,,,,,,,,,5-1 Blythe/Bower,Bradley,5-1 Blythe/Bower,1736.0,454.0,5.0,65.0,0.0,2.0,10.0,5.0,right_only
+2588,,,,,,,,,,,,,5-2 Museum,Bradley,5-2 Museum,646.0,334.0,0.0,32.0,1.0,7.0,8.0,5.0,right_only
+2589,,,,,,,,,,,,,6-1 Valley View,Bradley,6-1 Valley View,1413.0,179.0,5.0,29.0,0.0,2.0,9.0,6.0,right_only
+2590,,,,,,,,,,,,,6-2 Blue Springs,Bradley,6-2 Blue Springs,1672.0,270.0,7.0,49.0,2.0,9.0,9.0,5.0,right_only
+2591,,,,,,,,,,,,,6-3 Waterville,Bradley,6-3 Waterville,886.0,193.0,0.0,26.0,4.0,3.0,5.0,5.0,right_only
+2592,,,,,,,,,,,,,6-4 Black Fox,Bradley,6-4 Black Fox,819.0,123.0,1.0,32.0,1.0,9.0,10.0,0.0,right_only
+2593,,,,,,,,,,,,,7-1 Stuart,Bradley,7-1 Stuart,2316.0,820.0,7.0,109.0,4.0,16.0,22.0,14.0,right_only
+2594,,,,,,,,,,,,,7-2 Cleveland High,Bradley,7-2 Cleveland High,1471.0,481.0,4.0,69.0,3.0,7.0,14.0,8.0,right_only
+2595,,,,,,,,,,,,,1-1 Alder Springs,Campbell,1-1 Alder Springs,345.0,65.0,1.0,6.0,0.0,0.0,2.0,0.0,right_only
+2596,,,,,,,,,,,,,1-2 Demory,Campbell,1-2 Demory,507.0,109.0,1.0,13.0,1.0,0.0,6.0,0.0,right_only
+2597,,,,,,,,,,,,,1-3 Pinecrest,Campbell,1-3 Pinecrest,205.0,66.0,0.0,5.0,2.0,2.0,0.0,0.0,right_only
+2598,,,,,,,,,,,,,1-4 Valley View,Campbell,1-4 Valley View,1019.0,199.0,1.0,18.0,2.0,6.0,4.0,3.0,right_only
+2599,,,,,,,,,,,,,1-5 Well Springs,Campbell,1-5 Well Springs,234.0,44.0,0.0,3.0,0.0,0.0,0.0,0.0,right_only
+2600,,,,,,,,,,,,,2-1 College Hill,Campbell,2-1 College Hill,209.0,55.0,1.0,5.0,0.0,0.0,2.0,0.0,right_only
+2601,,,,,,,,,,,,,2-2 East LaFollette,Campbell,2-2 East LaFollette,542.0,185.0,5.0,13.0,1.0,7.0,8.0,0.0,right_only
+2602,,,,,,,,,,,,,2-3 LaFollette ES,Campbell,2-3 LaFollette ES,874.0,190.0,4.0,23.0,0.0,3.0,0.0,3.0,right_only
+2603,,,,,,,,,,,,,3-1 CCHS,Campbell,3-1 CCHS,575.0,98.0,1.0,13.0,1.0,3.0,1.0,2.0,right_only
+2604,,,,,,,,,,,,,3-2 Jacksboro Sta,Campbell,3-2 Jacksboro Sta,1054.0,207.0,3.0,30.0,1.0,3.0,2.0,1.0,right_only
+2605,,,,,,,,,,,,,3-3 West LaFollette,Campbell,3-3 West LaFollette,385.0,113.0,3.0,8.0,3.0,1.0,3.0,0.0,right_only
+2606,,,,,,,,,,,,,4-1 Caryville,Campbell,4-1 Caryville,928.0,199.0,2.0,32.0,5.0,5.0,1.0,2.0,right_only
+2607,,,,,,,,,,,,,4-2 Clinchmore,Campbell,4-2 Clinchmore,31.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2608,,,,,,,,,,,,,4-3 Jacksboro,Campbell,4-3 Jacksboro,836.0,168.0,4.0,27.0,1.0,5.0,2.0,1.0,right_only
+2609,,,,,,,,,,,,,4-4 Ridgewood,Campbell,4-4 Ridgewood,497.0,132.0,4.0,16.0,1.0,4.0,3.0,1.0,right_only
+2610,,,,,,,,,,,,,5-1 Elk Valley,Campbell,5-1 Elk Valley,227.0,25.0,0.0,4.0,0.0,2.0,3.0,3.0,right_only
+2611,,,,,,,,,,,,,5-2 Habersham,Campbell,5-2 Habersham,376.0,53.0,0.0,9.0,2.0,1.0,0.0,0.0,right_only
+2612,,,,,,,,,,,,,5-3 Jellico,Campbell,5-3 Jellico,610.0,215.0,1.0,16.0,2.0,0.0,4.0,1.0,right_only
+2613,,,,,,,,,,,,,5-4 Newcomb,Campbell,5-4 Newcomb,267.0,71.0,0.0,8.0,0.0,0.0,3.0,1.0,right_only
+2614,,,,,,,,,,,,,5-5 White Oak,Campbell,5-5 White Oak,149.0,44.0,1.0,2.0,3.0,1.0,1.0,0.0,right_only
+2615,,,,,,,,,,,,,1-1 Westside,Cannon,1-1 Westside,1003.0,231.0,0.0,25.0,2.0,4.0,3.0,2.0,right_only
+2616,,,,,,,,,,,,,2-1 Auburntown,Cannon,2-1 Auburntown,302.0,88.0,0.0,5.0,0.0,0.0,2.0,0.0,right_only
+2617,,,,,,,,,,,,,2-2 Gassaway,Cannon,2-2 Gassaway,144.0,67.0,0.0,3.0,0.0,1.0,3.0,0.0,right_only
+2618,,,,,,,,,,,,,2-3 Pleasant Ridge,Cannon,2-3 Pleasant Ridge,218.0,66.0,0.0,9.0,0.0,0.0,4.0,0.0,right_only
+2619,,,,,,,,,,,,,2-4 Short Mountain,Cannon,2-4 Short Mountain,157.0,63.0,2.0,3.0,0.0,1.0,6.0,0.0,right_only
+2620,,,,,,,,,,,,,3-2 Woodland,Cannon,3-2 Woodland,797.0,153.0,2.0,23.0,1.0,3.0,5.0,3.0,right_only
+2621,,,,,,,,,,,,,4-1 Eastside,Cannon,4-1 Eastside,667.0,160.0,1.0,10.0,1.0,5.0,2.0,1.0,right_only
+2622,,,,,,,,,,,,,4-2 Short Mountain,Cannon,4-2 Short Mountain,205.0,59.0,0.0,8.0,1.0,0.0,0.0,0.0,right_only
+2623,,,,,,,,,,,,,5-1 Woodbury,Cannon,5-1 Woodbury,514.0,240.0,3.0,20.0,2.0,4.0,4.0,0.0,right_only
+2624,,,,,,,,,,,,,Lavinia,Carroll,Lavinia,280.0,42.0,0.0,6.0,1.0,0.0,0.0,0.0,right_only
+2625,,,,,,,,,,,,,Trezevant,Carroll,Trezevant,466.0,138.0,1.0,15.0,1.0,1.0,1.0,0.0,right_only
+2626,,,,,,,,,,,,,McLemoresville,Carroll,McLemoresville,270.0,82.0,2.0,8.0,0.0,1.0,3.0,0.0,right_only
+2627,,,,,,,,,,,,,Cedar Grove,Carroll,Cedar Grove,438.0,103.0,1.0,5.0,4.0,3.0,1.0,1.0,right_only
+2628,,,,,,,,,,,,,Cedar Grove,Van Buren,Cedar Grove,244.0,76.0,0.0,7.0,0.0,0.0,2.0,0.0,right_only
+2629,,,,,,,,,,,,,Clarksburg,Carroll,Clarksburg,591.0,85.0,0.0,9.0,2.0,1.0,5.0,2.0,right_only
+2630,,,,,,,,,,,,,Macedonia,Carroll,Macedonia,146.0,27.0,0.0,6.0,0.0,0.0,1.0,0.0,right_only
+2631,,,,,,,,,,,,,Civic Center,Carroll,Civic Center,1182.0,400.0,3.0,36.0,4.0,0.0,4.0,3.0,right_only
+2632,,,,,,,,,,,,,Huntingdon,Carroll,Huntingdon,836.0,230.0,3.0,19.0,2.0,5.0,2.0,3.0,right_only
+2633,,,,,,,,,,,,,Buena Vista,Carroll,Buena Vista,115.0,28.0,1.0,1.0,0.0,0.0,0.0,0.0,right_only
+2634,,,,,,,,,,,,,Bruceton,Carroll,Bruceton,438.0,142.0,1.0,11.0,1.0,0.0,2.0,0.0,right_only
+2635,,,,,,,,,,,,,Hollow Rock,Carroll,Hollow Rock,327.0,107.0,0.0,6.0,1.0,0.0,3.0,0.0,right_only
+2636,,,,,,,,,,,,,Vale,Carroll,Vale,90.0,18.0,0.0,5.0,0.0,0.0,1.0,0.0,right_only
+2637,,,,,,,,,,,,,Atwood,Carroll,Atwood,442.0,194.0,2.0,8.0,1.0,1.0,4.0,1.0,right_only
+2638,,,,,,,,,,,,,Senior Citizens,Carroll,Senior Citizens,475.0,245.0,2.0,9.0,1.0,1.0,5.0,3.0,right_only
+2639,,,,,,,,,,,,,Cannon,Carroll,Cannon,244.0,60.0,3.0,2.0,1.0,1.0,0.0,2.0,right_only
+2640,,,,,,,,,,,,,Concord,Carroll,Concord,210.0,89.0,1.0,4.0,0.0,2.0,2.0,0.0,right_only
+2641,,,,,,,,,,,,,Westport,Carroll,Westport,115.0,23.0,0.0,1.0,0.0,0.0,0.0,0.0,right_only
+2642,,,,,,,,,,,,,Bethel College,Carroll,Bethel College,807.0,208.0,2.0,25.0,1.0,2.0,3.0,6.0,right_only
+2643,,,,,,,,,,,,,McKenzie,Carroll,McKenzie,284.0,106.0,0.0,5.0,0.0,0.0,2.0,0.0,right_only
+2644,,,,,,,,,,,,,National Guard,Carter,National Guard,74.0,17.0,1.0,2.0,0.0,0.0,0.0,0.0,right_only
+2645,,,,,,,,,,,,,1-1 County Library,Cheatham,1-1 County Library,1444.0,670.0,4.0,80.0,1.0,12.0,11.0,15.0,right_only
+2646,,,,,,,,,,,,,2-2 East Cheatham,Cheatham,2-2 East Cheatham,1987.0,524.0,6.0,61.0,1.0,7.0,10.0,16.0,right_only
+2647,,,,,,,,,,,,,3-1 Pleasant View,Cheatham,3-1 Pleasant View,2138.0,542.0,2.0,98.0,0.0,9.0,13.0,9.0,right_only
+2648,,,,,,,,,,,,,4-1 West Cheatham,Cheatham,4-1 West Cheatham,1134.0,307.0,2.0,41.0,1.0,7.0,7.0,4.0,right_only
+2649,,,,,,,,,,,,,4-3 Sycamore,Cheatham,4-3 Sycamore,848.0,230.0,2.0,32.0,1.0,0.0,6.0,1.0,right_only
+2650,,,,,,,,,,,,,5-1 Greenbrier,Cheatham,5-1 Greenbrier,526.0,148.0,2.0,8.0,1.0,0.0,8.0,1.0,right_only
+2651,,,,,,,,,,,,,5-2 Pegram,Cheatham,5-2 Pegram,1281.0,552.0,4.0,57.0,4.0,7.0,16.0,11.0,right_only
+2652,,,,,,,,,,,,,6-1 Harpeth,Cheatham,6-1 Harpeth,1939.0,905.0,4.0,86.0,4.0,8.0,28.0,41.0,right_only
+2653,,,,,,,,,,,,,4-1 West Chester,Chester,4-1 West Chester,512.0,66.0,2.0,8.0,0.0,1.0,2.0,2.0,right_only
+2654,,,,,,,,,,,,,4-1 West Chester - City,Chester,4-1 West Chester - City,589.0,152.0,2.0,19.0,0.0,3.0,2.0,9.0,right_only
+2655,,,,,,,,,,,,,5-1 East Chester,Chester,5-1 East Chester,381.0,81.0,0.0,8.0,0.0,0.0,1.0,0.0,right_only
+2656,,,,,,,,,,,,,5-1 East Chester - City,Chester,5-1 East Chester - City,325.0,249.0,0.0,16.0,0.0,0.0,0.0,5.0,right_only
+2657,,,,,,,,,,,,,8-2 Vanbebber Sprngs,Claiborne,8-2 Vanbebber Sprngs,500.0,105.0,1.0,10.0,1.0,5.0,0.0,2.0,right_only
+2658,,,,,,,,,,,,,1 Dentons Cross Road,Clay,1 Dentons Cross Road,478.0,100.0,0.0,5.0,0.0,3.0,2.0,0.0,right_only
+2659,,,,,,,,,,,,,5-1 Beech Bethany,Clay,5-1 Beech Bethany,220.0,77.0,0.0,5.0,0.0,1.0,1.0,0.0,right_only
+2660,,,,,,,,,,,,,Cocke County High,Cocke,Cocke County High,387.0,78.0,1.0,6.0,0.0,0.0,1.0,0.0,right_only
+2661,,,,,,,,,,,,,Newport Grammar,Cocke,Newport Grammar,680.0,185.0,0.0,30.0,2.0,2.0,3.0,4.0,right_only
+2662,,,,,,,,,,,,,1 Ada Wright CC,Coffee,1 Ada Wright CC,639.0,261.0,3.0,24.0,2.0,3.0,8.0,1.0,right_only
+2663,,,,,,,,,,,,,2 St Paul,Coffee,2 St Paul,336.0,137.0,2.0,20.0,0.0,1.0,5.0,1.0,right_only
+2664,,,,,,,,,,,,,3 Trinity,Coffee,3 Trinity,778.0,262.0,4.0,25.0,1.0,6.0,11.0,5.0,right_only
+2665,,,,,,,,,,,,,4 First Baptist,Coffee,4 First Baptist,661.0,298.0,1.0,20.0,1.0,4.0,13.0,1.0,right_only
+2666,,,,,,,,,,,,,5 Hillsboro,Coffee,5 Hillsboro,723.0,217.0,1.0,11.0,2.0,3.0,5.0,2.0,right_only
+2667,,,,,,,,,,,,,6 TN Vocational Center,Coffee,6 TN Vocational Center,589.0,154.0,1.0,20.0,0.0,3.0,0.0,1.0,right_only
+2668,,,,,,,,,,,,,7 Forest Mill,Coffee,7 Forest Mill,732.0,192.0,1.0,19.0,0.0,0.0,3.0,1.0,right_only
+2669,,,,,,,,,,,,,8 New Union,Coffee,8 New Union,885.0,187.0,1.0,42.0,1.0,5.0,8.0,4.0,right_only
+2670,,,,,,,,,,,,,9-1 Pocahontas,Coffee,9-1 Pocahontas,482.0,102.0,1.0,10.0,0.0,4.0,2.0,3.0,right_only
+2671,,,,,,,,,,,,,9-2 Summitville,Coffee,9-2 Summitville,242.0,70.0,1.0,6.0,1.0,1.0,2.0,1.0,right_only
+2672,,,,,,,,,,,,,10 Mt. Ararat,Coffee,10 Mt. Ararat,652.0,180.0,0.0,17.0,1.0,3.0,5.0,1.0,right_only
+2673,,,,,,,,,,,,,11 Fredonia,Coffee,11 Fredonia,668.0,177.0,0.0,30.0,0.0,5.0,0.0,8.0,right_only
+2674,,,,,,,,,,,,,12 North Coffee,Coffee,12 North Coffee,821.0,176.0,2.0,21.0,1.0,0.0,8.0,1.0,right_only
+2675,,,,,,,,,,,,,13-1 Blanton's Chapel,Coffee,13-1 Blanton's Chapel,506.0,125.0,0.0,14.0,0.0,3.0,1.0,1.0,right_only
+2676,,,,,,,,,,,,,13-2 Grace Baptist,Coffee,13-2 Grace Baptist,434.0,72.0,1.0,11.0,0.0,1.0,1.0,0.0,right_only
+2677,,,,,,,,,,,,,14 Hickerson,Coffee,14 Hickerson,822.0,236.0,1.0,15.0,0.0,1.0,2.0,1.0,right_only
+2678,,,,,,,,,,,,,15 Grace Baptist,Coffee,15 Grace Baptist,897.0,323.0,3.0,28.0,3.0,2.0,1.0,9.0,right_only
+2679,,,,,,,,,,,,,16 Lion's Club,Coffee,16 Lion's Club,983.0,366.0,1.0,62.0,2.0,2.0,7.0,8.0,right_only
+2680,,,,,,,,,,,,,18 First Christian,Coffee,18 First Christian,614.0,233.0,1.0,32.0,2.0,4.0,3.0,1.0,right_only
+2681,,,,,,,,,,,,,20 Sr Citizens Center,Coffee,20 Sr Citizens Center,647.0,284.0,3.0,24.0,2.0,1.0,12.0,5.0,right_only
+2682,,,,,,,,,,,,,21 Wilson Ave,Coffee,21 Wilson Ave,668.0,296.0,1.0,34.0,4.0,5.0,8.0,8.0,right_only
+2683,,,,,,,,,,,,,01,Crockett,01,350.0,47.0,0.0,2.0,1.0,0.0,4.0,0.0,right_only
+2684,,,,,,,,,,,,,01,Monroe,01,1783.0,458.0,6.0,48.0,0.0,5.0,10.0,5.0,right_only
+2685,,,,,,,,,,,,,02,Crockett,02,384.0,70.0,0.0,4.0,0.0,2.0,1.0,0.0,right_only
+2686,,,,,,,,,,,,,02,Monroe,02,889.0,363.0,7.0,22.0,0.0,3.0,0.0,1.0,right_only
+2687,,,,,,,,,,,,,03,Crockett,03,332.0,112.0,1.0,2.0,0.0,0.0,1.0,0.0,right_only
+2688,,,,,,,,,,,,,03,Monroe,03,623.0,155.0,4.0,23.0,2.0,5.0,3.0,1.0,right_only
+2689,,,,,,,,,,,,,04,Crockett,04,365.0,69.0,1.0,7.0,0.0,0.0,0.0,1.0,right_only
+2690,,,,,,,,,,,,,04,Monroe,04,1352.0,312.0,1.0,45.0,3.0,7.0,8.0,5.0,right_only
+2691,,,,,,,,,,,,,05,Crockett,05,156.0,242.0,1.0,7.0,0.0,0.0,0.0,0.0,right_only
+2692,,,,,,,,,,,,,05,Monroe,05,1347.0,426.0,5.0,47.0,1.0,6.0,4.0,2.0,right_only
+2693,,,,,,,,,,,,,07,Crockett,07,244.0,125.0,1.0,3.0,1.0,0.0,2.0,0.0,right_only
+2694,,,,,,,,,,,,,07,Monroe,07,1450.0,367.0,3.0,49.0,2.0,6.0,5.0,7.0,right_only
+2695,,,,,,,,,,,,,08,Crockett,08,427.0,84.0,0.0,11.0,0.0,2.0,1.0,0.0,right_only
+2696,,,,,,,,,,,,,08,Monroe,08,495.0,98.0,0.0,22.0,0.0,1.0,2.0,0.0,right_only
+2697,,,,,,,,,,,,,1 Cornerstone,Cumberland,1 Cornerstone,1957.0,524.0,4.0,53.0,3.0,6.0,11.0,5.0,right_only
+2698,,,,,,,,,,,,,2 Complex 2,Cumberland,2 Complex 2,1222.0,346.0,4.0,40.0,3.0,8.0,9.0,0.0,right_only
+2699,,,,,,,,,,,,,3 Homestead,Cumberland,3 Homestead,849.0,201.0,0.0,29.0,0.0,2.0,4.0,1.0,right_only
+2700,,,,,,,,,,,,,3 Dorton,Cumberland,3 Dorton,321.0,52.0,0.0,8.0,0.0,1.0,4.0,0.0,right_only
+2701,,,,,,,,,,,,,3 Linary,Cumberland,3 Linary,623.0,125.0,1.0,20.0,1.0,0.0,8.0,3.0,right_only
+2702,,,,,,,,,,,,,3 Big Lick,Cumberland,3 Big Lick,523.0,121.0,0.0,7.0,0.0,4.0,2.0,0.0,right_only
+2703,,,,,,,,,,,,,4 Tabor,Cumberland,4 Tabor,710.0,110.0,1.0,16.0,2.0,1.0,4.0,0.0,right_only
+2704,,,,,,,,,,,,,4 Bakers,Cumberland,4 Bakers,542.0,95.0,1.0,8.0,1.0,0.0,3.0,2.0,right_only
+2705,,,,,,,,,,,,,4 Oak Hill,Cumberland,4 Oak Hill,963.0,200.0,1.0,25.0,2.0,2.0,3.0,0.0,right_only
+2706,,,,,,,,,,,,,5 Lantana,Cumberland,5 Lantana,587.0,163.0,1.0,21.0,0.0,0.0,3.0,0.0,right_only
+2707,,,,,,,,,,,,,5 Vandever,Cumberland,5 Vandever,648.0,98.0,1.0,13.0,0.0,1.0,4.0,3.0,right_only
+2708,,,,,,,,,,,,,5 Tansi,Cumberland,5 Tansi,1384.0,328.0,4.0,26.0,1.0,4.0,2.0,0.0,right_only
+2709,,,,,,,,,,,,,6 Crab Orchard,Cumberland,6 Crab Orchard,384.0,72.0,2.0,6.0,1.0,1.0,5.0,1.0,right_only
+2710,,,,,,,,,,,,,6 Chestnut Hill,Cumberland,6 Chestnut Hill,702.0,175.0,2.0,15.0,0.0,4.0,3.0,0.0,right_only
+2711,,,,,,,,,,,,,6 Ozone-Pineview,Cumberland,6 Ozone-Pineview,488.0,116.0,0.0,11.0,0.0,0.0,0.0,3.0,right_only
+2712,,,,,,,,,,,,,6 Grassy Cove,Cumberland,6 Grassy Cove,309.0,57.0,1.0,9.0,0.0,1.0,1.0,1.0,right_only
+2713,,,,,,,,,,,,,7 Rinnie,Cumberland,7 Rinnie,385.0,41.0,0.0,4.0,0.0,0.0,2.0,1.0,right_only
+2714,,,,,,,,,,,,,7 Woody,Cumberland,7 Woody,897.0,135.0,0.0,24.0,0.0,1.0,3.0,2.0,right_only
+2715,,,,,,,,,,,,,7 Mayland,Cumberland,7 Mayland,820.0,160.0,1.0,16.0,1.0,2.0,6.0,0.0,right_only
+2716,,,,,,,,,,,,,8 Pleasant Hill,Cumberland,8 Pleasant Hill,621.0,269.0,1.0,15.0,2.0,1.0,3.0,2.0,right_only
+2717,,,,,,,,,,,,,8 Pomona,Cumberland,8 Pomona,1086.0,209.0,1.0,13.0,0.0,2.0,6.0,4.0,right_only
+2718,,,,,,,,,,,,,8 Midway,Cumberland,8 Midway,219.0,32.0,1.0,4.0,0.0,1.0,2.0,0.0,right_only
+2719,,,,,,,,,,,,,9 Fairfield North,Cumberland,9 Fairfield North,1978.0,655.0,4.0,34.0,3.0,3.0,2.0,1.0,right_only
+2720,,,,,,,,,,,,,9 Fairfield South,Cumberland,9 Fairfield South,2195.0,918.0,6.0,54.0,6.0,8.0,9.0,1.0,right_only
+2721,,,,,,,,,,,,,01-1,Davidson,01-1,1436.0,581.0,5.0,55.0,5.0,5.0,15.0,10.0,right_only
+2722,,,,,,,,,,,,,01-1,Hamblen,01-1,536.0,288.0,3.0,22.0,2.0,1.0,5.0,3.0,right_only
+2723,,,,,,,,,,,,,01-2,Davidson,01-2,302.0,157.0,2.0,12.0,0.0,1.0,3.0,0.0,right_only
+2724,,,,,,,,,,,,,01-3,Davidson,01-3,289.0,3194.0,8.0,32.0,2.0,4.0,28.0,1.0,right_only
+2725,,,,,,,,,,,,,01-4,Davidson,01-4,209.0,86.0,0.0,12.0,0.0,1.0,3.0,3.0,right_only
+2726,,,,,,,,,,,,,01-5,Davidson,01-5,33.0,1162.0,4.0,11.0,2.0,0.0,6.0,2.0,right_only
+2727,,,,,,,,,,,,,02-1,Davidson,02-1,36.0,1886.0,5.0,9.0,5.0,1.0,6.0,1.0,right_only
+2728,,,,,,,,,,,,,02-1,Hamblen,02-1,607.0,287.0,2.0,18.0,2.0,3.0,2.0,4.0,right_only
+2729,,,,,,,,,,,,,02-2,Davidson,02-2,91.0,1663.0,4.0,15.0,3.0,1.0,8.0,1.0,right_only
+2730,,,,,,,,,,,,,02-3,Davidson,02-3,44.0,355.0,0.0,2.0,0.0,0.0,3.0,0.0,right_only
+2731,,,,,,,,,,,,,02-4,Davidson,02-4,52.0,1009.0,0.0,9.0,1.0,1.0,9.0,0.0,right_only
+2732,,,,,,,,,,,,,02-5,Davidson,02-5,87.0,755.0,3.0,8.0,6.0,0.0,7.0,1.0,right_only
+2733,,,,,,,,,,,,,03-1,Davidson,03-1,627.0,225.0,1.0,19.0,0.0,0.0,4.0,4.0,right_only
+2734,,,,,,,,,,,,,03-1,Hamblen,03-1,783.0,307.0,4.0,29.0,2.0,2.0,8.0,4.0,right_only
+2735,,,,,,,,,,,,,03-2,Davidson,03-2,106.0,77.0,0.0,3.0,0.0,0.0,0.0,1.0,right_only
+2736,,,,,,,,,,,,,03-3,Davidson,03-3,126.0,392.0,0.0,21.0,2.0,1.0,7.0,2.0,right_only
+2737,,,,,,,,,,,,,03-4,Davidson,03-4,569.0,1986.0,0.0,53.0,4.0,15.0,17.0,4.0,right_only
+2738,,,,,,,,,,,,,03-5,Davidson,03-5,103.0,2109.0,4.0,20.0,4.0,4.0,15.0,2.0,right_only
+2739,,,,,,,,,,,,,03-6,Davidson,03-6,218.0,741.0,2.0,17.0,0.0,4.0,9.0,2.0,right_only
+2740,,,,,,,,,,,,,04-1,Davidson,04-1,1966.0,1530.0,3.0,170.0,3.0,5.0,32.0,23.0,right_only
+2741,,,,,,,,,,,,,04-1,Hamblen,04-1,491.0,242.0,1.0,17.0,1.0,4.0,4.0,6.0,right_only
+2742,,,,,,,,,,,,,04-2,Davidson,04-2,439.0,701.0,4.0,72.0,1.0,3.0,12.0,10.0,right_only
+2743,,,,,,,,,,,,,04-3,Davidson,04-3,700.0,482.0,1.0,37.0,1.0,3.0,9.0,6.0,right_only
+2744,,,,,,,,,,,,,04-4,Davidson,04-4,1671.0,1524.0,8.0,138.0,1.0,8.0,23.0,8.0,right_only
+2745,,,,,,,,,,,,,05-1,Davidson,05-1,122.0,571.0,3.0,14.0,0.0,2.0,10.0,0.0,right_only
+2746,,,,,,,,,,,,,05-1,Hamblen,05-1,1223.0,333.0,2.0,34.0,4.0,5.0,7.0,19.0,right_only
+2747,,,,,,,,,,,,,05-2,Davidson,05-2,190.0,1516.0,4.0,71.0,2.0,3.0,35.0,5.0,right_only
+2748,,,,,,,,,,,,,05-3,Davidson,05-3,110.0,497.0,4.0,26.0,0.0,1.0,19.0,4.0,right_only
+2749,,,,,,,,,,,,,05-4,Davidson,05-4,39.0,623.0,1.0,10.0,1.0,2.0,9.0,4.0,right_only
+2750,,,,,,,,,,,,,05-5,Davidson,05-5,126.0,1305.0,1.0,64.0,2.0,3.0,24.0,5.0,right_only
+2751,,,,,,,,,,,,,06-1,Davidson,06-1,161.0,1108.0,3.0,77.0,3.0,2.0,23.0,2.0,right_only
+2752,,,,,,,,,,,,,06-1,Hamblen,06-1,912.0,301.0,2.0,24.0,1.0,4.0,6.0,1.0,right_only
+2753,,,,,,,,,,,,,06-2,Davidson,06-2,323.0,1599.0,2.0,103.0,0.0,3.0,32.0,11.0,right_only
+2754,,,,,,,,,,,,,06-3,Davidson,06-3,116.0,834.0,6.0,30.0,4.0,1.0,11.0,3.0,right_only
+2755,,,,,,,,,,,,,06-4,Davidson,06-4,348.0,1351.0,4.0,97.0,3.0,7.0,40.0,7.0,right_only
+2756,,,,,,,,,,,,,06-5,Davidson,06-5,185.0,1216.0,3.0,49.0,3.0,2.0,32.0,9.0,right_only
+2757,,,,,,,,,,,,,07-1,Davidson,07-1,283.0,1002.0,2.0,57.0,1.0,1.0,20.0,2.0,right_only
+2758,,,,,,,,,,,,,07-1,Hamblen,07-1,1398.0,315.0,2.0,33.0,1.0,5.0,8.0,2.0,right_only
+2759,,,,,,,,,,,,,07-2,Davidson,07-2,313.0,878.0,3.0,35.0,2.0,1.0,23.0,9.0,right_only
+2760,,,,,,,,,,,,,07-3,Davidson,07-3,137.0,1217.0,1.0,65.0,2.0,4.0,13.0,2.0,right_only
+2761,,,,,,,,,,,,,07-4,Davidson,07-4,325.0,1123.0,1.0,76.0,0.0,1.0,29.0,14.0,right_only
+2762,,,,,,,,,,,,,07-5,Davidson,07-5,386.0,829.0,0.0,61.0,0.0,7.0,12.0,6.0,right_only
+2763,,,,,,,,,,,,,07-6,Davidson,07-6,330.0,687.0,4.0,35.0,4.0,3.0,13.0,0.0,right_only
+2764,,,,,,,,,,,,,08-1,Davidson,08-1,124.0,809.0,0.0,19.0,3.0,0.0,16.0,5.0,right_only
+2765,,,,,,,,,,,,,08-1,Hamblen,08-1,1478.0,286.0,3.0,39.0,0.0,10.0,8.0,1.0,right_only
+2766,,,,,,,,,,,,,08-2,Davidson,08-2,216.0,765.0,0.0,30.0,2.0,0.0,13.0,3.0,right_only
+2767,,,,,,,,,,,,,08-3,Davidson,08-3,743.0,1484.0,6.0,74.0,1.0,5.0,31.0,9.0,right_only
+2768,,,,,,,,,,,,,08-4,Davidson,08-4,641.0,1008.0,5.0,39.0,5.0,4.0,16.0,7.0,right_only
+2769,,,,,,,,,,,,,09-1,Davidson,09-1,429.0,1117.0,1.0,49.0,0.0,4.0,13.0,2.0,right_only
+2770,,,,,,,,,,,,,09-1,Hamblen,09-1,672.0,117.0,0.0,10.0,1.0,2.0,3.0,0.0,right_only
+2771,,,,,,,,,,,,,09-2,Davidson,09-2,296.0,628.0,1.0,22.0,1.0,2.0,14.0,0.0,right_only
+2772,,,,,,,,,,,,,09-2,Hamblen,09-2,804.0,131.0,0.0,16.0,2.0,4.0,2.0,4.0,right_only
+2773,,,,,,,,,,,,,09-3,Davidson,09-3,779.0,1617.0,4.0,43.0,3.0,3.0,19.0,4.0,right_only
+2774,,,,,,,,,,,,,Absentee,Davidson,Absentee,2194.0,3913.0,10.0,212.0,7.0,37.0,58.0,22.0,right_only
+2775,,,,,,,,,,,,,Absentee,Wilson,Absentee,661.0,397.0,4.0,47.0,3.0,9.0,7.0,14.0,right_only
+2776,,,,,,,,,,,,,Provisional - Write-Ins,Davidson,Provisional - Write-Ins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,right_only
+2777,,,,,,,,,,,,,1-1 Dunbar,Decatur,1-1 Dunbar,456.0,133.0,0.0,11.0,1.0,2.0,3.0,3.0,right_only
+2778,,,,,,,,,,,,,2-2 Scotts Hill,Decatur,2-2 Scotts Hill,249.0,49.0,1.0,3.0,1.0,1.0,1.0,0.0,right_only
+2779,,,,,,,,,,,,,3-1 Beacon,Decatur,3-1 Beacon,88.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,right_only
+2780,,,,,,,,,,,,,3-2 Decaturville,Decatur,3-2 Decaturville,307.0,98.0,1.0,6.0,0.0,2.0,2.0,0.0,right_only
+2781,,,,,,,,,,,,,4-1 Decaturville,Decatur,4-1 Decaturville,443.0,154.0,0.0,10.0,1.0,0.0,1.0,1.0,right_only
+2782,,,,,,,,,,,,,5-1 Parsons,Decatur,5-1 Parsons,311.0,106.0,1.0,7.0,0.0,0.0,2.0,2.0,right_only
+2783,,,,,,,,,,,,,6-1 Parsons,Decatur,6-1 Parsons,329.0,70.0,1.0,6.0,0.0,0.0,4.0,1.0,right_only
+2784,,,,,,,,,,,,,7-2 Perryville,Decatur,7-2 Perryville,162.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2785,,,,,,,,,,,,,8-1 Parsons,Decatur,8-1 Parsons,441.0,89.0,0.0,4.0,0.0,0.0,2.0,0.0,right_only
+2786,,,,,,,,,,,,,9-1 Beacon,Decatur,9-1 Beacon,131.0,15.0,0.0,1.0,0.0,1.0,0.0,0.0,right_only
+2787,,,,,,,,,,,,,1-3 Edgar Evins Park,DeKalb,1-3 Edgar Evins Park,52.0,5.0,0.0,0.0,0.0,1.0,1.0,0.0,right_only
+2788,,,,,,,,,,,,,3-1 Church of God,DeKalb,3-1 Church of God,713.0,230.0,2.0,14.0,1.0,4.0,6.0,0.0,right_only
+2789,,,,,,,,,,,,,7-1 Church of Christ,DeKalb,7-1 Church of Christ,515.0,203.0,1.0,11.0,2.0,2.0,7.0,0.0,right_only
+2790,,,,,,,,,,,,,A1- Bonicord,Dyer,A1- Bonicord,672.0,128.0,1.0,11.0,2.0,1.0,3.0,2.0,right_only
+2791,,,,,,,,,,,,,A2- Fowlkes,Dyer,A2- Fowlkes,532.0,99.0,0.0,7.0,1.0,1.0,2.0,0.0,right_only
+2792,,,,,,,,,,,,,B- Newbern,Dyer,B- Newbern,1075.0,268.0,5.0,26.0,2.0,3.0,6.0,2.0,right_only
+2793,,,,,,,,,,,,,C1- Tatumville,Dyer,C1- Tatumville,375.0,47.0,0.0,6.0,0.0,0.0,1.0,1.0,right_only
+2794,,,,,,,,,,,,,C2- Trimble,Dyer,C2- Trimble,583.0,88.0,3.0,11.0,0.0,1.0,4.0,0.0,right_only
+2795,,,,,,,,,,,,,C3- Roellen,Dyer,C3- Roellen,260.0,47.0,0.0,3.0,0.0,0.0,0.0,0.0,right_only
+2796,,,,,,,,,,,,,D1- Millsfield,Dyer,D1- Millsfield,891.0,105.0,0.0,11.0,0.0,0.0,1.0,0.0,right_only
+2797,,,,,,,,,,,,,D2- Bogota,Dyer,D2- Bogota,650.0,106.0,1.0,8.0,0.0,1.0,3.0,1.0,right_only
+2798,,,,,,,,,,,,,E1- Finley,Dyer,E1- Finley,552.0,108.0,0.0,8.0,0.0,0.0,3.0,0.0,right_only
+2799,,,,,,,,,,,,,E2- Lenox,Dyer,E2- Lenox,687.0,59.0,0.0,9.0,0.0,3.0,1.0,0.0,right_only
+2800,,,,,,,,,,,,,F- Dyer Co Central,Dyer,F- Dyer Co Central,127.0,555.0,2.0,5.0,1.0,1.0,6.0,0.0,right_only
+2801,,,,,,,,,,,,,G- Courthouse,Dyer,G- Courthouse,683.0,305.0,2.0,15.0,2.0,2.0,5.0,4.0,right_only
+2802,,,,,,,,,,,,,H- E. Dyersburg,Dyer,H- E. Dyersburg,772.0,284.0,2.0,15.0,3.0,7.0,5.0,1.0,right_only
+2803,,,,,,,,,,,,,I1- Community Center,Dyer,I1- Community Center,461.0,185.0,0.0,14.0,0.0,1.0,1.0,0.0,right_only
+2804,,,,,,,,,,,,,I2- Hurricane Hill,Dyer,I2- Hurricane Hill,520.0,77.0,1.0,8.0,0.0,1.0,0.0,1.0,right_only
+2805,,,,,,,,,,,,,J- North Dyersburg,Dyer,J- North Dyersburg,1340.0,355.0,2.0,36.0,2.0,5.0,7.0,1.0,right_only
+2806,,,,,,,,,,,,,Early voting,Dyer,Early voting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,right_only
+2807,,,,,,,,,,,,,Somerville City,Fayette,Somerville City,898.0,757.0,1.0,16.0,3.0,3.0,4.0,3.0,right_only
+2808,,,,,,,,,,,,,Fayette Corner,Fayette,Fayette Corner,528.0,248.0,0.0,8.0,0.0,1.0,2.0,0.0,right_only
+2809,,,,,,,,,,,,,Garnett,Fayette,Garnett,420.0,197.0,1.0,7.0,0.0,1.0,3.0,1.0,right_only
+2810,,,,,,,,,,,,,Braden,Fayette,Braden,381.0,477.0,2.0,7.0,3.0,1.0,1.0,1.0,right_only
+2811,,,,,,,,,,,,,Gallaway,Fayette,Gallaway,674.0,316.0,2.0,11.0,2.0,2.0,4.0,1.0,right_only
+2812,,,,,,,,,,,,,Oakland,Fayette,Oakland,2624.0,861.0,4.0,60.0,3.0,11.0,11.0,5.0,right_only
+2813,,,,,,,,,,,,,Hickory Withe,Fayette,Hickory Withe,1898.0,481.0,3.0,53.0,1.0,3.0,11.0,7.0,right_only
+2814,,,,,,,,,,,,,Elba,Fayette,Elba,924.0,324.0,0.0,18.0,1.0,3.0,3.0,3.0,right_only
+2815,,,,,,,,,,,,,Piperton,Fayette,Piperton,844.0,244.0,1.0,11.0,1.0,6.0,5.0,1.0,right_only
+2816,,,,,,,,,,,,,Rossville,Fayette,Rossville,835.0,486.0,0.0,19.0,1.0,0.0,6.0,2.0,right_only
+2817,,,,,,,,,,,,,Macon,Fayette,Macon,1491.0,445.0,4.0,29.0,0.0,4.0,4.0,4.0,right_only
+2818,,,,,,,,,,,,,Williston,Fayette,Williston,340.0,136.0,0.0,8.0,0.0,0.0,0.0,7.0,right_only
+2819,,,,,,,,,,,,,Moscow,Fayette,Moscow,378.0,502.0,0.0,7.0,1.0,2.0,4.0,0.0,right_only
+2820,,,,,,,,,,,,,Parks,Fayette,Parks,599.0,242.0,1.0,4.0,0.0,0.0,2.0,0.0,right_only
+2821,,,,,,,,,,,,,LaGrange,Fayette,LaGrange,221.0,158.0,0.0,3.0,0.0,0.0,2.0,0.0,right_only
+2822,,,,,,,,,,,,,Banner Springs,Fentress,Banner Springs,550.0,91.0,0.0,12.0,3.0,3.0,9.0,2.0,right_only
+2823,,,,,,,,,,,,,Crossroads,Fentress,Crossroads,679.0,114.0,0.0,8.0,2.0,2.0,3.0,0.0,right_only
+2824,,,,,,,,,,,,,1-1 Annex,Franklin,1-1 Annex,1350.0,646.0,5.0,46.0,1.0,4.0,9.0,3.0,right_only
+2825,,,,,,,,,,,,,7-2 CG/Winchester Springs,Franklin,7-2 CG/Winchester Springs,1016.0,217.0,0.0,17.0,0.0,4.0,4.0,2.0,right_only
+2826,,,,,,,,,,,,,1-1 Medina,Gibson,1-1 Medina,2174.0,310.0,2.0,37.0,0.0,4.0,8.0,14.0,right_only
+2827,,,,,,,,,,,,,1-2 Sitka,Gibson,1-2 Sitka,541.0,89.0,2.0,11.0,1.0,2.0,2.0,4.0,right_only
+2828,,,,,,,,,,,,,2 Humboldt Church,Gibson,2 Humboldt Church,596.0,177.0,0.0,22.0,3.0,0.0,0.0,1.0,right_only
+2829,,,,,,,,,,,,,3 Bailey Park,Gibson,3 Bailey Park,664.0,194.0,0.0,14.0,0.0,1.0,1.0,10.0,right_only
+2830,,,,,,,,,,,,,4 St James Baptist,Gibson,4 St James Baptist,89.0,546.0,0.0,4.0,0.0,1.0,0.0,1.0,right_only
+2831,,,,,,,,,,,,,5 Lane Chapel Church,Gibson,5 Lane Chapel Church,114.0,486.0,0.0,4.0,1.0,2.0,3.0,1.0,right_only
+2832,,,,,,,,,,,,,6 Humboldt HS,Gibson,6 Humboldt HS,124.0,128.0,1.0,2.0,0.0,0.0,1.0,1.0,right_only
+2833,,,,,,,,,,,,,6-4 Gibson,Gibson,6-4 Gibson,361.0,76.0,0.0,12.0,1.0,2.0,0.0,1.0,right_only
+2834,,,,,,,,,,,,,7-2 Fruitland,Gibson,7-2 Fruitland,561.0,193.0,2.0,3.0,1.0,0.0,2.0,1.0,right_only
+2835,,,,,,,,,,,,,8-1 Edison,Gibson,8-1 Edison,219.0,109.0,0.0,8.0,1.0,1.0,2.0,0.0,right_only
+2836,,,,,,,,,,,,,8-2 Brazil,Gibson,8-2 Brazil,358.0,68.0,0.0,8.0,0.0,0.0,1.0,0.0,right_only
+2837,,,,,,,,,,,,,10 Agri-Plex,Gibson,10 Agri-Plex,654.0,565.0,0.0,21.0,1.0,1.0,3.0,3.0,right_only
+2838,,,,,,,,,,,,,11-2 Moore's Chapel,Gibson,11-2 Moore's Chapel,534.0,98.0,2.0,13.0,1.0,1.0,5.0,0.0,right_only
+2839,,,,,,,,,,,,,11-4 Union Central,Gibson,11-4 Union Central,442.0,58.0,1.0,7.0,0.0,2.0,2.0,4.0,right_only
+2840,,,,,,,,,,,,,11-5 Skullbone,Gibson,11-5 Skullbone,427.0,48.0,0.0,6.0,0.0,2.0,2.0,0.0,right_only
+2841,,,,,,,,,,,,,12 Milan CPC,Gibson,12 Milan CPC,778.0,140.0,0.0,22.0,1.0,2.0,2.0,5.0,right_only
+2842,,,,,,,,,,,,,13 Milan Polk Clark,Gibson,13 Milan Polk Clark,168.0,407.0,1.0,6.0,0.0,0.0,1.0,1.0,right_only
+2843,,,,,,,,,,,,,14 Milan 1stAssembly,Gibson,14 Milan 1stAssembly,413.0,216.0,3.0,11.0,1.0,2.0,2.0,0.0,right_only
+2844,,,,,,,,,,,,,15 Milan Municipal,Gibson,15 Milan Municipal,644.0,205.0,1.0,19.0,1.0,1.0,8.0,3.0,right_only
+2845,,,,,,,,,,,,,16 Rutherford,Gibson,16 Rutherford,528.0,155.0,2.0,6.0,2.0,1.0,6.0,0.0,right_only
+2846,,,,,,,,,,,,,16-1 Yorkville,Gibson,16-1 Yorkville,396.0,78.0,0.0,1.0,0.0,0.0,0.0,1.0,right_only
+2847,,,,,,,,,,,,,16-2 Kenton,Gibson,16-2 Kenton,354.0,104.0,2.0,4.0,0.0,2.0,1.0,0.0,right_only
+2848,,,,,,,,,,,,,17-1 Bradford,Gibson,17-1 Bradford,539.0,153.0,2.0,12.0,1.0,0.0,3.0,1.0,right_only
+2849,,,,,,,,,,,,,18-1 Laneview,Gibson,18-1 Laneview,242.0,54.0,0.0,5.0,0.0,2.0,5.0,0.0,right_only
+2850,,,,,,,,,,,,,18-2 Good Luck,Gibson,18-2 Good Luck,298.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2851,,,,,,,,,,,,,19-1 Dyer,Gibson,19-1 Dyer,763.0,332.0,4.0,23.0,2.0,7.0,4.0,0.0,right_only
+2852,,,,,,,,,,,,,19-2 Currie,Gibson,19-2 Currie,297.0,62.0,1.0,13.0,0.0,0.0,0.0,0.0,right_only
+2853,,,,,,,,,,,,,3A Richland Trace,Giles,3A Richland Trace,602.0,138.0,1.0,10.0,1.0,0.0,4.0,2.0,right_only
+2854,,,,,,,,,,,,,4B Odd Fellows Hall,Giles,4B Odd Fellows Hall,681.0,137.0,0.0,9.0,0.0,3.0,2.0,1.0,right_only
+2855,,,,,,,,,,,,,5B Agri Park,Giles,5B Agri Park,566.0,146.0,0.0,9.0,1.0,0.0,3.0,0.0,right_only
+2856,,,,,,,,,,,,,6A Martin,Giles,6A Martin,333.0,291.0,2.0,13.0,1.0,1.0,4.0,0.0,right_only
+2857,,,,,,,,,,,,,6B Bridgeforth,Giles,6B Bridgeforth,164.0,414.0,3.0,4.0,1.0,0.0,3.0,0.0,right_only
+2858,,,,,,,,,,,,,7A GCHS,Giles,7A GCHS,270.0,208.0,1.0,16.0,1.0,0.0,3.0,0.0,right_only
+2859,,,,,,,,,,,,,7B Rec Center,Giles,7B Rec Center,519.0,345.0,3.0,10.0,1.0,2.0,1.0,0.0,right_only
+2860,,,,,,,,,,,,,1 Baileyton,Greene,1 Baileyton,803.0,170.0,0.0,17.0,2.0,2.0,3.0,1.0,right_only
+2861,,,,,,,,,,,,,4 Camp Creek,Greene,4 Camp Creek,1984.0,377.0,2.0,30.0,4.0,5.0,17.0,8.0,right_only
+2862,,,,,,,,,,,,,2 Chuckey Doak,Greene,2 Chuckey Doak,1388.0,282.0,0.0,32.0,2.0,5.0,9.0,4.0,right_only
+2863,,,,,,,,,,,,,4 Courthouse,Greene,4 Courthouse,723.0,237.0,3.0,28.0,0.0,1.0,11.0,1.0,right_only
+2864,,,,,,,,,,,,,2 Chuckey,Greene,2 Chuckey,1538.0,306.0,0.0,35.0,1.0,8.0,6.0,3.0,right_only
+2865,,,,,,,,,,,,,5 Debusk,Greene,5 Debusk,1300.0,231.0,1.0,39.0,1.0,6.0,6.0,4.0,right_only
+2866,,,,,,,,,,,,,3 Doak,Greene,3 Doak,1256.0,299.0,3.0,40.0,1.0,3.0,15.0,8.0,right_only
+2867,,,,,,,,,,,,,7 Glenwood,Greene,7 Glenwood,1435.0,283.0,3.0,49.0,1.0,2.0,9.0,2.0,right_only
+2868,,,,,,,,,,,,,6 McDonald,Greene,6 McDonald,798.0,124.0,2.0,11.0,1.0,4.0,2.0,1.0,right_only
+2869,,,,,,,,,,,,,6 Mosheim,Greene,6 Mosheim,1632.0,305.0,3.0,29.0,1.0,8.0,15.0,2.0,right_only
+2870,,,,,,,,,,,,,5 Middle School,Greene,5 Middle School,551.0,180.0,3.0,18.0,2.0,0.0,6.0,0.0,right_only
+2871,,,,,,,,,,,,,5 Nolachuckey,Greene,5 Nolachuckey,561.0,98.0,0.0,11.0,0.0,0.0,0.0,4.0,right_only
+2872,,,,,,,,,,,,,1 Ottway,Greene,1 Ottway,919.0,167.0,0.0,21.0,2.0,1.0,8.0,0.0,right_only
+2873,,,,,,,,,,,,,5 South Greene,Greene,5 South Greene,676.0,118.0,0.0,12.0,0.0,2.0,6.0,0.0,right_only
+2874,,,,,,,,,,,,,3 Tusculum View,Greene,3 Tusculum View,1373.0,439.0,3.0,44.0,9.0,4.0,18.0,11.0,right_only
+2875,,,,,,,,,,,,,1 West Pines,Greene,1 West Pines,819.0,149.0,2.0,23.0,1.0,2.0,5.0,2.0,right_only
+2876,,,,,,,,,,,,,Beersheba Springs,Grundy,Beersheba Springs,129.0,40.0,1.0,5.0,0.0,1.0,4.0,0.0,right_only
+2877,,,,,,,,,,,,,Gruetli-Laager,Grundy,Gruetli-Laager,573.0,145.0,4.0,5.0,0.0,2.0,1.0,0.0,right_only
+2878,,,,,,,,,,,,,Tracy City,Grundy,Tracy City,848.0,213.0,5.0,17.0,0.0,3.0,4.0,1.0,right_only
+2879,,,,,,,,,,,,,175 Airport,Hamilton,175 Airport,352.0,628.0,3.0,29.0,1.0,3.0,5.0,7.0,right_only
+2880,,,,,,,,,,,,,212 Alton Park 1,Hamilton,212 Alton Park 1,94.0,1380.0,3.0,47.0,2.0,2.0,9.0,13.0,right_only
+2881,,,,,,,,,,,,,214 Alton Park 2,Hamilton,214 Alton Park 2,9.0,40.0,0.0,5.0,0.0,0.0,1.0,1.0,right_only
+2882,,,,,,,,,,,,,003 Amnicola,Hamilton,003 Amnicola,18.0,128.0,1.0,3.0,0.0,0.0,1.0,0.0,right_only
+2883,,,,,,,,,,,,,050 Apison 1,Hamilton,050 Apison 1,1620.0,314.0,2.0,86.0,4.0,8.0,15.0,22.0,right_only
+2884,,,,,,,,,,,,,118 Apison 2,Hamilton,118 Apison 2,262.0,100.0,1.0,10.0,0.0,1.0,0.0,3.0,right_only
+2885,,,,,,,,,,,,,216 Apison 3,Hamilton,216 Apison 3,4.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,right_only
+2886,,,,,,,,,,,,,004 Avondale,Hamilton,004 Avondale,32.0,803.0,1.0,5.0,0.0,1.0,5.0,2.0,right_only
+2887,,,,,,,,,,,,,184 Bakewell 1,Hamilton,184 Bakewell 1,352.0,71.0,1.0,4.0,0.0,0.0,1.0,0.0,right_only
+2888,,,,,,,,,,,,,183 Bakewell 2,Hamilton,183 Bakewell 2,1372.0,380.0,2.0,51.0,2.0,5.0,6.0,4.0,right_only
+2889,,,,,,,,,,,,,051 Birchwood,Hamilton,051 Birchwood,1875.0,324.0,2.0,49.0,1.0,9.0,10.0,17.0,right_only
+2890,,,,,,,,,,,,,005 Bonny Oaks,Hamilton,005 Bonny Oaks,247.0,1302.0,2.0,17.0,1.0,1.0,5.0,1.0,right_only
+2891,,,,,,,,,,,,,006 Brainerd,Hamilton,006 Brainerd,565.0,744.0,3.0,77.0,1.0,4.0,11.0,19.0,right_only
+2892,,,,,,,,,,,,,007 Brainerd Hills,Hamilton,007 Brainerd Hills,493.0,581.0,1.0,58.0,3.0,1.0,6.0,8.0,right_only
+2893,,,,,,,,,,,,,008 Bushtown,Hamilton,008 Bushtown,34.0,1086.0,1.0,14.0,2.0,1.0,12.0,13.0,right_only
+2894,,,,,,,,,,,,,052 Collegedale 1,Hamilton,052 Collegedale 1,698.0,270.0,0.0,81.0,1.0,4.0,9.0,1.0,right_only
+2895,,,,,,,,,,,,,122 Collegedale 2,Hamilton,122 Collegedale 2,358.0,198.0,0.0,73.0,0.0,5.0,6.0,1.0,right_only
+2896,,,,,,,,,,,,,167 Collegedale 3,Hamilton,167 Collegedale 3,199.0,70.0,0.0,14.0,1.0,1.0,6.0,4.0,right_only
+2897,,,,,,,,,,,,,204 Collegedale 4,Hamilton,204 Collegedale 4,828.0,289.0,3.0,71.0,2.0,2.0,16.0,3.0,right_only
+2898,,,,,,,,,,,,,217 Collegedale 5,Hamilton,217 Collegedale 5,33.0,4.0,0.0,1.0,0.0,0.0,0.0,11.0,right_only
+2899,,,,,,,,,,,,,220 Collegedale 6,Hamilton,220 Collegedale 6,18.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,right_only
+2900,,,,,,,,,,,,,012 Concord 1,Hamilton,012 Concord 1,471.0,284.0,1.0,39.0,0.0,2.0,3.0,6.0,right_only
+2901,,,,,,,,,,,,,093 Concord 2,Hamilton,093 Concord 2,457.0,353.0,3.0,35.0,0.0,3.0,7.0,15.0,right_only
+2902,,,,,,,,,,,,,141 Concord 3,Hamilton,141 Concord 3,243.0,153.0,0.0,9.0,1.0,3.0,2.0,2.0,right_only
+2903,,,,,,,,,,,,,181 Concord 4,Hamilton,181 Concord 4,1147.0,835.0,1.0,65.0,2.0,5.0,4.0,14.0,right_only
+2904,,,,,,,,,,,,,177 Concord 5,Hamilton,177 Concord 5,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2905,,,,,,,,,,,,,178 Concord 6,Hamilton,178 Concord 6,60.0,61.0,0.0,12.0,0.0,0.0,7.0,0.0,right_only
+2906,,,,,,,,,,,,,206 Concord 7,Hamilton,206 Concord 7,82.0,56.0,0.0,6.0,0.0,0.0,1.0,0.0,right_only
+2907,,,,,,,,,,,,,208 Courthouse 1,Hamilton,208 Courthouse 1,160.0,527.0,0.0,47.0,3.0,0.0,13.0,4.0,right_only
+2908,,,,,,,,,,,,,196 Courthouse 2,Hamilton,196 Courthouse 2,3.0,29.0,0.0,6.0,0.0,0.0,1.0,0.0,right_only
+2909,,,,,,,,,,,,,014 Dalewood,Hamilton,014 Dalewood,52.0,857.0,1.0,9.0,0.0,2.0,6.0,0.0,right_only
+2910,,,,,,,,,,,,,185 Dallas 1,Hamilton,185 Dallas 1,1673.0,397.0,1.0,77.0,0.0,9.0,12.0,12.0,right_only
+2911,,,,,,,,,,,,,172 Dallas 2,Hamilton,172 Dallas 2,755.0,173.0,2.0,41.0,3.0,1.0,3.0,8.0,right_only
+2912,,,,,,,,,,,,,199 Downtown 1,Hamilton,199 Downtown 1,149.0,176.0,0.0,23.0,0.0,0.0,1.0,12.0,right_only
+2913,,,,,,,,,,,,,197 Downtown 2,Hamilton,197 Downtown 2,250.0,952.0,0.0,63.0,0.0,1.0,13.0,0.0,right_only
+2914,,,,,,,,,,,,,189 DuPont,Hamilton,189 DuPont,1055.0,612.0,1.0,81.0,2.0,6.0,14.0,16.0,right_only
+2915,,,,,,,,,,,,,017 East Brainerd 1,Hamilton,017 East Brainerd 1,1491.0,765.0,4.0,68.0,1.0,7.0,13.0,21.0,right_only
+2916,,,,,,,,,,,,,104 East Brainerd 2,Hamilton,104 East Brainerd 2,1653.0,939.0,3.0,88.0,0.0,6.0,16.0,18.0,right_only
+2917,,,,,,,,,,,,,018 East Chattanooga 1,Hamilton,018 East Chattanooga 1,46.0,408.0,1.0,8.0,0.0,1.0,1.0,0.0,right_only
+2918,,,,,,,,,,,,,192 East Chattanooga 2,Hamilton,192 East Chattanooga 2,99.0,674.0,0.0,11.0,2.0,1.0,4.0,0.0,right_only
+2919,,,,,,,,,,,,,019 East Lake,Hamilton,019 East Lake,355.0,568.0,1.0,21.0,2.0,1.0,8.0,4.0,right_only
+2920,,,,,,,,,,,,,053 East Ridge 1,Hamilton,053 East Ridge 1,1416.0,760.0,0.0,82.0,3.0,7.0,23.0,25.0,right_only
+2921,,,,,,,,,,,,,054 East Ridge 2,Hamilton,054 East Ridge 2,857.0,622.0,1.0,72.0,1.0,5.0,26.0,19.0,right_only
+2922,,,,,,,,,,,,,055 East Ridge 3,Hamilton,055 East Ridge 3,1219.0,541.0,4.0,66.0,3.0,2.0,15.0,0.0,right_only
+2923,,,,,,,,,,,,,056 East Ridge 4,Hamilton,056 East Ridge 4,1241.0,626.0,2.0,61.0,2.0,6.0,16.0,9.0,right_only
+2924,,,,,,,,,,,,,195 Eastdale,Hamilton,195 Eastdale,158.0,1779.0,2.0,38.0,3.0,2.0,15.0,11.0,right_only
+2925,,,,,,,,,,,,,094 Eastgate 1,Hamilton,094 Eastgate 1,123.0,469.0,1.0,39.0,3.0,2.0,8.0,8.0,right_only
+2926,,,,,,,,,,,,,095 Eastgate 2,Hamilton,095 Eastgate 2,167.0,548.0,0.0,23.0,0.0,0.0,4.0,3.0,right_only
+2927,,,,,,,,,,,,,209 Eastside 1,Hamilton,209 Eastside 1,220.0,850.0,3.0,32.0,0.0,4.0,6.0,3.0,right_only
+2928,,,,,,,,,,,,,132 Eastside 2,Hamilton,132 Eastside 2,6.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2929,,,,,,,,,,,,,067 Fairmount,Hamilton,067 Fairmount,1159.0,454.0,1.0,84.0,3.0,11.0,9.0,18.0,right_only
+2930,,,,,,,,,,,,,187 Falling Water,Hamilton,187 Falling Water,472.0,124.0,0.0,30.0,0.0,0.0,4.0,4.0,right_only
+2931,,,,,,,,,,,,,069 Flat Top Mountain,Hamilton,069 Flat Top Mountain,212.0,25.0,0.0,5.0,0.0,0.0,1.0,1.0,right_only
+2932,,,,,,,,,,,,,070 Ganns,Hamilton,070 Ganns,1222.0,364.0,0.0,73.0,2.0,7.0,9.0,13.0,right_only
+2933,,,,,,,,,,,,,023 Glenwood,Hamilton,023 Glenwood,103.0,724.0,1.0,15.0,2.0,2.0,10.0,6.0,right_only
+2934,,,,,,,,,,,,,058 Harrison 1,Hamilton,058 Harrison 1,143.0,135.0,0.0,5.0,1.0,0.0,2.0,0.0,right_only
+2935,,,,,,,,,,,,,090 Harrison 2,Hamilton,090 Harrison 2,1806.0,1194.0,4.0,112.0,2.0,7.0,20.0,22.0,right_only
+2936,,,,,,,,,,,,,098 Harrison 3,Hamilton,098 Harrison 3,1561.0,678.0,1.0,78.0,2.0,10.0,12.0,26.0,right_only
+2937,,,,,,,,,,,,,140 Harrison 4,Hamilton,140 Harrison 4,493.0,159.0,0.0,21.0,0.0,2.0,3.0,11.0,right_only
+2938,,,,,,,,,,,,,180 Harrison 5,Hamilton,180 Harrison 5,822.0,211.0,2.0,27.0,0.0,1.0,4.0,12.0,right_only
+2939,,,,,,,,,,,,,218 Harrison 6,Hamilton,218 Harrison 6,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2940,,,,,,,,,,,,,025 Hixson 1,Hamilton,025 Hixson 1,313.0,203.0,2.0,33.0,0.0,4.0,9.0,7.0,right_only
+2941,,,,,,,,,,,,,088 Hixson 2,Hamilton,088 Hixson 2,1782.0,782.0,2.0,104.0,1.0,11.0,20.0,17.0,right_only
+2942,,,,,,,,,,,,,101 Hixson 3,Hamilton,101 Hixson 3,1461.0,691.0,5.0,101.0,1.0,2.0,10.0,20.0,right_only
+2943,,,,,,,,,,,,,190 Kingspoint 1,Hamilton,190 Kingspoint 1,141.0,832.0,1.0,17.0,2.0,1.0,11.0,1.0,right_only
+2944,,,,,,,,,,,,,191 Kingspoint 2,Hamilton,191 Kingspoint 2,152.0,130.0,0.0,22.0,3.0,0.0,3.0,3.0,right_only
+2945,,,,,,,,,,,,,176 Kingspoint 3,Hamilton,176 Kingspoint 3,20.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2946,,,,,,,,,,,,,028 Lake Hills,Hamilton,028 Lake Hills,244.0,654.0,1.0,17.0,1.0,5.0,7.0,2.0,right_only
+2947,,,,,,,,,,,,,071 Lakesite,Hamilton,071 Lakesite,695.0,182.0,1.0,43.0,1.0,5.0,6.0,6.0,right_only
+2948,,,,,,,,,,,,,213 Lookout Mountain,Hamilton,213 Lookout Mountain,750.0,376.0,1.0,57.0,0.0,4.0,6.0,15.0,right_only
+2949,,,,,,,,,,,,,048 Lookout Valley 1,Hamilton,048 Lookout Valley 1,1831.0,581.0,1.0,57.0,1.0,4.0,16.0,37.0,right_only
+2950,,,,,,,,,,,,,092 Lookout Valley 2,Hamilton,092 Lookout Valley 2,53.0,15.0,0.0,0.0,0.0,0.0,3.0,13.0,right_only
+2951,,,,,,,,,,,,,029 Lupton City,Hamilton,029 Lupton City,684.0,543.0,1.0,50.0,3.0,2.0,16.0,10.0,right_only
+2952,,,,,,,,,,,,,059 Meadowview,Hamilton,059 Meadowview,291.0,64.0,0.0,15.0,0.0,1.0,1.0,4.0,right_only
+2953,,,,,,,,,,,,,188 Middle Valley 1,Hamilton,188 Middle Valley 1,1243.0,352.0,0.0,72.0,1.0,5.0,9.0,9.0,right_only
+2954,,,,,,,,,,,,,186 Middle Valley 2,Hamilton,186 Middle Valley 2,458.0,108.0,1.0,28.0,1.0,0.0,1.0,1.0,right_only
+2955,,,,,,,,,,,,,031 Missionary Ridge,Hamilton,031 Missionary Ridge,481.0,556.0,3.0,60.0,3.0,0.0,13.0,18.0,right_only
+2956,,,,,,,,,,,,,032 Moccasin Bend,Hamilton,032 Moccasin Bend,553.0,716.0,1.0,100.0,1.0,3.0,17.0,8.0,right_only
+2957,,,,,,,,,,,,,033 Mountain Creek 1,Hamilton,033 Mountain Creek 1,1672.0,1162.0,5.0,160.0,1.0,11.0,44.0,28.0,right_only
+2958,,,,,,,,,,,,,106 Mountain Creek 2,Hamilton,106 Mountain Creek 2,14.0,8.0,0.0,4.0,0.0,0.0,0.0,0.0,right_only
+2959,,,,,,,,,,,,,215 Mountain Creek 3,Hamilton,215 Mountain Creek 3,50.0,57.0,0.0,4.0,0.0,1.0,2.0,2.0,right_only
+2960,,,,,,,,,,,,,074 Mowbray,Hamilton,074 Mowbray,656.0,144.0,0.0,22.0,1.0,0.0,5.0,4.0,right_only
+2961,,,,,,,,,,,,,171 Murray Hills 1,Hamilton,171 Murray Hills 1,532.0,696.0,2.0,42.0,3.0,5.0,9.0,12.0,right_only
+2962,,,,,,,,,,,,,182 Murray Hills 2,Hamilton,182 Murray Hills 2,89.0,221.0,1.0,19.0,2.0,0.0,2.0,3.0,right_only
+2963,,,,,,,,,,,,,035 North Chattanooga 1,Hamilton,035 North Chattanooga 1,546.0,761.0,1.0,92.0,0.0,8.0,20.0,16.0,right_only
+2964,,,,,,,,,,,,,139 North Chattanooga 2,Hamilton,139 North Chattanooga 2,138.0,295.0,0.0,25.0,1.0,1.0,9.0,2.0,right_only
+2965,,,,,,,,,,,,,194 Northgate 1,Hamilton,194 Northgate 1,583.0,397.0,1.0,35.0,0.0,1.0,11.0,11.0,right_only
+2966,,,,,,,,,,,,,193 Northgate 2,Hamilton,193 Northgate 2,739.0,449.0,3.0,54.0,3.0,4.0,18.0,9.0,right_only
+2967,,,,,,,,,,,,,037 Northwoods 1,Hamilton,037 Northwoods 1,636.0,367.0,0.0,37.0,2.0,4.0,12.0,3.0,right_only
+2968,,,,,,,,,,,,,038 Northwoods 2,Hamilton,038 Northwoods 2,306.0,136.0,0.0,11.0,0.0,0.0,9.0,4.0,right_only
+2969,,,,,,,,,,,,,060 Ooltewah 1,Hamilton,060 Ooltewah 1,1519.0,705.0,3.0,73.0,2.0,5.0,14.0,29.0,right_only
+2970,,,,,,,,,,,,,089 Ooltewah 2,Hamilton,089 Ooltewah 2,633.0,373.0,2.0,37.0,0.0,1.0,11.0,7.0,right_only
+2971,,,,,,,,,,,,,143 Ooltewah 3,Hamilton,143 Ooltewah 3,10.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2972,,,,,,,,,,,,,205 Ooltewah 4,Hamilton,205 Ooltewah 4,1992.0,613.0,2.0,98.0,1.0,10.0,12.0,15.0,right_only
+2973,,,,,,,,,,,,,169 Ooltewah 5,Hamilton,169 Ooltewah 5,83.0,31.0,0.0,2.0,0.0,0.0,1.0,0.0,right_only
+2974,,,,,,,,,,,,,168 Ooltewah 6,Hamilton,168 Ooltewah 6,27.0,19.0,0.0,3.0,0.0,0.0,0.0,3.0,right_only
+2975,,,,,,,,,,,,,075 Pleasant Grove 1,Hamilton,075 Pleasant Grove 1,2195.0,748.0,4.0,102.0,6.0,9.0,13.0,21.0,right_only
+2976,,,,,,,,,,,,,103 Pleasant Grove 2,Hamilton,103 Pleasant Grove 2,59.0,11.0,0.0,1.0,0.0,0.0,1.0,0.0,right_only
+2977,,,,,,,,,,,,,076 Red Bank 1,Hamilton,076 Red Bank 1,651.0,643.0,1.0,90.0,1.0,6.0,19.0,14.0,right_only
+2978,,,,,,,,,,,,,077 Red Bank 2,Hamilton,077 Red Bank 2,330.0,279.0,1.0,34.0,2.0,2.0,13.0,9.0,right_only
+2979,,,,,,,,,,,,,078 Red Bank 3,Hamilton,078 Red Bank 3,1495.0,768.0,0.0,110.0,4.0,1.0,31.0,15.0,right_only
+2980,,,,,,,,,,,,,210 Ridgedale 1,Hamilton,210 Ridgedale 1,142.0,560.0,0.0,51.0,0.0,0.0,14.0,17.0,right_only
+2981,,,,,,,,,,,,,211 Ridgedale 2,Hamilton,211 Ridgedale 2,63.0,177.0,0.0,9.0,1.0,1.0,3.0,5.0,right_only
+2982,,,,,,,,,,,,,061 Ridgeside,Hamilton,061 Ridgeside,121.0,120.0,0.0,21.0,0.0,0.0,2.0,8.0,right_only
+2983,,,,,,,,,,,,,042 Riverview,Hamilton,042 Riverview,465.0,589.0,1.0,83.0,3.0,2.0,13.0,5.0,right_only
+2984,,,,,,,,,,,,,080 Sale Creek,Hamilton,080 Sale Creek,799.0,132.0,0.0,16.0,0.0,7.0,3.0,21.0,right_only
+2985,,,,,,,,,,,,,207 Signal Mountain 1,Hamilton,207 Signal Mountain 1,1725.0,1092.0,3.0,136.0,1.0,6.0,25.0,26.0,right_only
+2986,,,,,,,,,,,,,200 Signal Mountain 2,Hamilton,200 Signal Mountain 2,1039.0,690.0,2.0,95.0,1.0,6.0,15.0,35.0,right_only
+2987,,,,,,,,,,,,,170 Snowhill 1,Hamilton,170 Snowhill 1,1082.0,287.0,2.0,44.0,1.0,4.0,7.0,18.0,right_only
+2988,,,,,,,,,,,,,179 Snowhill 2,Hamilton,179 Snowhill 2,1944.0,495.0,2.0,69.0,2.0,6.0,9.0,8.0,right_only
+2989,,,,,,,,,,,,,083 Soddy Daisy 1,Hamilton,083 Soddy Daisy 1,2091.0,546.0,0.0,94.0,2.0,5.0,17.0,26.0,right_only
+2990,,,,,,,,,,,,,084 Soddy Daisy 2,Hamilton,084 Soddy Daisy 2,1280.0,297.0,1.0,49.0,3.0,0.0,5.0,11.0,right_only
+2991,,,,,,,,,,,,,144 Soddy Daisy 3,Hamilton,144 Soddy Daisy 3,361.0,102.0,0.0,9.0,0.0,0.0,2.0,3.0,right_only
+2992,,,,,,,,,,,,,219 Soddy Daisy 4,Hamilton,219 Soddy Daisy 4,33.0,19.0,0.0,1.0,0.0,0.0,0.0,0.0,right_only
+2993,,,,,,,,,,,,,043 St. Elmo 1,Hamilton,043 St. Elmo 1,309.0,683.0,4.0,93.0,2.0,5.0,34.0,67.0,right_only
+2994,,,,,,,,,,,,,137 St. Elmo 2,Hamilton,137 St. Elmo 2,34.0,34.0,0.0,2.0,0.0,0.0,0.0,0.0,right_only
+2995,,,,,,,,,,,,,198 Stuart Heights,Hamilton,198 Stuart Heights,912.0,1019.0,2.0,124.0,0.0,2.0,25.0,20.0,right_only
+2996,,,,,,,,,,,,,063 Summit 1,Hamilton,063 Summit 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+2997,,,,,,,,,,,,,166 Summit 2,Hamilton,166 Summit 2,372.0,214.0,2.0,33.0,1.0,0.0,4.0,5.0,right_only
+2998,,,,,,,,,,,,,203 Summit 3,Hamilton,203 Summit 3,836.0,255.0,0.0,48.0,0.0,1.0,3.0,4.0,right_only
+2999,,,,,,,,,,,,,201 Summit 4,Hamilton,201 Summit 4,20.0,53.0,0.0,6.0,0.0,0.0,0.0,0.0,right_only
+3000,,,,,,,,,,,,,046 Tyner 1,Hamilton,046 Tyner 1,983.0,892.0,2.0,55.0,5.0,2.0,18.0,14.0,right_only
+3001,,,,,,,,,,,,,097 Tyner 2,Hamilton,097 Tyner 2,107.0,133.0,0.0,9.0,1.0,0.0,2.0,2.0,right_only
+3002,,,,,,,,,,,,,085 Valdeau,Hamilton,085 Valdeau,237.0,108.0,0.0,20.0,0.0,0.0,4.0,0.0,right_only
+3003,,,,,,,,,,,,,086 Walden,Hamilton,086 Walden,676.0,350.0,1.0,47.0,0.0,3.0,7.0,7.0,right_only
+3004,,,,,,,,,,,,,064 Westview 1,Hamilton,064 Westview 1,1392.0,689.0,4.0,83.0,1.0,9.0,16.0,15.0,right_only
+3005,,,,,,,,,,,,,091 Westview 2,Hamilton,091 Westview 2,1560.0,686.0,4.0,97.0,1.0,3.0,10.0,28.0,right_only
+3006,,,,,,,,,,,,,096 Westview 3,Hamilton,096 Westview 3,831.0,334.0,4.0,36.0,1.0,6.0,6.0,4.0,right_only
+3007,,,,,,,,,,,,,173 Woodmore 1,Hamilton,173 Woodmore 1,100.0,1180.0,0.0,11.0,0.0,1.0,8.0,1.0,right_only
+3008,,,,,,,,,,,,,174 Woodmore 2,Hamilton,174 Woodmore 2,29.0,47.0,0.0,3.0,0.0,0.0,2.0,0.0,right_only
+3009,,,,,,,,,,,,,Airport 1-1,Hardin,Airport 1-1,300.0,57.0,0.0,7.0,3.0,2.0,3.0,0.0,right_only
+3010,,,,,,,,,,,,,Olivet 1-2,Hardin,Olivet 1-2,422.0,72.0,0.0,4.0,1.0,5.0,3.0,0.0,right_only
+3011,,,,,,,,,,,,,Nixon 2-1,Hardin,Nixon 2-1,536.0,71.0,0.0,6.0,4.0,1.0,6.0,0.0,right_only
+3012,,,,,,,,,,,,,Walkers 2-2,Hardin,Walkers 2-2,319.0,53.0,0.0,3.0,0.0,1.0,5.0,0.0,right_only
+3013,,,,,,,,,,,,,Counce 3-1,Hardin,Counce 3-1,714.0,144.0,0.0,10.0,1.0,3.0,12.0,0.0,right_only
+3014,,,,,,,,,,,,,Southside 3-2,Hardin,Southside 3-2,310.0,60.0,2.0,8.0,0.0,3.0,2.0,0.0,right_only
+3015,,,,,,,,,,,,,Shiloh 4-1,Hardin,Shiloh 4-1,96.0,51.0,1.0,4.0,0.0,0.0,3.0,0.0,right_only
+3016,,,,,,,,,,,,,Crump 4-2,Hardin,Crump 4-2,704.0,100.0,1.0,11.0,1.0,4.0,6.0,0.0,right_only
+3017,,,,,,,,,,,,,Saltillo 5-1,Hardin,Saltillo 5-1,277.0,86.0,3.0,5.0,1.0,2.0,5.0,0.0,right_only
+3018,,,,,,,,,,,,,Morris Chapel 5-2,Hardin,Morris Chapel 5-2,510.0,83.0,2.0,14.0,3.0,5.0,9.0,0.0,right_only
+3019,,,,,,,,,,,,,Cerro Gordo 6-1,Hardin,Cerro Gordo 6-1,356.0,71.0,1.0,1.0,1.0,0.0,5.0,0.0,right_only
+3020,,,,,,,,,,,,,Rhodes 6-2,Hardin,Rhodes 6-2,355.0,38.0,0.0,5.0,2.0,0.0,1.0,0.0,right_only
+3021,,,,,,,,,,,,,Olive Hill 6-3,Hardin,Olive Hill 6-3,207.0,24.0,0.0,1.0,0.0,3.0,4.0,0.0,right_only
+3022,,,,,,,,,,,,,Whites 7-1,Hardin,Whites 7-1,348.0,64.0,0.0,5.0,1.0,0.0,2.0,0.0,right_only
+3023,,,,,,,,,,,,,Walnut Grove 7-2,Hardin,Walnut Grove 7-2,392.0,58.0,1.0,6.0,1.0,3.0,7.0,0.0,right_only
+3024,,,,,,,,,,,,,North 8-1,Hardin,North 8-1,1004.0,293.0,0.0,18.0,1.0,3.0,8.0,0.0,right_only
+3025,,,,,,,,,,,,,Library 9-1,Hardin,Library 9-1,514.0,112.0,1.0,14.0,0.0,5.0,8.0,0.0,right_only
+3026,,,,,,,,,,,,,Fairground 10-1,Hardin,Fairground 10-1,648.0,185.0,3.0,12.0,2.0,8.0,7.0,0.0,right_only
+3027,,,,,,,,,,,,,6 Alum Well,Hawkins,6 Alum Well,450.0,60.0,0.0,7.0,1.0,0.0,0.0,0.0,right_only
+3028,,,,,,,,,,,,,2 Church Hill Outsid,Hawkins,2 Church Hill Outsid,41.0,11.0,0.0,2.0,0.0,0.0,0.0,0.0,right_only
+3029,,,,,,,,,,,,,4 Keplar,Hawkins,4 Keplar,262.0,55.0,0.0,6.0,0.0,2.0,0.0,0.0,right_only
+3030,,,,,,,,,,,,,5 Rogersville No In,Hawkins,5 Rogersville No In,430.0,110.0,1.0,15.0,0.0,1.0,2.0,1.0,right_only
+3031,,,,,,,,,,,,,4 Rogersville No Out,Hawkins,4 Rogersville No Out,517.0,81.0,3.0,17.0,0.0,2.0,0.0,4.0,right_only
+3032,,,,,,,,,,,,,5 Rogersville So In,Hawkins,5 Rogersville So In,671.0,145.0,4.0,8.0,2.0,0.0,3.0,0.0,right_only
+3033,,,,,,,,,,,,,5 Rogersville So Out,Hawkins,5 Rogersville So Out,954.0,180.0,1.0,23.0,0.0,0.0,3.0,1.0,right_only
+3034,,,,,,,,,,,,,7 Strahl/Cherokee,Hawkins,7 Strahl/Cherokee,799.0,158.0,2.0,19.0,0.0,3.0,3.0,3.0,right_only
+3035,,,,,,,,,,,,,4 Surgoinsville In,Hawkins,4 Surgoinsville In,653.0,139.0,1.0,10.0,1.0,4.0,5.0,5.0,right_only
+3036,,,,,,,,,,,,,4 Surgoinsville Out,Hawkins,4 Surgoinsville Out,673.0,142.0,2.0,11.0,0.0,2.0,6.0,0.0,right_only
+3037,,,,,,,,,,,,,3-3 Fire Station #4,Henderson,3-3 Fire Station #4,600.0,103.0,1.0,12.0,1.0,2.0,2.0,3.0,right_only
+3038,,,,,,,,,,,,,3-4 Christian Chapel,Henderson,3-4 Christian Chapel,91.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,right_only
+3039,,,,,,,,,,,,,5-5 TN Tech Center,Henderson,5-5 TN Tech Center,947.0,248.0,1.0,18.0,0.0,1.0,5.0,4.0,right_only
+3040,,,,,,,,,,,,,4-6 Civic Center,Henderson,4-6 Civic Center,965.0,342.0,6.0,29.0,2.0,3.0,7.0,3.0,right_only
+3041,,,,,,,,,,,,,3-7 Darden,Henderson,3-7 Darden,238.0,16.0,1.0,4.0,0.0,1.0,0.0,0.0,right_only
+3042,,,,,,,,,,,,,6-8 Broad Street,Henderson,6-8 Broad Street,1318.0,308.0,2.0,30.0,2.0,3.0,6.0,5.0,right_only
+3043,,,,,,,,,,,,,7-9 Middleburg,Henderson,7-9 Middleburg,153.0,15.0,0.0,1.0,0.0,0.0,0.0,0.0,right_only
+3044,,,,,,,,,,,,,3-10 Fire Sta #10,Henderson,3-10 Fire Sta #10,352.0,136.0,0.0,7.0,0.0,2.0,0.0,0.0,right_only
+3045,,,,,,,,,,,,,7-11 Reagan,Henderson,7-11 Reagan,421.0,45.0,0.0,1.0,2.0,1.0,1.0,0.0,right_only
+3046,,,,,,,,,,,,,7-12 Sardis,Henderson,7-12 Sardis,380.0,19.0,0.0,8.0,1.0,3.0,0.0,0.0,right_only
+3047,,,,,,,,,,,,,7-13 Scotts Hill,Henderson,7-13 Scotts Hill,318.0,48.0,1.0,3.0,0.0,0.0,0.0,0.0,right_only
+3048,,,,,,,,,,,,,2-14 South Haven,Henderson,2-14 South Haven,264.0,47.0,0.0,8.0,0.0,3.0,2.0,0.0,right_only
+3049,,,,,,,,,,,,,2-15 Westover,Henderson,2-15 Westover,1049.0,143.0,0.0,28.0,1.0,4.0,8.0,1.0,right_only
+3050,,,,,,,,,,,,,5-1 Henry Co High,Henry,5-1 Henry Co High,1006.0,291.0,4.0,24.0,2.0,4.0,5.0,0.0,right_only
+3051,,,,,,,,,,,,,5-2 TN Tech Center,Henry,5-2 TN Tech Center,912.0,403.0,2.0,24.0,5.0,3.0,8.0,7.0,right_only
+3052,,,,,,,,,,,,,1-1 Nunnelly,Hickman,1-1 Nunnelly,225.0,73.0,1.0,5.0,0.0,0.0,3.0,0.0,right_only
+3053,,,,,,,,,,,,,1-2 Pinewood,Hickman,1-2 Pinewood,352.0,92.0,2.0,12.0,2.0,0.0,3.0,2.0,right_only
+3054,,,,,,,,,,,,,2-2 Fairfield,Hickman,2-2 Fairfield,191.0,51.0,1.0,2.0,0.0,0.0,0.0,4.0,right_only
+3055,,,,,,,,,,,,,2-3 East Bank,Hickman,2-3 East Bank,616.0,250.0,1.0,12.0,2.0,3.0,2.0,0.0,right_only
+3056,,,,,,,,,,,,,3-1 East CC,Hickman,3-1 East CC,655.0,219.0,3.0,19.0,3.0,2.0,3.0,1.0,right_only
+3057,,,,,,,,,,,,,4-1 Lake Benson,Hickman,4-1 Lake Benson,832.0,204.0,5.0,30.0,2.0,2.0,6.0,3.0,right_only
+3058,,,,,,,,,,,,,5-1 Mt. Pleasant,Hickman,5-1 Mt. Pleasant,324.0,101.0,0.0,7.0,1.0,0.0,0.0,0.0,right_only
+3059,,,,,,,,,,,,,5-2 Middle School,Hickman,5-2 Middle School,271.0,58.0,2.0,17.0,0.0,0.0,0.0,0.0,right_only
+3060,,,,,,,,,,,,,5-3 Shady Grove,Hickman,5-3 Shady Grove,277.0,91.0,2.0,19.0,1.0,0.0,2.0,0.0,right_only
+3061,,,,,,,,,,,,,6-1 Justice Center,Hickman,6-1 Justice Center,901.0,401.0,1.0,25.0,3.0,4.0,10.0,11.0,right_only
+3062,,,,,,,,,,,,,7-1 Nunnelly,Hickman,7-1 Nunnelly,221.0,66.0,0.0,2.0,1.0,0.0,1.0,0.0,right_only
+3063,,,,,,,,,,,,,7-2 Pleasantville,Hickman,7-2 Pleasantville,174.0,36.0,0.0,5.0,1.0,1.0,1.0,1.0,right_only
+3064,,,,,,,,,,,,,7-3 Brushy,Hickman,7-3 Brushy,470.0,137.0,2.0,5.0,1.0,2.0,6.0,11.0,right_only
+3065,,,,,,,,,,,,,7-4 Coble,Hickman,7-4 Coble,186.0,45.0,0.0,1.0,2.0,1.0,2.0,7.0,right_only
+3066,,,,,,,,,,,,,Stewart,Houston,Stewart,334.0,112.0,0.0,11.0,0.0,3.0,4.0,0.0,right_only
+3067,,,,,,,,,,,,,Tennessee Ridge,Houston,Tennessee Ridge,312.0,116.0,0.0,15.0,0.0,0.0,1.0,0.0,right_only
+3068,,,,,,,,,,,,,Erin,Houston,Erin,267.0,133.0,3.0,14.0,2.0,1.0,1.0,0.0,right_only
+3069,,,,,,,,,,,,,Arlington,Houston,Arlington,314.0,133.0,1.0,19.0,0.0,2.0,1.0,0.0,right_only
+3070,,,,,,,,,,,,,Erin Elementary,Houston,Erin Elementary,306.0,110.0,3.0,14.0,1.0,0.0,1.0,0.0,right_only
+3071,,,,,,,,,,,,,Houston Co Middle,Houston,Houston Co Middle,318.0,132.0,1.0,10.0,1.0,0.0,2.0,0.0,right_only
+3072,,,,,,,,,,,,,Griffins Chapel,Houston,Griffins Chapel,331.0,130.0,1.0,5.0,0.0,1.0,2.0,0.0,right_only
+3073,,,,,,,,,,,,,1-1 Jera,Humphreys,1-1 Jera,171.0,64.0,1.0,6.0,0.0,2.0,0.0,0.0,right_only
+3074,,,,,,,,,,,,,4-5 NJMC,Humphreys,4-5 NJMC,773.0,293.0,3.0,25.0,1.0,7.0,0.0,3.0,right_only
+3075,,,,,,,,,,,,,7-8 North McEwen,Humphreys,7-8 North McEwen,859.0,237.0,1.0,27.0,2.0,3.0,4.0,2.0,right_only
+3076,,,,,,,,,,,,,1 Dandridge ES,Jefferson,1 Dandridge ES,1703.0,416.0,5.0,53.0,2.0,5.0,7.0,12.0,right_only
+3077,,,,,,,,,,,,,2 Piedmont,Jefferson,2 Piedmont,1625.0,291.0,2.0,44.0,4.0,5.0,12.0,4.0,right_only
+3078,,,,,,,,,,,,,3 White Pine,Jefferson,3 White Pine,2211.0,386.0,3.0,65.0,2.0,18.0,10.0,7.0,right_only
+3079,,,,,,,,,,,,,4 Jefferson ES,Jefferson,4 Jefferson ES,1217.0,456.0,2.0,57.0,3.0,11.0,19.0,9.0,right_only
+3080,,,,,,,,,,,,,5 Jefferson Middle,Jefferson,5 Jefferson Middle,1520.0,373.0,1.0,52.0,5.0,7.0,14.0,7.0,right_only
+3081,,,,,,,,,,,,,6 Rush Strong,Jefferson,6 Rush Strong,1203.0,288.0,4.0,42.0,1.0,8.0,11.0,3.0,right_only
+3082,,,,,,,,,,,,,7 New Market,Jefferson,7 New Market,1417.0,315.0,5.0,55.0,2.0,9.0,9.0,4.0,right_only
+3083,,,,,,,,,,,,,8-1 Chestnut Hill,Jefferson,8-1 Chestnut Hill,924.0,254.0,1.0,24.0,1.0,1.0,6.0,3.0,right_only
+3084,,,,,,,,,,,,,8-2 Swannsylvania,Jefferson,8-2 Swannsylvania,727.0,146.0,2.0,18.0,2.0,1.0,3.0,0.0,right_only
+3085,,,,,,,,,,,,,9 Talbott School,Jefferson,9 Talbott School,1413.0,233.0,6.0,35.0,0.0,6.0,14.0,2.0,right_only
+3086,,,,,,,,,,,,,10 Jeff City Fire Dp,Jefferson,10 Jeff City Fire Dp,816.0,336.0,3.0,52.0,0.0,5.0,10.0,7.0,right_only
+3087,,,,,,,,,,,,,5 Doe,Johnson,5 Doe,693.0,124.0,3.0,12.0,1.0,1.0,2.0,0.0,right_only
+3088,,,,,,,,,,,,,06 Green School,Knox,06 Green School,328.0,870.0,0.0,79.0,0.0,3.0,20.0,14.0,right_only
+3089,,,,,,,,,,,,,09 Eternal Life Harvest,Knox,09 Eternal Life Harvest,57.0,349.0,0.0,16.0,1.0,2.0,10.0,0.0,right_only
+3090,,,,,,,,,,,,,10N Fort Sanders,Knox,10N Fort Sanders,254.0,635.0,3.0,81.0,0.0,1.0,26.0,9.0,right_only
+3091,,,,,,,,,,,,,10S Howard Baker Center,Knox,10S Howard Baker Center,195.0,396.0,0.0,45.0,0.0,2.0,13.0,2.0,right_only
+3092,,,,,,,,,,,,,10W Howard Baker Center,Knox,10W Howard Baker Center,46.0,17.0,0.0,6.0,0.0,0.0,0.0,0.0,right_only
+3093,,,,,,,,,,,,,11 Central UMC,Knox,11 Central UMC,247.0,874.0,4.0,46.0,3.0,8.0,54.0,3.0,right_only
+3094,,,,,,,,,,,,,12 Eastport,Knox,12 Eastport,78.0,1089.0,3.0,10.0,1.0,5.0,8.0,0.0,right_only
+3095,,,,,,,,,,,,,13 Fair Garden,Knox,13 Fair Garden,178.0,1076.0,11.0,25.0,6.0,6.0,7.0,4.0,right_only
+3096,,,,,,,,,,,,,14 Austin-East,Knox,14 Austin-East,31.0,463.0,1.0,4.0,0.0,2.0,8.0,0.0,right_only
+3097,,,,,,,,,,,,,15 John T. O'Connor,Knox,15 John T. O'Connor,132.0,673.0,2.0,34.0,1.0,5.0,25.0,2.0,right_only
+3098,,,,,,,,,,,,,16 Larry Cox Sr Center,Knox,16 Larry Cox Sr Center,1069.0,1484.0,9.0,126.0,4.0,8.0,68.0,25.0,right_only
+3099,,,,,,,,,,,,,17 Christenberry,Knox,17 Christenberry,356.0,512.0,3.0,26.0,2.0,2.0,29.0,7.0,right_only
+3100,,,,,,,,,,,,,18 Lincoln Park,Knox,18 Lincoln Park,292.0,485.0,1.0,32.0,1.0,4.0,23.0,5.0,right_only
+3101,,,,,,,,,,,,,19E Thrive Lonsdale,Knox,19E Thrive Lonsdale,142.0,440.0,2.0,11.0,1.0,4.0,9.0,1.0,right_only
+3102,,,,,,,,,,,,,19W Thrive Lonsdale,Knox,19W Thrive Lonsdale,109.0,223.0,1.0,16.0,1.0,1.0,5.0,3.0,right_only
+3103,,,,,,,,,,,,,20 Beaumont,Knox,20 Beaumont,104.0,167.0,1.0,6.0,5.0,1.0,5.0,1.0,right_only
+3104,,,,,,,,,,,,,23 Westview,Knox,23 Westview,300.0,215.0,3.0,13.0,1.0,3.0,10.0,3.0,right_only
+3105,,,,,,,,,,,,,24Q Sequoyah Hills,Knox,24Q Sequoyah Hills,881.0,1125.0,4.0,107.0,1.0,13.0,20.0,25.0,right_only
+3106,,,,,,,,,,,,,25 South Knox CC,Knox,25 South Knox CC,953.0,988.0,5.0,108.0,8.0,13.0,31.0,16.0,right_only
+3107,,,,,,,,,,,,,26 Dogwood,Knox,26 Dogwood,767.0,1116.0,5.0,103.0,1.0,13.0,46.0,16.0,right_only
+3108,,,,,,,,,,,,,27 South Knox,Knox,27 South Knox,633.0,441.0,3.0,61.0,3.0,3.0,18.0,7.0,right_only
+3109,,,,,,,,,,,,,29 Anderson,Knox,29 Anderson,712.0,466.0,2.0,66.0,1.0,7.0,27.0,8.0,right_only
+3110,,,,,,,,,,,,,30 Sarah Moore Greene,Knox,30 Sarah Moore Greene,192.0,693.0,2.0,20.0,0.0,1.0,10.0,3.0,right_only
+3111,,,,,,,,,,,,,31 Chilhowee,Knox,31 Chilhowee,408.0,615.0,0.0,41.0,2.0,5.0,14.0,6.0,right_only
+3112,,,,,,,,,,,,,32 Spring Hill,Knox,32 Spring Hill,525.0,524.0,4.0,32.0,0.0,10.0,10.0,9.0,right_only
+3113,,,,,,,,,,,,,33 Richard Yoakley,Knox,33 Richard Yoakley,728.0,583.0,6.0,57.0,2.0,7.0,21.0,15.0,right_only
+3114,,,,,,,,,,,,,34 Fountain City Library,Knox,34 Fountain City Library,465.0,445.0,3.0,51.0,1.0,2.0,10.0,2.0,right_only
+3115,,,,,,,,,,,,,35 Shannondale,Knox,35 Shannondale,765.0,552.0,1.0,57.0,4.0,2.0,13.0,7.0,right_only
+3116,,,,,,,,,,,,,36 Gresham,Knox,36 Gresham,953.0,731.0,7.0,86.0,0.0,10.0,16.0,14.0,right_only
+3117,,,,,,,,,,,,,37 Inskip Elementary,Knox,37 Inskip Elementary,1847.0,1403.0,13.0,158.0,5.0,21.0,56.0,21.0,right_only
+3118,,,,,,,,,,,,,39 Inskip Rec Center,Knox,39 Inskip Rec Center,553.0,344.0,3.0,47.0,4.0,6.0,11.0,6.0,right_only
+3119,,,,,,,,,,,,,40 Norwood,Knox,40 Norwood,863.0,575.0,4.0,64.0,3.0,13.0,12.0,15.0,right_only
+3120,,,,,,,,,,,,,41 Norwood,Knox,41 Norwood,622.0,447.0,4.0,51.0,1.0,11.0,14.0,3.0,right_only
+3121,,,,,,,,,,,,,42 Pleasant Ridge,Knox,42 Pleasant Ridge,709.0,487.0,3.0,79.0,1.0,4.0,15.0,8.0,right_only
+3122,,,,,,,,,,,,,43 West Haven,Knox,43 West Haven,695.0,557.0,2.0,74.0,1.0,7.0,15.0,14.0,right_only
+3123,,,,,,,,,,,,,44 Ridgedale,Knox,44 Ridgedale,1145.0,861.0,1.0,122.0,5.0,13.0,24.0,14.0,right_only
+3124,,,,,,,,,,,,,45 Bearden Middle,Knox,45 Bearden Middle,2001.0,1338.0,12.0,166.0,4.0,19.0,36.0,37.0,right_only
+3125,,,,,,,,,,,,,46 1st Nazarene,Knox,46 1st Nazarene,1357.0,1180.0,9.0,135.0,2.0,12.0,30.0,32.0,right_only
+3126,,,,,,,,,,,,,47 Bearden High,Knox,47 Bearden High,1741.0,1907.0,10.0,226.0,12.0,21.0,51.0,44.0,right_only
+3127,,,,,,,,,,,,,48 Pond Gap,Knox,48 Pond Gap,414.0,518.0,1.0,67.0,2.0,8.0,21.0,12.0,right_only
+3128,,,,,,,,,,,,,49 Bearden Elementary,Knox,49 Bearden Elementary,358.0,770.0,6.0,71.0,3.0,2.0,21.0,11.0,right_only
+3129,,,,,,,,,,,,,50N West High,Knox,50N West High,108.0,176.0,0.0,23.0,2.0,2.0,4.0,1.0,right_only
+3130,,,,,,,,,,,,,50S West High,Knox,50S West High,175.0,286.0,2.0,18.0,2.0,6.0,13.0,5.0,right_only
+3131,,,,,,,,,,,,,51 Deane Hill Rec Ctr,Knox,51 Deane Hill Rec Ctr,1173.0,749.0,2.0,100.0,2.0,7.0,17.0,23.0,right_only
+3132,,,,,,,,,,,,,55 Lonas,Knox,55 Lonas,1390.0,922.0,5.0,124.0,3.0,24.0,25.0,24.0,right_only
+3133,,,,,,,,,,,,,56 Heiskell,Knox,56 Heiskell,899.0,210.0,1.0,35.0,0.0,5.0,4.0,7.0,right_only
+3134,,,,,,,,,,,,,57 Hills,Knox,57 Hills,326.0,62.0,1.0,10.0,0.0,1.0,2.0,0.0,right_only
+3135,,,,,,,,,,,,,58N Pedigo,Knox,58N Pedigo,249.0,43.0,1.0,6.0,0.0,1.0,1.0,0.0,right_only
+3136,,,,,,,,,,,,,58S Pedigo,Knox,58S Pedigo,1626.0,339.0,3.0,61.0,0.0,8.0,4.0,23.0,right_only
+3137,,,,,,,,,,,,,59 Brickey,Knox,59 Brickey,2917.0,821.0,7.0,131.0,4.0,29.0,24.0,22.0,right_only
+3138,,,,,,,,,,,,,60 Fort Sumter,Knox,60 Fort Sumter,1215.0,276.0,1.0,29.0,3.0,6.0,3.0,7.0,right_only
+3139,,,,,,,,,,,,,61 Halls,Knox,61 Halls,4646.0,1253.0,4.0,157.0,6.0,26.0,36.0,26.0,right_only
+3140,,,,,,,,,,,,,62 Hardin Valley,Knox,62 Hardin Valley,1575.0,534.0,4.0,105.0,3.0,7.0,11.0,22.0,right_only
+3141,,,,,,,,,,,,,63 Karns,Knox,63 Karns,3057.0,970.0,7.0,165.0,4.0,33.0,24.0,27.0,right_only
+3142,,,,,,,,,,,,,63N Karns North,Knox,63N Karns North,1573.0,470.0,0.0,56.0,1.0,11.0,12.0,21.0,right_only
+3143,,,,,,,,,,,,,64 Solway,Knox,64 Solway,2130.0,902.0,5.0,133.0,4.0,10.0,27.0,25.0,right_only
+3144,,,,,,,,,,,,,65W Concord,Knox,65W Concord,3068.0,1215.0,16.0,178.0,2.0,15.0,16.0,26.0,right_only
+3145,,,,,,,,,,,,,65E Shoreline,Knox,65E Shoreline,2915.0,1554.0,8.0,224.0,1.0,33.0,38.0,41.0,right_only
+3146,,,,,,,,,,,,,65N Concord North,Knox,65N Concord North,1076.0,568.0,3.0,100.0,0.0,24.0,9.0,13.0,right_only
+3147,,,,,,,,,,,,,66N Farragut I,Knox,66N Farragut I,4216.0,1959.0,13.0,258.0,7.0,40.0,34.0,44.0,right_only
+3148,,,,,,,,,,,,,66S Farragut II,Knox,66S Farragut II,3775.0,1764.0,11.0,262.0,6.0,31.0,28.0,40.0,right_only
+3149,,,,,,,,,,,,,67 North Cedar Bluff,Knox,67 North Cedar Bluff,2227.0,1522.0,9.0,234.0,8.0,18.0,39.0,38.0,right_only
+3150,,,,,,,,,,,,,68 South Cedar Bluff,Knox,68 South Cedar Bluff,1702.0,1152.0,6.0,139.0,2.0,19.0,16.0,22.0,right_only
+3151,,,,,,,,,,,,,68E East Cedar Bluff,Knox,68E East Cedar Bluff,554.0,577.0,1.0,74.0,4.0,12.0,19.0,8.0,right_only
+3152,,,,,,,,,,,,,69E Bluegrass,Knox,69E Bluegrass,2045.0,1111.0,8.0,162.0,2.0,25.0,16.0,44.0,right_only
+3153,,,,,,,,,,,,,69N West Valley,Knox,69N West Valley,1698.0,1041.0,8.0,140.0,4.0,15.0,16.0,22.0,right_only
+3154,,,,,,,,,,,,,69W A. L. Lotts,Knox,69W A. L. Lotts,1588.0,995.0,4.0,115.0,2.0,25.0,18.0,21.0,right_only
+3155,,,,,,,,,,,,,69S Northshore,Knox,69S Northshore,1762.0,962.0,5.0,126.0,4.0,19.0,29.0,40.0,right_only
+3156,,,,,,,,,,,,,70E Amherst,Knox,70E Amherst,2593.0,1102.0,8.0,178.0,2.0,30.0,24.0,45.0,right_only
+3157,,,,,,,,,,,,,70W Ball Camp,Knox,70W Ball Camp,2237.0,1213.0,7.0,167.0,3.0,34.0,35.0,39.0,right_only
+3158,,,,,,,,,,,,,71 Rocky Hill,Knox,71 Rocky Hill,2525.0,1561.0,12.0,214.0,8.0,20.0,36.0,39.0,right_only
+3159,,,,,,,,,,,,,72 Dante,Knox,72 Dante,2098.0,741.0,7.0,99.0,7.0,12.0,17.0,23.0,right_only
+3160,,,,,,,,,,,,,73 Powell,Knox,73 Powell,3406.0,1005.0,5.0,187.0,4.0,38.0,29.0,35.0,right_only
+3161,,,,,,,,,,,,,74 Shannondale,Knox,74 Shannondale,1474.0,698.0,1.0,88.0,3.0,10.0,10.0,16.0,right_only
+3162,,,,,,,,,,,,,76 Sunnyview,Knox,76 Sunnyview,897.0,301.0,1.0,38.0,2.0,4.0,4.0,10.0,right_only
+3163,,,,,,,,,,,,,77 Ramsey,Knox,77 Ramsey,442.0,191.0,0.0,18.0,1.0,1.0,4.0,2.0,right_only
+3164,,,,,,,,,,,,,78 Riverdale,Knox,78 Riverdale,445.0,97.0,4.0,15.0,1.0,3.0,5.0,3.0,right_only
+3165,,,,,,,,,,,,,79 Dora Kennedy,Knox,79 Dora Kennedy,651.0,175.0,3.0,31.0,1.0,2.0,7.0,3.0,right_only
+3166,,,,,,,,,,,,,80 Corryton,Knox,80 Corryton,849.0,199.0,2.0,18.0,2.0,4.0,3.0,1.0,right_only
+3167,,,,,,,,,,,,,81 Gibbs,Knox,81 Gibbs,3327.0,631.0,6.0,110.0,5.0,15.0,21.0,21.0,right_only
+3168,,,,,,,,,,,,,82 Ellistown,Knox,82 Ellistown,811.0,410.0,5.0,45.0,1.0,6.0,6.0,7.0,right_only
+3169,,,,,,,,,,,,,84 Ritta,Knox,84 Ritta,1957.0,739.0,9.0,99.0,0.0,16.0,12.0,21.0,right_only
+3170,,,,,,,,,,,,,85 Skaggston,Knox,85 Skaggston,1026.0,263.0,3.0,25.0,2.0,4.0,6.0,5.0,right_only
+3171,,,,,,,,,,,,,86 Carter,Knox,86 Carter,1074.0,242.0,5.0,41.0,4.0,1.0,6.0,11.0,right_only
+3172,,,,,,,,,,,,,87 Thorngrove,Knox,87 Thorngrove,794.0,158.0,0.0,17.0,2.0,5.0,5.0,3.0,right_only
+3173,,,,,,,,,,,,,89 Mt. Olive,Knox,89 Mt. Olive,1502.0,912.0,6.0,110.0,3.0,14.0,28.0,13.0,right_only
+3174,,,,,,,,,,,,,90 South Doyle,Knox,90 South Doyle,1973.0,673.0,6.0,73.0,3.0,15.0,18.0,20.0,right_only
+3175,,,,,,,,,,,,,92 Gap Creek,Knox,92 Gap Creek,547.0,111.0,1.0,35.0,0.0,6.0,3.0,22.0,right_only
+3176,,,,,,,,,,,,,93 Hopewell,Knox,93 Hopewell,1249.0,389.0,2.0,60.0,4.0,14.0,8.0,10.0,right_only
+3177,,,,,,,,,,,,,1 Tiptonville SR Citizens,Lake,1 Tiptonville SR Citizens,108.0,21.0,0.0,0.0,0.0,1.0,0.0,0.0,right_only
+3178,,,,,,,,,,,,,2 Courthouse,Lake,2 Courthouse,594.0,340.0,1.0,13.0,0.0,2.0,3.0,0.0,right_only
+3179,,,,,,,,,,,,,3 Lake Co Middle,Lake,3 Lake Co Middle,655.0,216.0,4.0,5.0,1.0,3.0,3.0,0.0,right_only
+3180,,,,,,,,,,,,,Henning 1,Lauderdale,Henning 1,215.0,409.0,0.0,5.0,2.0,0.0,2.0,0.0,right_only
+3181,,,,,,,,,,,,,McBride 1,Lauderdale,McBride 1,291.0,155.0,0.0,4.0,1.0,0.0,2.0,0.0,right_only
+3182,,,,,,,,,,,,,Conner 2,Lauderdale,Conner 2,292.0,144.0,1.0,3.0,0.0,2.0,1.0,1.0,right_only
+3183,,,,,,,,,,,,,Lightfoot 5,Lauderdale,Lightfoot 5,308.0,71.0,0.0,2.0,0.0,0.0,0.0,0.0,right_only
+3184,,,,,,,,,,,,,Arp 6,Lauderdale,Arp 6,367.0,104.0,3.0,8.0,3.0,1.0,0.0,0.0,right_only
+3185,,,,,,,,,,,,,Central 6,Lauderdale,Central 6,561.0,136.0,0.0,10.0,0.0,2.0,1.0,0.0,right_only
+3186,,,,,,,,,,,,,Edith 7,Lauderdale,Edith 7,236.0,37.0,0.0,5.0,0.0,0.0,0.0,0.0,right_only
+3187,,,,,,,,,,,,,Gates 7,Lauderdale,Gates 7,350.0,197.0,0.0,5.0,0.0,3.0,1.0,0.0,right_only
+3188,,,,,,,,,,,,,Nankipoo 7,Lauderdale,Nankipoo 7,320.0,53.0,0.0,6.0,0.0,1.0,0.0,0.0,right_only
+3189,,,,,,,,,,,,,01-1 St. Joseph,Lawrence,01-1 St. Joseph,339.0,98.0,1.0,10.0,0.0,1.0,2.0,0.0,right_only
+3190,,,,,,,,,,,,,01-2 West Loretto,Lawrence,01-2 West Loretto,367.0,151.0,3.0,14.0,2.0,4.0,2.0,0.0,right_only
+3191,,,,,,,,,,,,,02-1 Loretto Civ Ctr,Lawrence,02-1 Loretto Civ Ctr,701.0,207.0,1.0,20.0,0.0,1.0,1.0,0.0,right_only
+3192,,,,,,,,,,,,,03-1 SE Lawrence,Lawrence,03-1 SE Lawrence,434.0,100.0,0.0,8.0,1.0,4.0,1.0,0.0,right_only
+3193,,,,,,,,,,,,,03-2 Centerpoint,Lawrence,03-2 Centerpoint,267.0,71.0,0.0,3.0,0.0,2.0,0.0,0.0,right_only
+3194,,,,,,,,,,,,,04-1 Crossroads,Lawrence,04-1 Crossroads,821.0,122.0,0.0,12.0,0.0,2.0,1.0,0.0,right_only
+3195,,,,,,,,,,,,,05-1 Leoma,Lawrence,05-1 Leoma,475.0,82.0,1.0,5.0,1.0,1.0,2.0,0.0,right_only
+3196,,,,,,,,,,,,,05-2 Gandy,Lawrence,05-2 Gandy,251.0,48.0,0.0,4.0,0.0,0.0,1.0,0.0,right_only
+3197,,,,,,,,,,,,,06-1 Iron City,Lawrence,06-1 Iron City,222.0,55.0,1.0,10.0,0.0,1.0,2.0,0.0,right_only
+3198,,,,,,,,,,,,,06-2 West Point,Lawrence,06-2 West Point,371.0,97.0,0.0,11.0,1.0,0.0,4.0,0.0,right_only
+3199,,,,,,,,,,,,,07-1 Lawrenceburg,Lawrence,07-1 Lawrenceburg,778.0,186.0,2.0,18.0,0.0,3.0,5.0,0.0,right_only
+3200,,,,,,,,,,,,,08-1 New Prospect,Lawrence,08-1 New Prospect,947.0,186.0,2.0,19.0,1.0,3.0,5.0,0.0,right_only
+3201,,,,,,,,,,,,,09-1 Ethridge,Lawrence,09-1 Ethridge,359.0,78.0,1.0,3.0,0.0,1.0,3.0,2.0,right_only
+3202,,,,,,,,,,,,,09-2 Mars Hill,Lawrence,09-2 Mars Hill,353.0,67.0,2.0,5.0,0.0,0.0,5.0,0.0,right_only
+3203,,,,,,,,,,,,,12-1 Center,Lawrence,12-1 Center,245.0,24.0,0.0,5.0,0.0,0.0,0.0,0.0,right_only
+3204,,,,,,,,,,,,,12-2 Henryville,Lawrence,12-2 Henryville,404.0,71.0,2.0,9.0,0.0,1.0,1.0,0.0,right_only
+3205,,,,,,,,,,,,,18-1 E. O. Coffman,Lawrence,18-1 E. O. Coffman,648.0,149.0,1.0,14.0,2.0,1.0,2.0,0.0,right_only
+3206,,,,,,,,,,,,,1-1 Blanche,Lincoln,1-1 Blanche,712.0,110.0,1.0,13.0,0.0,2.0,4.0,1.0,right_only
+3207,,,,,,,,,,,,,1-2 Molino,Lincoln,1-2 Molino,354.0,79.0,0.0,8.0,1.0,3.0,1.0,6.0,right_only
+3208,,,,,,,,,,,,,1-3 Taft,Lincoln,1-3 Taft,378.0,68.0,2.0,15.0,0.0,1.0,4.0,2.0,right_only
+3209,,,,,,,,,,,,,2-1 Boonshill,Lincoln,2-1 Boonshill,559.0,127.0,0.0,15.0,1.0,4.0,1.0,0.0,right_only
+3210,,,,,,,,,,,,,2-2 Howell,Lincoln,2-2 Howell,358.0,92.0,0.0,14.0,0.0,2.0,2.0,4.0,right_only
+3211,,,,,,,,,,,,,2-3 Petersburg,Lincoln,2-3 Petersburg,378.0,58.0,0.0,5.0,0.0,1.0,1.0,2.0,right_only
+3212,,,,,,,,,,,,,3-1 Recreation Center,Lincoln,3-1 Recreation Center,522.0,267.0,0.0,21.0,2.0,5.0,1.0,8.0,right_only
+3213,,,,,,,,,,,,,3-2 Liberty,Lincoln,3-2 Liberty,693.0,135.0,2.0,20.0,0.0,0.0,3.0,0.0,right_only
+3214,,,,,,,,,,,,,4-1 Maranatha,Lincoln,4-1 Maranatha,745.0,142.0,2.0,10.0,1.0,2.0,2.0,3.0,right_only
+3215,,,,,,,,,,,,,4-2 FNB,Lincoln,4-2 FNB,645.0,145.0,1.0,13.0,2.0,1.0,4.0,2.0,right_only
+3216,,,,,,,,,,,,,5-1 Calvary,Lincoln,5-1 Calvary,571.0,124.0,2.0,14.0,1.0,0.0,5.0,5.0,right_only
+3217,,,,,,,,,,,,,5-2 Armory,Lincoln,5-2 Armory,279.0,312.0,2.0,6.0,3.0,3.0,6.0,1.0,right_only
+3218,,,,,,,,,,,,,6-1 Fayetteville CPC,Lincoln,6-1 Fayetteville CPC,943.0,286.0,2.0,31.0,0.0,3.0,5.0,3.0,right_only
+3219,,,,,,,,,,,,,6-2 Belleville,Lincoln,6-2 Belleville,299.0,52.0,1.0,6.0,0.0,2.0,1.0,1.0,right_only
+3220,,,,,,,,,,,,,6-3 Mulberry,Lincoln,6-3 Mulberry,261.0,68.0,0.0,3.0,0.0,1.0,1.0,0.0,right_only
+3221,,,,,,,,,,,,,7-1 Elora,Lincoln,7-1 Elora,205.0,51.0,0.0,2.0,0.0,1.0,1.0,0.0,right_only
+3222,,,,,,,,,,,,,7-2 Flintville,Lincoln,7-2 Flintville,605.0,110.0,1.0,13.0,0.0,1.0,0.0,1.0,right_only
+3223,,,,,,,,,,,,,7-3 Kelso,Lincoln,7-3 Kelso,378.0,76.0,0.0,3.0,1.0,0.0,0.0,1.0,right_only
+3224,,,,,,,,,,,,,8-1 Lincoln,Lincoln,8-1 Lincoln,1137.0,168.0,2.0,15.0,0.0,7.0,1.0,8.0,right_only
+3225,,,,,,,,,,,,,8-2 South Lincoln,Lincoln,8-2 South Lincoln,376.0,84.0,1.0,4.0,1.0,0.0,3.0,0.0,right_only
+3226,,,,,,,,,,,,,Eaton,Loudon,Eaton,2450.0,594.0,6.0,103.0,0.0,20.0,17.0,6.0,right_only
+3227,,,,,,,,,,,,,Tellico V. North,Loudon,Tellico V. North,1410.0,574.0,5.0,40.0,0.0,5.0,3.0,5.0,right_only
+3228,,,,,,,,,,,,,Tellico V. South,Loudon,Tellico V. South,1781.0,682.0,3.0,62.0,2.0,3.0,5.0,3.0,right_only
+3229,,,,,,,,,,,,,Red Boiling Springs,Macon,Red Boiling Springs,559.0,139.0,3.0,14.0,0.0,3.0,5.0,0.0,right_only
+3230,,,,,,,,,,,,,Willette,Macon,Willette,716.0,79.0,1.0,6.0,0.0,1.0,3.0,1.0,right_only
+3231,,,,,,,,,,,,,County High School,Macon,County High School,707.0,82.0,1.0,7.0,0.0,0.0,2.0,0.0,right_only
+3232,,,,,,,,,,,,,County Junior High,Macon,County Junior High,667.0,113.0,2.0,12.0,1.0,1.0,3.0,0.0,right_only
+3233,,,,,,,,,,,,,Welcome Center,Macon,Welcome Center,792.0,106.0,1.0,11.0,0.0,3.0,3.0,0.0,right_only
+3234,,,,,,,,,,,,,Lafayette,Macon,Lafayette,455.0,104.0,0.0,4.0,0.0,3.0,3.0,0.0,right_only
+3235,,,,,,,,,,,,,1-1 Civic Center,Madison,1-1 Civic Center,174.0,515.0,3.0,24.0,1.0,3.0,9.0,8.0,right_only
+3236,,,,,,,,,,,,,1-1 Civic Center,Warren,1-1 Civic Center,628.0,269.0,3.0,24.0,1.0,2.0,7.0,0.0,right_only
+3237,,,,,,,,,,,,,1-2 Mt Moriah,Madison,1-2 Mt Moriah,57.0,944.0,2.0,5.0,0.0,1.0,5.0,0.0,right_only
+3238,,,,,,,,,,,,,2-1 Alexander,Madison,2-1 Alexander,298.0,894.0,1.0,13.0,2.0,0.0,9.0,8.0,right_only
+3239,,,,,,,,,,,,,2-2 Aldersgate,Madison,2-2 Aldersgate,859.0,559.0,3.0,42.0,4.0,8.0,8.0,19.0,right_only
+3240,,,,,,,,,,,,,2-3 Montessori,Madison,2-3 Montessori,690.0,699.0,2.0,46.0,0.0,3.0,14.0,54.0,right_only
+3241,,,,,,,,,,,,,3-1 Board of Educ,Madison,3-1 Board of Educ,574.0,580.0,2.0,19.0,4.0,10.0,7.0,7.0,right_only
+3242,,,,,,,,,,,,,3-2 Old Bells Rd #10,Madison,3-2 Old Bells Rd #10,321.0,91.0,1.0,6.0,0.0,1.0,2.0,8.0,right_only
+3243,,,,,,,,,,,,,3-3 J-CIL,Madison,3-3 J-CIL,795.0,374.0,0.0,27.0,1.0,1.0,2.0,41.0,right_only
+3244,,,,,,,,,,,,,4-1 Masonic Lodge,Madison,4-1 Masonic Lodge,1266.0,963.0,2.0,58.0,4.0,7.0,12.0,43.0,right_only
+3245,,,,,,,,,,,,,4-2 Andrew Jackson,Madison,4-2 Andrew Jackson,280.0,489.0,3.0,8.0,0.0,3.0,7.0,4.0,right_only
+3246,,,,,,,,,,,,,4-3 Festivities,Madison,4-3 Festivities,1022.0,460.0,2.0,28.0,2.0,6.0,3.0,22.0,right_only
+3247,,,,,,,,,,,,,5-1 Whitehall,Madison,5-1 Whitehall,13.0,738.0,2.0,2.0,3.0,0.0,2.0,1.0,right_only
+3248,,,,,,,,,,,,,5-2 Macedonia,Madison,5-2 Macedonia,40.0,863.0,6.0,3.0,1.0,1.0,3.0,1.0,right_only
+3249,,,,,,,,,,,,,5-3 North Parkway,Madison,5-3 North Parkway,641.0,1054.0,1.0,32.0,1.0,1.0,9.0,9.0,right_only
+3250,,,,,,,,,,,,,6-1 South Side,Madison,6-1 South Side,896.0,323.0,3.0,19.0,2.0,5.0,2.0,8.0,right_only
+3251,,,,,,,,,,,,,6-2 South,Madison,6-2 South,362.0,91.0,1.0,7.0,1.0,2.0,1.0,0.0,right_only
+3252,,,,,,,,,,,,,6-3 Malesus,Madison,6-3 Malesus,656.0,139.0,0.0,12.0,0.0,2.0,0.0,1.0,right_only
+3253,,,,,,,,,,,,,6-4 Medon,Madison,6-4 Medon,231.0,93.0,0.0,6.0,0.0,2.0,0.0,1.0,right_only
+3254,,,,,,,,,,,,,7-1 UT Experiment,Madison,7-1 UT Experiment,78.0,436.0,1.0,4.0,1.0,0.0,3.0,2.0,right_only
+3255,,,,,,,,,,,,,7-2 TN Tech Ctr,Madison,7-2 TN Tech Ctr,637.0,433.0,4.0,17.0,1.0,3.0,2.0,3.0,right_only
+3256,,,,,,,,,,,,,7-3 Denmark,Madison,7-3 Denmark,173.0,532.0,1.0,5.0,1.0,0.0,1.0,1.0,right_only
+3257,,,,,,,,,,,,,7-4 Mercer,Madison,7-4 Mercer,226.0,97.0,1.0,7.0,0.0,1.0,2.0,0.0,right_only
+3258,,,,,,,,,,,,,8-1 Beech Bluff,Madison,8-1 Beech Bluff,414.0,98.0,2.0,6.0,1.0,1.0,4.0,0.0,right_only
+3259,,,,,,,,,,,,,8-2 Browns,Madison,8-2 Browns,621.0,219.0,1.0,19.0,3.0,0.0,3.0,3.0,right_only
+3260,,,,,,,,,,,,,8-3 Mifflin,Madison,8-3 Mifflin,596.0,98.0,0.0,10.0,0.0,0.0,3.0,5.0,right_only
+3261,,,,,,,,,,,,,8-4 East Union,Madison,8-4 East Union,412.0,176.0,1.0,9.0,3.0,1.0,2.0,2.0,right_only
+3262,,,,,,,,,,,,,8-5 Lesters,Madison,8-5 Lesters,663.0,172.0,2.0,8.0,0.0,3.0,0.0,0.0,right_only
+3263,,,,,,,,,,,,,9-2 Pope,Madison,9-2 Pope,1980.0,613.0,9.0,52.0,2.0,4.0,3.0,23.0,right_only
+3264,,,,,,,,,,,,,9-3 Three Way,Madison,9-3 Three Way,1019.0,293.0,3.0,25.0,0.0,0.0,3.0,11.0,right_only
+3265,,,,,,,,,,,,,10-1 Spring Creek,Madison,10-1 Spring Creek,354.0,62.0,0.0,1.0,1.0,1.0,1.0,2.0,right_only
+3266,,,,,,,,,,,,,10-2 North East,Madison,10-2 North East,1653.0,663.0,5.0,38.0,0.0,7.0,3.0,5.0,right_only
+3267,,,,,,,,,,,,,10-3 North Side,Madison,10-3 North Side,1421.0,925.0,10.0,56.0,1.0,4.0,6.0,18.0,right_only
+3268,,,,,,,,,,,,,Haletown-Ladd,Marion,Haletown-Ladd,265.0,107.0,1.0,9.0,0.0,2.0,3.0,0.0,right_only
+3269,,,,,,,,,,,,,Whitwell Mountain,Marion,Whitwell Mountain,260.0,68.0,1.0,5.0,3.0,0.0,3.0,0.0,right_only
+3270,,,,,,,,,,,,,Walden's Ridge,Marion,Walden's Ridge,173.0,50.0,0.0,6.0,0.0,1.0,1.0,0.0,right_only
+3271,,,,,,,,,,,,,Powells Crossroad,Marion,Powells Crossroad,823.0,188.0,2.0,28.0,1.0,3.0,5.0,0.0,right_only
+3272,,,,,,,,,,,,,1 Chapel Hill,Marshall,1 Chapel Hill,1169.0,295.0,1.0,34.0,2.0,3.0,7.0,3.0,right_only
+3273,,,,,,,,,,,,,2 Henry Horton Park,Marshall,2 Henry Horton Park,1078.0,289.0,1.0,46.0,0.0,7.0,6.0,7.0,right_only
+3274,,,,,,,,,,,,,3 Belfast,Marshall,3 Belfast,930.0,238.0,2.0,26.0,3.0,1.0,5.0,1.0,right_only
+3275,,,,,,,,,,,,,4 Cornersville,Marshall,4 Cornersville,1064.0,227.0,2.0,21.0,2.0,1.0,4.0,1.0,right_only
+3276,,,,,,,,,,,,,5 Recreation Center,Marshall,5 Recreation Center,984.0,431.0,4.0,30.0,4.0,3.0,8.0,2.0,right_only
+3277,,,,,,,,,,,,,6 Parkview,Marshall,6 Parkview,760.0,319.0,3.0,29.0,1.0,3.0,7.0,1.0,right_only
+3278,,,,,,,,,,,,,7 Hardison,Marshall,7 Hardison,455.0,334.0,3.0,17.0,2.0,4.0,6.0,2.0,right_only
+3279,,,,,,,,,,,,,8 Lewisburg Gas,Marshall,8 Lewisburg Gas,812.0,323.0,3.0,23.0,0.0,7.0,13.0,1.0,right_only
+3280,,,,,,,,,,,,,9 McKnight Center,Marshall,9 McKnight Center,932.0,396.0,4.0,30.0,2.0,5.0,4.0,2.0,right_only
+3281,,,,,,,,,,,,,Riverside 1-1,Maury,Riverside 1-1,805.0,385.0,3.0,25.0,4.0,5.0,13.0,10.0,right_only
+3282,,,,,,,,,,,,,West End 1-2,Maury,West End 1-2,842.0,429.0,3.0,65.0,4.0,3.0,12.0,12.0,right_only
+3283,,,,,,,,,,,,,First Family 2-1,Maury,First Family 2-1,1361.0,605.0,5.0,78.0,4.0,5.0,8.0,16.0,right_only
+3284,,,,,,,,,,,,,Highland 2-2,Maury,Highland 2-2,305.0,221.0,2.0,14.0,0.0,0.0,4.0,10.0,right_only
+3285,,,,,,,,,,,,,College Hill 3-1,Maury,College Hill 3-1,391.0,1288.0,2.0,18.0,1.0,1.0,12.0,1.0,right_only
+3286,,,,,,,,,,,,,St. Catherine 4-1,Maury,St. Catherine 4-1,2016.0,1075.0,2.0,93.0,4.0,6.0,8.0,13.0,right_only
+3287,,,,,,,,,,,,,CP Church 5-1,Maury,CP Church 5-1,1668.0,639.0,3.0,71.0,1.0,8.0,16.0,26.0,right_only
+3288,,,,,,,,,,,,,Neapolis 5-2,Maury,Neapolis 5-2,1033.0,332.0,2.0,47.0,1.0,7.0,2.0,18.0,right_only
+3289,,,,,,,,,,,,,Santa Fe 6-1,Maury,Santa Fe 6-1,704.0,140.0,2.0,13.0,1.0,3.0,4.0,6.0,right_only
+3290,,,,,,,,,,,,,Spring Hill MS 6-2,Maury,Spring Hill MS 6-2,1087.0,372.0,1.0,28.0,1.0,0.0,9.0,8.0,right_only
+3291,,,,,,,,,,,,,Theta 6-3,Maury,Theta 6-3,994.0,303.0,0.0,47.0,0.0,8.0,4.0,7.0,right_only
+3292,,,,,,,,,,,,,Armory 7-1,Maury,Armory 7-1,1329.0,492.0,1.0,31.0,4.0,5.0,3.0,9.0,right_only
+3293,,,,,,,,,,,,,Hampshire 7-2,Maury,Hampshire 7-2,838.0,168.0,0.0,17.0,0.0,0.0,3.0,4.0,right_only
+3294,,,,,,,,,,,,,Bear Creek 8-1,Maury,Bear Creek 8-1,1771.0,544.0,5.0,46.0,2.0,5.0,10.0,5.0,right_only
+3295,,,,,,,,,,,,,Culleoka 8-2,Maury,Culleoka 8-2,871.0,193.0,0.0,16.0,0.0,2.0,5.0,4.0,right_only
+3296,,,,,,,,,,,,,Bigbyville 9-1,Maury,Bigbyville 9-1,1115.0,257.0,1.0,25.0,0.0,7.0,4.0,10.0,right_only
+3297,,,,,,,,,,,,,Pleasant Heights 9-2,Maury,Pleasant Heights 9-2,1805.0,492.0,4.0,60.0,2.0,2.0,8.0,17.0,right_only
+3298,,,,,,,,,,,,,Mt. Pleasant 10-1,Maury,Mt. Pleasant 10-1,1493.0,751.0,3.0,42.0,2.0,8.0,4.0,8.0,right_only
+3299,,,,,,,,,,,,,Rally Hill 11-1,Maury,Rally Hill 11-1,722.0,196.0,1.0,28.0,2.0,2.0,4.0,5.0,right_only
+3300,,,,,,,,,,,,,Spring Hill 11-2,Maury,Spring Hill 11-2,2649.0,1156.0,10.0,158.0,2.0,13.0,33.0,80.0,right_only
+3301,,,,,,,,,,,,,City Park,McMinn,City Park,1718.0,459.0,5.0,48.0,3.0,6.0,10.0,4.0,right_only
+3302,,,,,,,,,,,,,Etowah,McMinn,Etowah,1447.0,384.0,5.0,29.0,5.0,2.0,10.0,7.0,right_only
+3303,,,,,,,,,,,,,Englewood,McMinn,Englewood,1197.0,291.0,6.0,27.0,0.0,3.0,6.0,1.0,right_only
+3304,,,,,,,,,,,,,Rogers Creek,McMinn,Rogers Creek,925.0,171.0,6.0,14.0,0.0,2.0,1.0,0.0,right_only
+3305,,,,,,,,,,,,,Riceville,McMinn,Riceville,1339.0,267.0,2.0,26.0,0.0,5.0,6.0,3.0,right_only
+3306,,,,,,,,,,,,,Calhoun,McMinn,Calhoun,375.0,117.0,1.0,12.0,1.0,2.0,0.0,0.0,right_only
+3307,,,,,,,,,,,,,Niota,McMinn,Niota,1907.0,340.0,4.0,34.0,3.0,4.0,3.0,6.0,right_only
+3308,,,,,,,,,,,,,Ingleside,McMinn,Ingleside,328.0,157.0,2.0,16.0,1.0,0.0,4.0,1.0,right_only
+3309,,,,,,,,,,,,,TCAT,McMinn,TCAT,447.0,228.0,0.0,12.0,2.0,1.0,3.0,0.0,right_only
+3310,,,,,,,,,,,,,North City,McMinn,North City,920.0,335.0,5.0,30.0,1.0,3.0,9.0,4.0,right_only
+3311,,,,,,,,,,,,,Jones Chapel,McMinn,Jones Chapel,725.0,92.0,2.0,8.0,0.0,1.0,1.0,1.0,right_only
+3312,,,,,,,,,,,,,E K Baker,McMinn,E K Baker,853.0,125.0,4.0,12.0,1.0,0.0,4.0,3.0,right_only
+3313,,,,,,,,,,,,,Mountain View,McMinn,Mountain View,864.0,184.0,5.0,28.0,0.0,3.0,5.0,3.0,right_only
+3314,,,,,,,,,,,,,Bethel Springs 1-1,McNairy,Bethel Springs 1-1,468.0,137.0,0.0,5.0,2.0,3.0,3.0,0.0,right_only
+3315,,,,,,,,,,,,,Finger 1-2,McNairy,Finger 1-2,328.0,42.0,0.0,8.0,0.0,1.0,4.0,0.0,right_only
+3316,,,,,,,,,,,,,McNairy 1-3,McNairy,McNairy 1-3,287.0,50.0,1.0,8.0,0.0,1.0,3.0,0.0,right_only
+3317,,,,,,,,,,,,,Adamsville 2-1,McNairy,Adamsville 2-1,920.0,174.0,1.0,20.0,2.0,7.0,17.0,0.0,right_only
+3318,,,,,,,,,,,,,Lawton 2-2,McNairy,Lawton 2-2,257.0,66.0,0.0,7.0,0.0,0.0,2.0,0.0,right_only
+3319,,,,,,,,,,,,,Leapwood 3-1,McNairy,Leapwood 3-1,300.0,32.0,1.0,5.0,0.0,1.0,1.0,0.0,right_only
+3320,,,,,,,,,,,,,Northeast 3-2,McNairy,Northeast 3-2,527.0,227.0,0.0,10.0,1.0,6.0,13.0,0.0,right_only
+3321,,,,,,,,,,,,,Purdy 3-3,McNairy,Purdy 3-3,204.0,43.0,0.0,4.0,0.0,2.0,3.0,0.0,right_only
+3322,,,,,,,,,,,,,North Selmer 4-1,McNairy,North Selmer 4-1,526.0,150.0,1.0,11.0,2.0,5.0,10.0,0.0,right_only
+3323,,,,,,,,,,,,,Rose Creek 4-2,McNairy,Rose Creek 4-2,491.0,79.0,1.0,8.0,3.0,1.0,7.0,0.0,right_only
+3324,,,,,,,,,,,,,Cypress 5-1,McNairy,Cypress 5-1,152.0,23.0,0.0,1.0,0.0,2.0,3.0,0.0,right_only
+3325,,,,,,,,,,,,,East View 5-2,McNairy,East View 5-2,311.0,53.0,0.0,7.0,0.0,4.0,4.0,0.0,right_only
+3326,,,,,,,,,,,,,Guys 5-3,McNairy,Guys 5-3,99.0,95.0,1.0,3.0,1.0,1.0,3.0,0.0,right_only
+3327,,,,,,,,,,,,,Ramer 5-4,McNairy,Ramer 5-4,508.0,125.0,1.0,6.0,2.0,7.0,9.0,0.0,right_only
+3328,,,,,,,,,,,,,Courthouse SE 6-1,McNairy,Courthouse SE 6-1,1130.0,329.0,0.0,27.0,4.0,13.0,14.0,0.0,right_only
+3329,,,,,,,,,,,,,Michie 7-1,McNairy,Michie 7-1,973.0,160.0,0.0,12.0,1.0,3.0,11.0,0.0,right_only
+3330,,,,,,,,,,,,,Stantonville 7-2,McNairy,Stantonville 7-2,360.0,63.0,0.0,8.0,2.0,5.0,3.0,0.0,right_only
+3331,,,,,,,,,,,,,3-1 City Hall,Meigs,3-1 City Hall,384.0,126.0,0.0,11.0,0.0,0.0,1.0,0.0,right_only
+3332,,,,,,,,,,,,,3-2 Courthouse,Meigs,3-2 Courthouse,438.0,140.0,0.0,9.0,1.0,3.0,0.0,2.0,right_only
+3333,,,,,,,,,,,,,1A St B ES,Montgomery,1A St B ES,1302.0,1047.0,4.0,130.0,1.0,5.0,26.0,12.0,right_only
+3334,,,,,,,,,,,,,1B Emmanuel,Montgomery,1B Emmanuel,119.0,79.0,0.0,12.0,2.0,0.0,0.0,0.0,right_only
+3335,,,,,,,,,,,,,2A St B MC,Montgomery,2A St B MC,1693.0,933.0,5.0,109.0,3.0,12.0,21.0,4.0,right_only
+3336,,,,,,,,,,,,,2B St B CC,Montgomery,2B St B CC,655.0,337.0,1.0,44.0,2.0,7.0,5.0,3.0,right_only
+3337,,,,,,,,,,,,,3 East Montgomery,Montgomery,3 East Montgomery,3155.0,947.0,6.0,166.0,4.0,9.0,19.0,10.0,right_only
+3338,,,,,,,,,,,,,4A MCMS,Montgomery,4A MCMS,1579.0,534.0,4.0,58.0,1.0,9.0,12.0,2.0,right_only
+3339,,,,,,,,,,,,,4B WR Event Center,Montgomery,4B WR Event Center,609.0,396.0,0.0,42.0,2.0,4.0,8.0,4.0,right_only
+3340,,,,,,,,,,,,,5A Smith,Montgomery,5A Smith,482.0,477.0,5.0,32.0,1.0,7.0,19.0,1.0,right_only
+3341,,,,,,,,,,,,,5B Madison,Montgomery,5B Madison,222.0,439.0,1.0,24.0,5.0,3.0,21.0,2.0,right_only
+3342,,,,,,,,,,,,,6A Cumberland,Montgomery,6A Cumberland,1473.0,555.0,2.0,65.0,5.0,2.0,11.0,7.0,right_only
+3343,,,,,,,,,,,,,6B Bethel,Montgomery,6B Bethel,459.0,110.0,0.0,11.0,1.0,1.0,3.0,1.0,right_only
+3344,,,,,,,,,,,,,7 Woodlawn,Montgomery,7 Woodlawn,2273.0,573.0,5.0,121.0,7.0,2.0,18.0,10.0,right_only
+3345,,,,,,,,,,,,,8A Bethel,Montgomery,8A Bethel,221.0,278.0,3.0,22.0,2.0,4.0,5.0,3.0,right_only
+3346,,,,,,,,,,,,,8B Barkers Mill,Montgomery,8B Barkers Mill,402.0,618.0,1.0,49.0,2.0,6.0,13.0,1.0,right_only
+3347,,,,,,,,,,,,,9 Outlaw,Montgomery,9 Outlaw,769.0,931.0,7.0,80.0,3.0,7.0,15.0,12.0,right_only
+3348,,,,,,,,,,,,,10 Minglewood,Montgomery,10 Minglewood,905.0,851.0,3.0,80.0,6.0,7.0,32.0,9.0,right_only
+3349,,,,,,,,,,,,,11 Northwest,Montgomery,11 Northwest,826.0,903.0,8.0,82.0,6.0,7.0,18.0,7.0,right_only
+3350,,,,,,,,,,,,,12 Ringgold,Montgomery,12 Ringgold,1020.0,1165.0,5.0,119.0,5.0,9.0,30.0,6.0,right_only
+3351,,,,,,,,,,,,,13 Byrns Darden,Montgomery,13 Byrns Darden,598.0,1054.0,7.0,61.0,0.0,7.0,27.0,1.0,right_only
+3352,,,,,,,,,,,,,14 Glenellen,Montgomery,14 Glenellen,1343.0,1189.0,8.0,132.0,8.0,8.0,35.0,11.0,right_only
+3353,,,,,,,,,,,,,15 Sango,Montgomery,15 Sango,2666.0,1094.0,7.0,149.0,2.0,16.0,28.0,11.0,right_only
+3354,,,,,,,,,,,,,16 New Providence,Montgomery,16 New Providence,979.0,898.0,13.0,64.0,3.0,6.0,36.0,2.0,right_only
+3355,,,,,,,,,,,,,17 Grace,Montgomery,17 Grace,1070.0,1048.0,7.0,132.0,3.0,7.0,23.0,10.0,right_only
+3356,,,,,,,,,,,,,18 Hazelwood,Montgomery,18 Hazelwood,1167.0,1225.0,8.0,141.0,2.0,6.0,28.0,9.0,right_only
+3357,,,,,,,,,,,,,19 Oakland,Montgomery,19 Oakland,2483.0,1477.0,7.0,181.0,4.0,10.0,39.0,23.0,right_only
+3358,,,,,,,,,,,,,20A Clarksville,Montgomery,20A Clarksville,1485.0,762.0,2.0,70.0,5.0,5.0,5.0,5.0,right_only
+3359,,,,,,,,,,,,,20B Barksdale,Montgomery,20B Barksdale,680.0,486.0,3.0,56.0,0.0,2.0,11.0,2.0,right_only
+3360,,,,,,,,,,,,,21A Cumberland,Montgomery,21A Cumberland,420.0,582.0,6.0,33.0,4.0,3.0,16.0,2.0,right_only
+3361,,,,,,,,,,,,,21B Hilldale,Montgomery,21B Hilldale,1286.0,711.0,5.0,72.0,2.0,1.0,16.0,4.0,right_only
+3362,,,,,,,,,,,,,2 High School,Moore,2 High School,528.0,88.0,0.0,16.0,0.0,0.0,7.0,0.0,right_only
+3363,,,,,,,,,,,,,3 Moore County Bldg,Moore,3 Moore County Bldg,507.0,101.0,1.0,16.0,0.0,0.0,2.0,0.0,right_only
+3364,,,,,,,,,,,,,4 Lynchburg,Moore,4 Lynchburg,473.0,97.0,3.0,17.0,1.0,3.0,3.0,0.0,right_only
+3365,,,,,,,,,,,,,1-1 Coalfield,Morgan,1-1 Coalfield,982.0,180.0,2.0,29.0,3.0,12.0,5.0,5.0,right_only
+3366,,,,,,,,,,,,,2-1 Oakdale High,Morgan,2-1 Oakdale High,641.0,61.0,0.0,5.0,1.0,6.0,0.0,1.0,right_only
+3367,,,,,,,,,,,,,2-2 Mossy Grove,Morgan,2-2 Mossy Grove,203.0,48.0,1.0,2.0,1.0,0.0,1.0,0.0,right_only
+3368,,,,,,,,,,,,,2-3 Oakdale,Morgan,2-3 Oakdale,309.0,58.0,1.0,11.0,1.0,2.0,2.0,3.0,right_only
+3369,,,,,,,,,,,,,3-1 Wartburg,Morgan,3-1 Wartburg,966.0,215.0,2.0,31.0,1.0,2.0,2.0,9.0,right_only
+3370,,,,,,,,,,,,,4-1 Lancing,Morgan,4-1 Lancing,685.0,113.0,4.0,10.0,0.0,1.0,2.0,5.0,right_only
+3371,,,,,,,,,,,,,4-2 Deer Lodge,Morgan,4-2 Deer Lodge,186.0,40.0,0.0,6.0,0.0,0.0,1.0,0.0,right_only
+3372,,,,,,,,,,,,,4-3 Chestnut Ridge,Morgan,4-3 Chestnut Ridge,162.0,33.0,0.0,1.0,0.0,0.0,1.0,0.0,right_only
+3373,,,,,,,,,,,,,5-1 Sunbright,Morgan,5-1 Sunbright,660.0,101.0,0.0,6.0,0.0,2.0,3.0,1.0,right_only
+3374,,,,,,,,,,,,,5-2 Burrville,Morgan,5-2 Burrville,288.0,90.0,2.0,3.0,1.0,1.0,0.0,2.0,right_only
+3375,,,,,,,,,,,,,6-1 Kellys,Morgan,6-1 Kellys,231.0,49.0,1.0,6.0,1.0,2.0,0.0,2.0,right_only
+3376,,,,,,,,,,,,,6-2 Petros,Morgan,6-2 Petros,128.0,66.0,0.0,5.0,0.0,0.0,0.0,0.0,right_only
+3377,,,,,,,,,,,,,1-1 South Fulton,Obion,1-1 South Fulton,1394.0,401.0,0.0,27.0,1.0,0.0,7.0,5.0,right_only
+3378,,,,,,,,,,,,,2-1 Eddie Cox Sr Ctr,Obion,2-1 Eddie Cox Sr Ctr,634.0,194.0,0.0,16.0,4.0,2.0,1.0,1.0,right_only
+3379,,,,,,,,,,,,,2-4 Woodland,Obion,2-4 Woodland,837.0,118.0,1.0,14.0,2.0,0.0,1.0,3.0,right_only
+3380,,,,,,,,,,,,,3-2 Kenton,Obion,3-2 Kenton,494.0,94.0,0.0,6.0,0.0,0.0,0.0,0.0,right_only
+3381,,,,,,,,,,,,,3-4 Rives,Obion,3-4 Rives,949.0,165.0,0.0,17.0,1.0,1.0,3.0,5.0,right_only
+3382,,,,,,,,,,,,,4-1 Fair Grounds,Obion,4-1 Fair Grounds,766.0,574.0,1.0,28.0,1.0,1.0,3.0,1.0,right_only
+3383,,,,,,,,,,,,,5-2 Cloverdale,Obion,5-2 Cloverdale,296.0,34.0,2.0,3.0,0.0,0.0,2.0,0.0,right_only
+3384,,,,,,,,,,,,,5-4 Hornbeak,Obion,5-4 Hornbeak,782.0,94.0,1.0,10.0,2.0,2.0,2.0,1.0,right_only
+3385,,,,,,,,,,,,,5-5 Samburg,Obion,5-5 Samburg,357.0,66.0,0.0,3.0,1.0,1.0,3.0,0.0,right_only
+3386,,,,,,,,,,,,,6-1 Troy Sr Ctr,Obion,6-1 Troy Sr Ctr,1186.0,155.0,1.0,25.0,4.0,2.0,5.0,2.0,right_only
+3387,,,,,,,,,,,,,6-2 Obion Sr Ctr,Obion,6-2 Obion Sr Ctr,429.0,104.0,0.0,4.0,0.0,2.0,3.0,1.0,right_only
+3388,,,,,,,,,,,,,7-2 Obion Co Library,Obion,7-2 Obion Co Library,1402.0,427.0,0.0,40.0,4.0,7.0,6.0,5.0,right_only
+3389,,,,,,,,,,,,,2-1 Allons,Overton,2-1 Allons,772.0,281.0,4.0,12.0,2.0,2.0,1.0,0.0,right_only
+3390,,,,,,,,,,,,,2-3 Monroe,Overton,2-3 Monroe,390.0,88.0,1.0,1.0,0.0,0.0,2.0,0.0,right_only
+3391,,,,,,,,,,,,,3-2 Poteet,Overton,3-2 Poteet,318.0,118.0,1.0,3.0,1.0,1.0,1.0,0.0,right_only
+3392,,,,,,,,,,,,,3-3 Wilson,Overton,3-3 Wilson,573.0,94.0,1.0,6.0,0.0,1.0,1.0,6.0,right_only
+3393,,,,,,,,,,,,,3-4 Rushing Springs,Overton,3-4 Rushing Springs,265.0,59.0,0.0,6.0,0.0,6.0,1.0,0.0,right_only
+3394,,,,,,,,,,,,,4-2 Rickman,Overton,4-2 Rickman,1435.0,393.0,2.0,35.0,2.0,12.0,9.0,7.0,right_only
+3395,,,,,,,,,,,,,5-1 Hilham,Overton,5-1 Hilham,649.0,210.0,0.0,9.0,2.0,4.0,2.0,0.0,right_only
+3396,,,,,,,,,,,,,5-2 Fairgrounds,Overton,5-2 Fairgrounds,669.0,203.0,3.0,12.0,2.0,2.0,2.0,0.0,right_only
+3397,,,,,,,,,,,,,1-1 Cedar Creek,Perry,1-1 Cedar Creek,240.0,46.0,0.0,7.0,1.0,0.0,1.0,0.0,right_only
+3398,,,,,,,,,,,,,1-2 Marsh Creek,Perry,1-2 Marsh Creek,146.0,37.0,0.0,5.0,0.0,0.0,0.0,0.0,right_only
+3399,,,,,,,,,,,,,2-1 Pineview,Perry,2-1 Pineview,229.0,76.0,0.0,4.0,0.0,0.0,4.0,0.0,right_only
+3400,,,,,,,,,,,,,2-2 Pope,Perry,2-2 Pope,164.0,46.0,0.0,4.0,0.0,0.0,4.0,0.0,right_only
+3401,,,,,,,,,,,,,3-1 Coon Creek,Perry,3-1 Coon Creek,254.0,61.0,0.0,8.0,0.0,0.0,2.0,0.0,right_only
+3402,,,,,,,,,,,,,3-2 Flatwoods,Perry,3-2 Flatwoods,168.0,31.0,0.0,4.0,0.0,1.0,0.0,0.0,right_only
+3403,,,,,,,,,,,,,4-1 Brush Creek,Perry,4-1 Brush Creek,110.0,28.0,0.0,4.0,1.0,0.0,2.0,0.0,right_only
+3404,,,,,,,,,,,,,4-3 Lobelville,Perry,4-3 Lobelville,257.0,59.0,1.0,10.0,0.0,0.0,1.0,0.0,right_only
+3405,,,,,,,,,,,,,5-1 Linden,Perry,5-1 Linden,305.0,105.0,2.0,9.0,0.0,0.0,6.0,0.0,right_only
+3406,,,,,,,,,,,,,6-1 Lobelville,Perry,6-1 Lobelville,294.0,108.0,0.0,4.0,2.0,1.0,3.0,0.0,right_only
+3407,,,,,,,,,,,,,Community Center 1-1,Pickett,Community Center 1-1,369.0,94.0,0.0,5.0,0.0,1.0,0.0,1.0,right_only
+3408,,,,,,,,,,,,,Moodyville 1-2,Pickett,Moodyville 1-2,162.0,35.0,0.0,2.0,0.0,0.0,1.0,0.0,right_only
+3409,,,,,,,,,,,,,High School 2-1,Pickett,High School 2-1,437.0,168.0,1.0,10.0,0.0,3.0,1.0,0.0,right_only
+3410,,,,,,,,,,,,,Chanute 3-1,Pickett,Chanute 3-1,341.0,53.0,0.0,6.0,0.0,0.0,1.0,0.0,right_only
+3411,,,,,,,,,,,,,Travisville 3-2,Pickett,Travisville 3-2,135.0,33.0,0.0,3.0,0.0,1.0,1.0,0.0,right_only
+3412,,,,,,,,,,,,,Boom 4-1,Pickett,Boom 4-1,156.0,32.0,0.0,3.0,1.0,0.0,0.0,0.0,right_only
+3413,,,,,,,,,,,,,Oak Hill 4-2,Pickett,Oak Hill 4-2,271.0,82.0,0.0,6.0,0.0,3.0,3.0,3.0,right_only
+3414,,,,,,,,,,,,,Barnes Ridge 4-3,Pickett,Barnes Ridge 4-3,85.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,right_only
+3415,,,,,,,,,,,,,Bolestown 4-4,Pickett,Bolestown 4-4,65.0,18.0,0.0,1.0,1.0,0.0,0.0,0.0,right_only
+3416,,,,,,,,,,,,,1 Delano,Polk,1 Delano,557.0,158.0,0.0,18.0,1.0,2.0,3.0,0.0,right_only
+3417,,,,,,,,,,,,,1A Polk Co High,Polk,1A Polk Co High,550.0,152.0,0.0,15.0,0.0,2.0,4.0,0.0,right_only
+3418,,,,,,,,,,,,,1B Chilhowee,Polk,1B Chilhowee,872.0,263.0,2.0,13.0,2.0,5.0,3.0,0.0,right_only
+3419,,,,,,,,,,,,,2 Greasy Creek,Polk,2 Greasy Creek,156.0,36.0,0.0,1.0,0.0,0.0,1.0,0.0,right_only
+3420,,,,,,,,,,,,,2A Springtown,Polk,2A Springtown,117.0,37.0,0.0,0.0,0.0,2.0,1.0,0.0,right_only
+3421,,,,,,,,,,,,,2C South Polk,Polk,2C South Polk,765.0,158.0,0.0,15.0,0.0,5.0,1.0,0.0,right_only
+3422,,,,,,,,,,,,,2D Shiloh Baptist,Polk,2D Shiloh Baptist,752.0,175.0,0.0,22.0,0.0,5.0,10.0,0.0,right_only
+3423,,,,,,,,,,,,,3 Ducktown,Polk,3 Ducktown,384.0,88.0,0.0,10.0,1.0,0.0,2.0,0.0,right_only
+3424,,,,,,,,,,,,,3A Copper Basin,Polk,3A Copper Basin,471.0,77.0,1.0,10.0,0.0,1.0,0.0,0.0,right_only
+3425,,,,,,,,,,,,,1A Capshaw,Putnam,1A Capshaw,1511.0,794.0,3.0,78.0,1.0,2.0,26.0,10.0,right_only
+3426,,,,,,,,,,,,,2A Northeast,Putnam,2A Northeast,1415.0,814.0,2.0,77.0,1.0,6.0,22.0,5.0,right_only
+3427,,,,,,,,,,,,,3A University,Putnam,3A University,365.0,294.0,2.0,38.0,1.0,4.0,25.0,3.0,right_only
+3428,,,,,,,,,,,,,4A Burks,Putnam,4A Burks,904.0,217.0,3.0,21.0,0.0,5.0,3.0,2.0,right_only
+3429,,,,,,,,,,,,,4B Monterey City,Putnam,4B Monterey City,469.0,185.0,3.0,10.0,1.0,2.0,7.0,0.0,right_only
+3430,,,,,,,,,,,,,4C Poplar Grove,Putnam,4C Poplar Grove,116.0,48.0,0.0,4.0,0.0,0.0,0.0,0.0,right_only
+3431,,,,,,,,,,,,,5A Cookeville CC,Putnam,5A Cookeville CC,642.0,186.0,1.0,24.0,1.0,2.0,8.0,2.0,right_only
+3432,,,,,,,,,,,,,5C Prescott South,Putnam,5C Prescott South,1089.0,275.0,1.0,35.0,3.0,7.0,7.0,2.0,right_only
+3433,,,,,,,,,,,,,5F Dry Valley,Putnam,5F Dry Valley,333.0,143.0,1.0,14.0,1.0,2.0,2.0,2.0,right_only
+3434,,,,,,,,,,,,,6A Cane Creek,Putnam,6A Cane Creek,1239.0,608.0,8.0,68.0,3.0,6.0,25.0,6.0,right_only
+3435,,,,,,,,,,,,,7A Burgess Falls,Putnam,7A Burgess Falls,1410.0,487.0,4.0,52.0,1.0,8.0,7.0,10.0,right_only
+3436,,,,,,,,,,,,,7D Twin Oak,Putnam,7D Twin Oak,668.0,124.0,0.0,21.0,1.0,4.0,1.0,5.0,right_only
+3437,,,,,,,,,,,,,8D Boma,Putnam,8D Boma,421.0,101.0,1.0,10.0,0.0,2.0,7.0,0.0,right_only
+3438,,,,,,,,,,,,,8E Buffalo Valley,Putnam,8E Buffalo Valley,123.0,29.0,0.0,2.0,1.0,0.0,0.0,2.0,right_only
+3439,,,,,,,,,,,,,8F Cornerstone,Putnam,8F Cornerstone,886.0,200.0,3.0,18.0,0.0,0.0,10.0,4.0,right_only
+3440,,,,,,,,,,,,,8G Upperman,Putnam,8G Upperman,403.0,108.0,1.0,11.0,3.0,0.0,4.0,0.0,right_only
+3441,,,,,,,,,,,,,9B Double Springs,Putnam,9B Double Springs,1662.0,474.0,1.0,69.0,1.0,8.0,15.0,6.0,right_only
+3442,,,,,,,,,,,,,10A Pavilion,Putnam,10A Pavilion,865.0,250.0,1.0,27.0,1.0,5.0,10.0,11.0,right_only
+3443,,,,,,,,,,,,,11B Cookeville High,Putnam,11B Cookeville High,829.0,325.0,0.0,38.0,2.0,3.0,11.0,1.0,right_only
+3444,,,,,,,,,,,,,Johnson Sch House,Roane,Johnson Sch House,221.0,31.0,1.0,3.0,1.0,3.0,1.0,0.0,right_only
+3445,,,,,,,,,,,,,01-1 East Robertson,Robertson,01-1 East Robertson,1732.0,469.0,3.0,64.0,1.0,6.0,12.0,2.0,right_only
+3446,,,,,,,,,,,,,02-1 Woodall,Robertson,02-1 Woodall,1861.0,476.0,2.0,93.0,5.0,4.0,16.0,1.0,right_only
+3447,,,,,,,,,,,,,03-1 Ebenezer,Robertson,03-1 Ebenezer,845.0,173.0,2.0,26.0,2.0,1.0,4.0,2.0,right_only
+3448,,,,,,,,,,,,,03-2 Heritage,Robertson,03-2 Heritage,1115.0,195.0,1.0,45.0,1.0,5.0,11.0,1.0,right_only
+3449,,,,,,,,,,,,,04-1 Watauga,Robertson,04-1 Watauga,1844.0,527.0,4.0,68.0,0.0,4.0,24.0,2.0,right_only
+3450,,,,,,,,,,,,,05-1 Greenbrier,Robertson,05-1 Greenbrier,1718.0,462.0,1.0,54.0,2.0,3.0,10.0,4.0,right_only
+3451,,,,,,,,,,,,,06-1 Coopertown,Robertson,06-1 Coopertown,1183.0,307.0,1.0,45.0,1.0,1.0,8.0,1.0,right_only
+3452,,,,,,,,,,,,,06-2 Mt. Sharon,Robertson,06-2 Mt. Sharon,818.0,177.0,3.0,25.0,1.0,5.0,3.0,0.0,right_only
+3453,,,,,,,,,,,,,07-1 Jo Byrns,Robertson,07-1 Jo Byrns,1286.0,320.0,5.0,43.0,2.0,2.0,5.0,1.0,right_only
+3454,,,,,,,,,,,,,07-2 Stroudsville,Robertson,07-2 Stroudsville,488.0,112.0,3.0,11.0,0.0,5.0,3.0,0.0,right_only
+3455,,,,,,,,,,,,,08-1 Krisle,Robertson,08-1 Krisle,512.0,114.0,0.0,12.0,0.0,0.0,4.0,0.0,right_only
+3456,,,,,,,,,,,,,08-2 HATS,Robertson,08-2 HATS,480.0,134.0,4.0,6.0,1.0,1.0,4.0,0.0,right_only
+3457,,,,,,,,,,,,,08-3 Owens Chapel,Robertson,08-3 Owens Chapel,753.0,182.0,1.0,19.0,1.0,2.0,7.0,2.0,right_only
+3458,,,,,,,,,,,,,09-1 Fair Assoc.,Robertson,09-1 Fair Assoc.,1317.0,695.0,5.0,55.0,1.0,4.0,14.0,1.0,right_only
+3459,,,,,,,,,,,,,10-1 South Haven,Robertson,10-1 South Haven,1420.0,615.0,10.0,60.0,2.0,11.0,16.0,3.0,right_only
+3460,,,,,,,,,,,,,11-1 Westside,Robertson,11-1 Westside,1142.0,520.0,3.0,43.0,2.0,7.0,11.0,3.0,right_only
+3461,,,,,,,,,,,,,11-2 Heads,Robertson,11-2 Heads,338.0,77.0,0.0,10.0,0.0,0.0,0.0,0.0,right_only
+3462,,,,,,,,,,,,,12-1 Bransford,Robertson,12-1 Bransford,250.0,901.0,2.0,18.0,1.0,1.0,3.0,0.0,right_only
+3463,,,,,,,,,,,,,Paper Ballots,Robertson,Paper Ballots,308.0,181.0,0.0,20.0,0.0,2.0,6.0,0.0,right_only
+3464,,,,,,,,,,,,,Paper Ballots,Stewart,Paper Ballots,142.0,86.0,0.0,7.0,0.0,0.0,1.0,0.0,right_only
+3465,,,,,,,,,,,,,Paper Ballots,Union,Paper Ballots,232.0,74.0,0.0,2.0,0.0,0.0,0.0,2.0,right_only
+3466,,,,,,,,,,,,,5-1 City Park,Scott,5-1 City Park,319.0,48.0,0.0,4.0,0.0,1.0,0.0,0.0,right_only
+3467,,,,,,,,,,,,,7 Justice Center,Sequatchie,7 Justice Center,436.0,126.0,1.0,9.0,1.0,1.0,3.0,0.0,right_only
+3468,,,,,,,,,,,,,1-1 Caton's Chapel,Sevier,1-1 Caton's Chapel,1342.0,276.0,1.0,36.0,2.0,5.0,13.0,2.0,right_only
+3469,,,,,,,,,,,,,1-2 Caton's Chapel,Sevier,1-2 Caton's Chapel,33.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0,right_only
+3470,,,,,,,,,,,,,1-3 Jones Cove,Sevier,1-3 Jones Cove,806.0,144.0,2.0,14.0,2.0,4.0,2.0,4.0,right_only
+3471,,,,,,,,,,,,,1-4 Jones Cove,Sevier,1-4 Jones Cove,49.0,6.0,0.0,2.0,1.0,0.0,0.0,1.0,right_only
+3472,,,,,,,,,,,,,2-1 Wearwood,Sevier,2-1 Wearwood,1382.0,281.0,5.0,23.0,3.0,12.0,7.0,7.0,right_only
+3473,,,,,,,,,,,,,2-2 Waldens Creek,Sevier,2-2 Waldens Creek,1118.0,242.0,0.0,31.0,2.0,2.0,12.0,2.0,right_only
+3474,,,,,,,,,,,,,3-1 New Center,Sevier,3-1 New Center,830.0,178.0,1.0,25.0,0.0,3.0,3.0,2.0,right_only
+3475,,,,,,,,,,,,,3-2 Harrisburg,Sevier,3-2 Harrisburg,1605.0,288.0,1.0,44.0,2.0,1.0,5.0,10.0,right_only
+3476,,,,,,,,,,,,,4-1 Pigeon Forge,Sevier,4-1 Pigeon Forge,3113.0,621.0,2.0,103.0,5.0,9.0,19.0,5.0,right_only
+3477,,,,,,,,,,,,,5-1 Sevierville,Sevier,5-1 Sevierville,1824.0,480.0,2.0,54.0,0.0,6.0,20.0,7.0,right_only
+3478,,,,,,,,,,,,,5-2 Senior Center,Sevier,5-2 Senior Center,1027.0,279.0,2.0,35.0,1.0,4.0,4.0,4.0,right_only
+3479,,,,,,,,,,,,,6-1 Seymour,Sevier,6-1 Seymour,2921.0,611.0,3.0,101.0,2.0,9.0,23.0,17.0,right_only
+3480,,,,,,,,,,,,,7-1 Catlettsburg,Sevier,7-1 Catlettsburg,431.0,64.0,0.0,7.0,1.0,1.0,2.0,0.0,right_only
+3481,,,,,,,,,,,,,7-2 Catlettsburg,Sevier,7-2 Catlettsburg,1100.0,238.0,0.0,44.0,3.0,0.0,10.0,6.0,right_only
+3482,,,,,,,,,,,,,7-3 Walnut Grove,Sevier,7-3 Walnut Grove,516.0,126.0,1.0,21.0,2.0,1.0,10.0,0.0,right_only
+3483,,,,,,,,,,,,,8-1 Kodak,Sevier,8-1 Kodak,2094.0,359.0,4.0,51.0,4.0,6.0,9.0,3.0,right_only
+3484,,,,,,,,,,,,,8-2 Kodak,Sevier,8-2 Kodak,189.0,31.0,1.0,6.0,0.0,0.0,0.0,1.0,right_only
+3485,,,,,,,,,,,,,8-3 Underwood,Sevier,8-3 Underwood,987.0,209.0,3.0,41.0,1.0,5.0,3.0,6.0,right_only
+3486,,,,,,,,,,,,,9-1 Seymour Primary,Sevier,9-1 Seymour Primary,2499.0,581.0,5.0,118.0,2.0,5.0,16.0,13.0,right_only
+3487,,,,,,,,,,,,,10-1 Boyds Creek,Sevier,10-1 Boyds Creek,1487.0,281.0,1.0,53.0,2.0,1.0,9.0,10.0,right_only
+3488,,,,,,,,,,,,,10-2 Whites,Sevier,10-2 Whites,351.0,67.0,0.0,8.0,0.0,0.0,3.0,2.0,right_only
+3489,,,,,,,,,,,,,10-3 DuPont,Sevier,10-3 DuPont,651.0,140.0,0.0,18.0,0.0,1.0,5.0,4.0,right_only
+3490,,,,,,,,,,,,,11-1 Gatlinburg,Sevier,11-1 Gatlinburg,1719.0,620.0,3.0,61.0,1.0,2.0,30.0,2.0,right_only
+3491,,,,,,,,,,,,,11-2 Pittman Center,Sevier,11-2 Pittman Center,555.0,169.0,0.0,19.0,0.0,1.0,6.0,0.0,right_only
+3492,,,,,,,,,,,,,Memphis 47,Shelby,Memphis 47,31.0,1816.0,2.0,8.0,4.0,5.0,1.0,0.0,right_only
+3493,,,,,,,,,,,,,Memphis 62,Shelby,Memphis 62,407.0,553.0,6.0,8.0,1.0,2.0,7.0,4.0,right_only
+3494,,,,,,,,,,,,,Arlington 01,Shelby,Arlington 01,2718.0,910.0,3.0,117.0,3.0,5.0,12.0,35.0,right_only
+3495,,,,,,,,,,,,,Arlington 02,Shelby,Arlington 02,1365.0,508.0,1.0,63.0,1.0,2.0,9.0,20.0,right_only
+3496,,,,,,,,,,,,,Brunswick 01,Shelby,Brunswick 01,1205.0,509.0,3.0,47.0,2.0,3.0,7.0,15.0,right_only
+3497,,,,,,,,,,,,,Brunswick 02,Shelby,Brunswick 02,1647.0,1330.0,4.0,82.0,3.0,6.0,8.0,27.0,right_only
+3498,,,,,,,,,,,,,Collierville 01,Shelby,Collierville 01,2571.0,645.0,2.0,119.0,0.0,15.0,6.0,34.0,right_only
+3499,,,,,,,,,,,,,Collierville 02,Shelby,Collierville 02,1573.0,1235.0,5.0,55.0,4.0,12.0,12.0,14.0,right_only
+3500,,,,,,,,,,,,,Collierville 03,Shelby,Collierville 03,2075.0,511.0,2.0,96.0,3.0,18.0,13.0,15.0,right_only
+3501,,,,,,,,,,,,,Collierville 04,Shelby,Collierville 04,2167.0,670.0,6.0,77.0,1.0,9.0,14.0,20.0,right_only
+3502,,,,,,,,,,,,,Collierville 05,Shelby,Collierville 05,1338.0,328.0,0.0,59.0,0.0,3.0,8.0,13.0,right_only
+3503,,,,,,,,,,,,,Collierville 06,Shelby,Collierville 06,1676.0,516.0,1.0,58.0,1.0,0.0,8.0,15.0,right_only
+3504,,,,,,,,,,,,,Collierville 07,Shelby,Collierville 07,948.0,1479.0,4.0,46.0,2.0,2.0,6.0,9.0,right_only
+3505,,,,,,,,,,,,,Collierville 08,Shelby,Collierville 08,1238.0,386.0,0.0,55.0,1.0,6.0,4.0,12.0,right_only
+3506,,,,,,,,,,,,,Collierville 09,Shelby,Collierville 09,1981.0,604.0,3.0,96.0,2.0,3.0,10.0,21.0,right_only
+3507,,,,,,,,,,,,,Cordova 03,Shelby,Cordova 03,1360.0,1842.0,4.0,59.0,6.0,6.0,27.0,19.0,right_only
+3508,,,,,,,,,,,,,Cordova 04,Shelby,Cordova 04,603.0,653.0,2.0,21.0,3.0,7.0,6.0,20.0,right_only
+3509,,,,,,,,,,,,,Cordova 05,Shelby,Cordova 05,673.0,1449.0,10.0,54.0,3.0,3.0,11.0,6.0,right_only
+3510,,,,,,,,,,,,,Forest Hills 01,Shelby,Forest Hills 01,840.0,907.0,1.0,29.0,2.0,0.0,8.0,5.0,right_only
+3511,,,,,,,,,,,,,Forest Hills 02,Shelby,Forest Hills 02,318.0,583.0,1.0,13.0,2.0,0.0,2.0,1.0,right_only
+3512,,,,,,,,,,,,,Forest Hills 03,Shelby,Forest Hills 03,275.0,2130.0,2.0,17.0,1.0,3.0,8.0,8.0,right_only
+3513,,,,,,,,,,,,,Lakeland 01,Shelby,Lakeland 01,3064.0,915.0,5.0,100.0,5.0,7.0,16.0,25.0,right_only
+3514,,,,,,,,,,,,,Lakeland 02,Shelby,Lakeland 02,1155.0,417.0,8.0,46.0,0.0,4.0,13.0,8.0,right_only
+3515,,,,,,,,,,,,,Lucy 01,Shelby,Lucy 01,578.0,338.0,3.0,20.0,0.0,5.0,3.0,3.0,right_only
+3516,,,,,,,,,,,,,Lucy 03,Shelby,Lucy 03,443.0,520.0,2.0,25.0,1.0,3.0,6.0,1.0,right_only
+3517,,,,,,,,,,,,,McConnell's,Shelby,McConnell's,455.0,827.0,3.0,13.0,0.0,3.0,1.0,5.0,right_only
+3518,,,,,,,,,,,,,Millington 01,Shelby,Millington 01,1994.0,1006.0,4.0,81.0,4.0,9.0,13.0,12.0,right_only
+3519,,,,,,,,,,,,,Millington 02,Shelby,Millington 02,1720.0,1230.0,6.0,85.0,7.0,9.0,24.0,10.0,right_only
+3520,,,,,,,,,,,,,Ross 05,Shelby,Ross 05,209.0,2256.0,3.0,21.0,3.0,1.0,9.0,2.0,right_only
+3521,,,,,,,,,,,,,Ross 13,Shelby,Ross 13,217.0,2877.0,4.0,24.0,3.0,0.0,14.0,0.0,right_only
+3522,,,,,,,,,,,,,Ross 14,Shelby,Ross 14,116.0,1990.0,2.0,12.0,1.0,2.0,6.0,2.0,right_only
+3523,,,,,,,,,,,,,Ross 15,Shelby,Ross 15,108.0,1662.0,1.0,14.0,5.0,4.0,9.0,3.0,right_only
+3524,,,,,,,,,,,,,Ross 16,Shelby,Ross 16,196.0,2966.0,3.0,14.0,3.0,8.0,7.0,4.0,right_only
+3525,,,,,,,,,,,,,4-1 Church Street,Stewart,4-1 Church Street,550.0,138.0,0.0,21.0,1.0,2.0,1.0,0.0,right_only
+3526,,,,,,,,,,,,,6-1 Public Library,Stewart,6-1 Public Library,599.0,181.0,4.0,18.0,0.0,1.0,1.0,2.0,right_only
+3527,,,,,,,,,,,,,1-1 Westmoreland,Sumner,1-1 Westmoreland,1588.0,372.0,3.0,55.0,1.0,5.0,8.0,5.0,right_only
+3528,,,,,,,,,,,,,1-3 Corinth,Sumner,1-3 Corinth,1660.0,390.0,5.0,52.0,4.0,4.0,11.0,2.0,right_only
+3529,,,,,,,,,,,,,2-1 Portland,Sumner,2-1 Portland,1680.0,468.0,6.0,65.0,1.0,2.0,15.0,16.0,right_only
+3530,,,,,,,,,,,,,2-2 Wiseman,Sumner,2-2 Wiseman,1453.0,460.0,4.0,47.0,7.0,8.0,13.0,1.0,right_only
+3531,,,,,,,,,,,,,3-1 Civic Center,Sumner,3-1 Civic Center,2137.0,679.0,4.0,70.0,3.0,4.0,13.0,29.0,right_only
+3532,,,,,,,,,,,,,3-3 Creekside,Sumner,3-3 Creekside,2061.0,629.0,4.0,54.0,4.0,7.0,8.0,3.0,right_only
+3533,,,,,,,,,,,,,4-1 Howard,Sumner,4-1 Howard,2481.0,1083.0,2.0,106.0,1.0,5.0,10.0,26.0,right_only
+3534,,,,,,,,,,,,,4-3 Cottontown,Sumner,4-3 Cottontown,1065.0,250.0,4.0,31.0,3.0,8.0,4.0,2.0,right_only
+3535,,,,,,,,,,,,,4-4 Union,Sumner,4-4 Union,691.0,675.0,1.0,22.0,3.0,4.0,5.0,12.0,right_only
+3536,,,,,,,,,,,,,5-1 FB Gallatin,Sumner,5-1 FB Gallatin,1114.0,603.0,3.0,42.0,0.0,5.0,6.0,5.0,right_only
+3537,,,,,,,,,,,,,5-2 Guild,Sumner,5-2 Guild,1179.0,770.0,5.0,67.0,3.0,11.0,17.0,9.0,right_only
+3538,,,,,,,,,,,,,6-1 Vol State,Sumner,6-1 Vol State,2978.0,808.0,3.0,103.0,0.0,7.0,9.0,8.0,right_only
+3539,,,,,,,,,,,,,6-2 Gallatin HS,Sumner,6-2 Gallatin HS,1242.0,523.0,6.0,46.0,2.0,6.0,17.0,18.0,right_only
+3540,,,,,,,,,,,,,6-3 Jack Anderson,Sumner,6-3 Jack Anderson,2266.0,807.0,3.0,127.0,1.0,3.0,12.0,53.0,right_only
+3541,,,,,,,,,,,,,7-1 Whitten,Sumner,7-1 Whitten,2582.0,998.0,5.0,140.0,5.0,8.0,24.0,17.0,right_only
+3542,,,,,,,,,,,,,7-3 Long Hollow,Sumner,7-3 Long Hollow,3208.0,870.0,4.0,144.0,5.0,13.0,19.0,24.0,right_only
+3543,,,,,,,,,,,,,8-1 Brown,Sumner,8-1 Brown,1699.0,854.0,5.0,79.0,3.0,8.0,27.0,2.0,right_only
+3544,,,,,,,,,,,,,8-2 Hawkins,Sumner,8-2 Hawkins,1749.0,787.0,4.0,80.0,3.0,7.0,10.0,11.0,right_only
+3545,,,,,,,,,,,,,9-1 Hendersonville,Sumner,9-1 Hendersonville,2102.0,991.0,5.0,112.0,5.0,6.0,16.0,2.0,right_only
+3546,,,,,,,,,,,,,9-2 Indian Lake,Sumner,9-2 Indian Lake,2720.0,882.0,2.0,146.0,5.0,6.0,20.0,86.0,right_only
+3547,,,,,,,,,,,,,10-1 Walton Ferry,Sumner,10-1 Walton Ferry,1282.0,722.0,2.0,79.0,3.0,6.0,20.0,8.0,right_only
+3548,,,,,,,,,,,,,10-2 Merrol Hyde,Sumner,10-2 Merrol Hyde,2197.0,968.0,5.0,118.0,3.0,8.0,23.0,23.0,right_only
+3549,,,,,,,,,,,,,11-1 Beech,Sumner,11-1 Beech,1119.0,305.0,0.0,36.0,0.0,2.0,9.0,9.0,right_only
+3550,,,,,,,,,,,,,11-2 Goodlettsville,Sumner,11-2 Goodlettsville,2090.0,857.0,2.0,68.0,3.0,9.0,15.0,9.0,right_only
+3551,,,,,,,,,,,,,11-3 Millersville,Sumner,11-3 Millersville,1038.0,388.0,5.0,53.0,4.0,2.0,5.0,2.0,right_only
+3552,,,,,,,,,,,,,12-1 Oakmont,Sumner,12-1 Oakmont,2362.0,514.0,4.0,67.0,3.0,14.0,14.0,1.0,right_only
+3553,,,,,,,,,,,,,12-3 White House,Sumner,12-3 White House,2386.0,508.0,6.0,93.0,0.0,8.0,19.0,8.0,right_only
+3554,,,,,,,,,,,,,1-1 NE Covington,Tipton,1-1 NE Covington,860.0,1100.0,6.0,15.0,4.0,5.0,7.0,1.0,right_only
+3555,,,,,,,,,,,,,2-3 SE Covington,Tipton,2-3 SE Covington,1642.0,829.0,10.0,39.0,6.0,5.0,8.0,5.0,right_only
+3556,,,,,,,,,,,,,3-6 Tipton West,Tipton,3-6 Tipton West,2131.0,255.0,1.0,51.0,2.0,2.0,6.0,3.0,right_only
+3557,,,,,,,,,,,,,4-11 Atoka,Tipton,4-11 Atoka,2789.0,734.0,8.0,118.0,4.0,10.0,10.0,11.0,right_only
+3558,,,,,,,,,,,,,5-12 Munford,Tipton,5-12 Munford,2202.0,425.0,6.0,83.0,4.0,8.0,23.0,2.0,right_only
+3559,,,,,,,,,,,,,6-14 SW Tipton,Tipton,6-14 SW Tipton,1870.0,438.0,1.0,43.0,4.0,4.0,12.0,10.0,right_only
+3560,,,,,,,,,,,,,7-19 Austin Peay,Tipton,7-19 Austin Peay,1751.0,843.0,3.0,41.0,2.0,4.0,10.0,1.0,right_only
+3561,,,,,,,,,,,,,8-21 Wilkinsville,Tipton,8-21 Wilkinsville,1733.0,660.0,3.0,49.0,3.0,6.0,9.0,3.0,right_only
+3562,,,,,,,,,,,,,9-22 Brighton,Tipton,9-22 Brighton,1932.0,501.0,2.0,46.0,4.0,9.0,5.0,1.0,right_only
+3563,,,,,,,,,,,,,01 Senior Center,Trousdale,01 Senior Center,159.0,114.0,0.0,7.0,0.0,1.0,0.0,0.0,right_only
+3564,,,,,,,,,,,,,02 Cato,Trousdale,02 Cato,261.0,92.0,3.0,13.0,0.0,0.0,2.0,2.0,right_only
+3565,,,,,,,,,,,,,03 Beech Grove,Trousdale,03 Beech Grove,255.0,59.0,0.0,9.0,0.0,0.0,0.0,0.0,right_only
+3566,,,,,,,,,,,,,04 Halltown,Trousdale,04 Halltown,210.0,93.0,1.0,6.0,1.0,0.0,2.0,0.0,right_only
+3567,,,,,,,,,,,,,05 Templow,Trousdale,05 Templow,267.0,85.0,1.0,10.0,1.0,1.0,1.0,2.0,right_only
+3568,,,,,,,,,,,,,06 Walnut Grove,Trousdale,06 Walnut Grove,247.0,80.0,1.0,9.0,1.0,0.0,0.0,0.0,right_only
+3569,,,,,,,,,,,,,07 High School,Trousdale,07 High School,112.0,120.0,2.0,3.0,1.0,1.0,0.0,0.0,right_only
+3570,,,,,,,,,,,,,08 Willard,Trousdale,08 Willard,201.0,114.0,0.0,6.0,1.0,0.0,0.0,1.0,right_only
+3571,,,,,,,,,,,,,09 City,Trousdale,09 City,154.0,92.0,2.0,4.0,2.0,0.0,1.0,0.0,right_only
+3572,,,,,,,,,,,,,1-1 UCHS,Union,1-1 UCHS,852.0,135.0,1.0,26.0,2.0,3.0,6.0,1.0,right_only
+3573,,,,,,,,,,,,,2-1 Luttrell,Union,2-1 Luttrell,579.0,92.0,1.0,14.0,1.0,3.0,3.0,4.0,right_only
+3574,,,,,,,,,,,,,3-1 Cedar Grove,Union,3-1 Cedar Grove,375.0,80.0,0.0,3.0,0.0,0.0,2.0,3.0,right_only
+3575,,,,,,,,,,,,,3-2 Brock,Union,3-2 Brock,288.0,60.0,1.0,3.0,0.0,1.0,4.0,0.0,right_only
+3576,,,,,,,,,,,,,4-1 Big Ridge,Union,4-1 Big Ridge,636.0,152.0,1.0,14.0,0.0,3.0,2.0,0.0,right_only
+3577,,,,,,,,,,,,,5-1 Sharp Chapel,Union,5-1 Sharp Chapel,642.0,123.0,3.0,14.0,2.0,2.0,2.0,1.0,right_only
+3578,,,,,,,,,,,,,5-2 Braden Chapel,Union,5-2 Braden Chapel,72.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,right_only
+3579,,,,,,,,,,,,,6-1 Paulette,Union,6-1 Paulette,776.0,166.0,3.0,21.0,2.0,6.0,1.0,0.0,right_only
+3580,,,,,,,,,,,,,7-1 Plainview,Union,7-1 Plainview,601.0,120.0,1.0,10.0,1.0,1.0,4.0,1.0,right_only
+3581,,,,,,,,,,,,,Cummingsville,Van Buren,Cummingsville,194.0,54.0,0.0,14.0,0.0,0.0,0.0,0.0,right_only
+3582,,,,,,,,,,,,,Fall Creek Falls,Van Buren,Fall Creek Falls,372.0,91.0,0.0,2.0,1.0,0.0,2.0,0.0,right_only
+3583,,,,,,,,,,,,,Piney,Van Buren,Piney,353.0,101.0,1.0,10.0,0.0,1.0,0.0,1.0,right_only
+3584,,,,,,,,,,,,,White Hill,Van Buren,White Hill,79.0,20.0,0.0,0.0,0.0,0.0,2.0,0.0,right_only
+3585,,,,,,,,,,,,,2-1 Courthouse,Warren,2-1 Courthouse,633.0,236.0,4.0,36.0,2.0,4.0,6.0,1.0,right_only
+3586,,,,,,,,,,,,,2-2 Airport,Warren,2-2 Airport,479.0,118.0,2.0,8.0,1.0,4.0,1.0,1.0,right_only
+3587,,,,,,,,,,,,,3-1 Westwood,Warren,3-1 Westwood,404.0,168.0,2.0,22.0,2.0,2.0,1.0,1.0,right_only
+3588,,,,,,,,,,,,,3-2 Smartt,Warren,3-2 Smartt,458.0,161.0,1.0,21.0,0.0,0.0,1.0,2.0,right_only
+3589,,,,,,,,,,,,,4-1 TSU,Warren,4-1 TSU,623.0,259.0,2.0,33.0,1.0,3.0,1.0,0.0,right_only
+3590,,,,,,,,,,,,,5-1 Mall,Warren,5-1 Mall,378.0,226.0,1.0,10.0,1.0,2.0,4.0,2.0,right_only
+3591,,,,,,,,,,,,,5-2 Towers,Warren,5-2 Towers,173.0,117.0,0.0,4.0,0.0,2.0,0.0,0.0,right_only
+3592,,,,,,,,,,,,,6-1 Caney Fork,Warren,6-1 Caney Fork,527.0,272.0,4.0,21.0,1.0,1.0,9.0,1.0,right_only
+3593,,,,,,,,,,,,,7-1 Friendship,Warren,7-1 Friendship,803.0,309.0,3.0,16.0,3.0,2.0,3.0,1.0,right_only
+3594,,,,,,,,,,,,,8-1 Fairview,Warren,8-1 Fairview,671.0,183.0,1.0,23.0,0.0,1.0,3.0,4.0,right_only
+3595,,,,,,,,,,,,,8-3 Bonner,Warren,8-3 Bonner,275.0,72.0,2.0,14.0,1.0,2.0,6.0,0.0,right_only
+3596,,,,,,,,,,,,,9-1 Morrison,Warren,9-1 Morrison,684.0,261.0,2.0,21.0,2.0,3.0,5.0,1.0,right_only
+3597,,,,,,,,,,,,,9-2 Viola,Warren,9-2 Viola,267.0,78.0,1.0,18.0,1.0,0.0,0.0,2.0,right_only
+3598,,,,,,,,,,,,,10-1 Centertown UMC,Warren,10-1 Centertown UMC,573.0,199.0,1.0,14.0,0.0,1.0,2.0,0.0,right_only
+3599,,,,,,,,,,,,,10-2 Centertown CIC,Warren,10-2 Centertown CIC,373.0,109.0,1.0,8.0,0.0,1.0,1.0,0.0,right_only
+3600,,,,,,,,,,,,,11-1 Midway,Warren,11-1 Midway,297.0,94.0,0.0,7.0,1.0,2.0,0.0,1.0,right_only
+3601,,,,,,,,,,,,,11-2 Hwy 56 North,Warren,11-2 Hwy 56 North,556.0,157.0,2.0,15.0,1.0,4.0,5.0,0.0,right_only
+3602,,,,,,,,,,,,,12-1 Northside,Warren,12-1 Northside,385.0,122.0,2.0,9.0,1.0,2.0,3.0,0.0,right_only
+3603,,,,,,,,,,,,,12-2 Lucky,Warren,12-2 Lucky,353.0,125.0,1.0,15.0,0.0,3.0,3.0,1.0,right_only
+3604,,,,,,,,,,,,,01 Fall Branch,Washington,01 Fall Branch,631.0,115.0,0.0,21.0,0.0,1.0,2.0,1.0,right_only
+3605,,,,,,,,,,,,,02 Harmony,Washington,02 Harmony,1146.0,206.0,1.0,22.0,1.0,6.0,3.0,5.0,right_only
+3606,,,,,,,,,,,,,03 Gray East,Washington,03 Gray East,1812.0,387.0,0.0,54.0,4.0,9.0,13.0,8.0,right_only
+3607,,,,,,,,,,,,,04 Gray City,Washington,04 Gray City,76.0,6.0,1.0,3.0,0.0,1.0,0.0,0.0,right_only
+3608,,,,,,,,,,,,,05 B.C. East,Washington,05 B.C. East,1126.0,291.0,5.0,43.0,1.0,3.0,12.0,1.0,right_only
+3609,,,,,,,,,,,,,06 Sulphur Springs,Washington,06 Sulphur Springs,2135.0,439.0,9.0,61.0,4.0,7.0,20.0,7.0,right_only
+3610,,,,,,,,,,,,,07 Gray West,Washington,07 Gray West,1407.0,264.0,1.0,56.0,2.0,4.0,10.0,5.0,right_only
+3611,,,,,,,,,,,,,08 B.C. West,Washington,08 B.C. West,928.0,243.0,0.0,34.0,2.0,6.0,13.0,2.0,right_only
+3612,,,,,,,,,,,,,09 B.C. City,Washington,09 B.C. City,1622.0,639.0,2.0,86.0,1.0,10.0,12.0,5.0,right_only
+3613,,,,,,,,,,,,,17 Town Acres,Washington,17 Town Acres,1715.0,882.0,4.0,97.0,3.0,4.0,25.0,10.0,right_only
+3614,,,,,,,,,,,,,20 Visitor's Center,Washington,20 Visitor's Center,1588.0,674.0,5.0,76.0,3.0,3.0,18.0,4.0,right_only
+3615,,,,,,,,,,,,,25 Millennium,Washington,25 Millennium,648.0,750.0,5.0,73.0,3.0,5.0,44.0,6.0,right_only
+3616,,,,,,,,,,,,,30 Grace,Washington,30 Grace,876.0,682.0,1.0,63.0,1.0,9.0,22.0,5.0,right_only
+3617,,,,,,,,,,,,,32 Cherokee Out,Washington,32 Cherokee Out,775.0,177.0,4.0,24.0,0.0,3.0,5.0,3.0,right_only
+3618,,,,,,,,,,,,,34 New Victory,Washington,34 New Victory,769.0,205.0,2.0,17.0,0.0,3.0,9.0,3.0,right_only
+3619,,,,,,,,,,,,,1 Waynesboro,Wayne,1 Waynesboro,757.0,139.0,2.0,8.0,0.0,1.0,0.0,0.0,right_only
+3620,,,,,,,,,,,,,3-1 Beech Creek,Wayne,3-1 Beech Creek,233.0,36.0,1.0,3.0,1.0,2.0,1.0,0.0,right_only
+3621,,,,,,,,,,,,,3-2 Crazy Horse,Wayne,3-2 Crazy Horse,356.0,49.0,0.0,4.0,1.0,2.0,0.0,0.0,right_only
+3622,,,,,,,,,,,,,3-3 Eagle Creek,Wayne,3-3 Eagle Creek,149.0,36.0,0.0,1.0,0.0,1.0,0.0,0.0,right_only
+3623,,,,,,,,,,,,,4-1 Collinwood,Wayne,4-1 Collinwood,506.0,74.0,1.0,5.0,0.0,0.0,0.0,4.0,right_only
+3624,,,,,,,,,,,,,4-2 Shawnettee,Wayne,4-2 Shawnettee,319.0,30.0,0.0,1.0,0.0,1.0,3.0,0.0,right_only
+3625,,,,,,,,,,,,,5-1 Big Cypress,Wayne,5-1 Big Cypress,362.0,39.0,0.0,1.0,0.0,1.0,2.0,0.0,right_only
+3626,,,,,,,,,,,,,5-2 Lutts,Wayne,5-2 Lutts,297.0,24.0,0.0,5.0,0.0,1.0,1.0,1.0,right_only
+3627,,,,,,,,,,,,,5-3 Wayne Co High,Wayne,5-3 Wayne Co High,201.0,23.0,2.0,3.0,0.0,0.0,0.0,2.0,right_only
+3628,,,,,,,,,,,,,6-1 Holly Creek,Wayne,6-1 Holly Creek,263.0,31.0,1.0,4.0,0.0,0.0,0.0,0.0,right_only
+3629,,,,,,,,,,,,,6-2 South Gate,Wayne,6-2 South Gate,611.0,62.0,2.0,10.0,0.0,2.0,0.0,0.0,right_only
+3630,,,,,,,,,,,,,7-1 Buffalo River,Wayne,7-1 Buffalo River,307.0,46.0,0.0,5.0,1.0,0.0,0.0,0.0,right_only
+3631,,,,,,,,,,,,,7-2 Ovilla,Wayne,7-2 Ovilla,488.0,65.0,2.0,2.0,0.0,1.0,0.0,0.0,right_only
+3632,,,,,,,,,,,,,1A Palmersville,Weakley,1A Palmersville,621.0,117.0,2.0,8.0,1.0,1.0,3.0,1.0,right_only
+3633,,,,,,,,,,,,,1B Latham,Weakley,1B Latham,599.0,102.0,1.0,10.0,1.0,1.0,1.0,0.0,right_only
+3634,,,,,,,,,,,,,2A Gleason,Weakley,2A Gleason,1134.0,203.0,4.0,16.0,2.0,5.0,1.0,3.0,right_only
+3635,,,,,,,,,,,,,3A Greenfield,Weakley,3A Greenfield,1060.0,263.0,2.0,18.0,0.0,3.0,1.0,2.0,right_only
+3636,,,,,,,,,,,,,4A Sharon,Weakley,4A Sharon,1242.0,246.0,2.0,26.0,1.0,6.0,4.0,8.0,right_only
+3637,,,,,,,,,,,,,5A Martin CoC,Weakley,5A Martin CoC,761.0,405.0,1.0,36.0,0.0,3.0,15.0,8.0,right_only
+3638,,,,,,,,,,,,,6A Trinity,Weakley,6A Trinity,388.0,338.0,1.0,22.0,0.0,3.0,9.0,5.0,right_only
+3639,,,,,,,,,,,,,7A Martin Shepherd's,Weakley,7A Martin Shepherd's,1154.0,410.0,4.0,41.0,0.0,5.0,10.0,15.0,right_only
+3640,,,,,,,,,,,,,8A Martin FUMC,Weakley,8A Martin FUMC,1063.0,381.0,6.0,25.0,4.0,6.0,9.0,1.0,right_only
+3641,,,,,,,,,,,,,9A Dresden,Weakley,9A Dresden,986.0,307.0,2.0,18.0,1.0,6.0,9.0,5.0,right_only
+3642,,,,,,,,,,,,,1-1 Sparta Civic,White,1-1 Sparta Civic,602.0,237.0,4.0,15.0,5.0,4.0,1.0,6.0,right_only
+3643,,,,,,,,,,,,,1-2 Sparta Civic,White,1-2 Sparta Civic,184.0,64.0,0.0,3.0,0.0,1.0,2.0,0.0,right_only
+3644,,,,,,,,,,,,,2-1 Ag Fair Complex,White,2-1 Ag Fair Complex,533.0,175.0,0.0,10.0,1.0,2.0,3.0,5.0,right_only
+3645,,,,,,,,,,,,,2-2 Woodland Park,White,2-2 Woodland Park,405.0,126.0,3.0,9.0,2.0,1.0,5.0,1.0,right_only
+3646,,,,,,,,,,,,,3-1 Ag Fair Complex,White,3-1 Ag Fair Complex,1259.0,244.0,2.0,17.0,2.0,8.0,9.0,4.0,right_only
+3647,,,,,,,,,,,,,4-1 Woodland Park,White,4-1 Woodland Park,394.0,70.0,1.0,9.0,0.0,2.0,4.0,1.0,right_only
+3648,,,,,,,,,,,,,4-2 Bondecroft,White,4-2 Bondecroft,772.0,178.0,0.0,15.0,2.0,3.0,3.0,2.0,right_only
+3649,,,,,,,,,,,,,5-1 Doyle Civic,White,5-1 Doyle Civic,1009.0,220.0,3.0,13.0,3.0,4.0,4.0,1.0,right_only
+3650,,,,,,,,,,,,,6-1 Central View,White,6-1 Central View,253.0,57.0,2.0,8.0,1.0,0.0,4.0,3.0,right_only
+3651,,,,,,,,,,,,,6-2 Cassville,White,6-2 Cassville,923.0,178.0,3.0,12.0,0.0,2.0,4.0,2.0,right_only
+3652,,,,,,,,,,,,,7-1 Northfield,White,7-1 Northfield,1337.0,296.0,4.0,38.0,6.0,12.0,6.0,7.0,right_only
+3653,,,,,,,,,,,,,9-4,Williamson,9-4,911.0,335.0,0.0,50.0,0.0,0.0,7.0,5.0,right_only
+3654,,,,,,,,,,,,,9-5,Williamson,9-5,623.0,190.0,0.0,24.0,1.0,4.0,0.0,8.0,right_only
+3655,,,,,,,,,,,,,Provisional,Wilson,Provisional,102.0,29.0,0.0,6.0,1.0,0.0,0.0,1.0,right_only

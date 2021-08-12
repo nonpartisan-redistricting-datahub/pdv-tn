@@ -1,0 +1,117 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2577
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 to_allocate_list = ['Early voting',\
+'Early Voting - Write-Ins',\
+'Provisional - Write-Ins',\
+'Provisional',\
+'Absentee',\
+'Paper Ballots']\
+\
+to_allocate = president_election_16[president_election_16["Precinct"].isin(to_allocate_list)]\
+to_add_to = president_election_16[~president_election_16["Precinct"].isin(to_allocate_list)]\
+\
+def allocate_absentee(df_receiving_votes,df_allocating,column_list,col_allocating):\
+    original_cols = list(df_receiving_votes.columns)\
+    \
+    #Add in the "Total Votes column"\
+    df_receiving_votes.loc[:,"Total_Votes"]=0\
+    for race in column_list:\
+        df_receiving_votes.loc[:,"Total_Votes"]+=df_receiving_votes.loc[:,race]\
+    \
+    #Create the needed dataframes\
+    precinct_specific_totals = pd.DataFrame(df_receiving_votes.groupby([col_allocating]).sum())\
+    precinct_specific_totals.reset_index(drop=False,inplace=True)\
+    to_dole_out_totals = pd.DataFrame(df_allocating.groupby([col_allocating]).sum())\
+    to_dole_out_totals.reset_index(drop=False,inplace=True)\
+    \
+    #Print out any instances where the allocation, as written, won't work\
+    special_allocation_needed = []\
+    for index, row in precinct_specific_totals.iterrows():\
+        for race in column_list:\
+            if (row[race]==0):\
+                race_district = row[col_allocating]\
+                if race_district in to_dole_out_totals[col_allocating].unique():\
+                    to_allocate = int(to_dole_out_totals.loc[to_dole_out_totals[col_allocating]==race_district][race])\
+                    if (to_allocate != 0):\
+                        special_allocation_needed.append([race_district,race])\
+    \
+    #Create some new columns for each of these races to deal with the allocation\
+    for race in column_list:\
+        add_var = race+"_add"\
+        rem_var = race+"_rem"\
+        floor_var = race+"_floor"\
+        df_receiving_votes.loc[:,add_var]=0.0\
+        df_receiving_votes.loc[:,rem_var]=0.0\
+        df_receiving_votes.loc[:,floor_var]=0.0\
+\
+    #Iterate over the rows\
+    #Note this function iterates over the dataframe two times so the rounded vote totals match the totals to allocate\
+    for index, row in df_receiving_votes.iterrows():\
+        if row[col_allocating] in to_dole_out_totals[col_allocating].unique():\
+            for race in column_list:\
+                add_var = race+"_add"\
+                rem_var = race+"_rem"\
+                floor_var = race+"_floor"\
+                #Grab the district\
+                county_id = row[col_allocating]\
+                if [county_id,race] in special_allocation_needed:\
+                    #Get the denominator for the allocation - the summed "total votes" for precincts in that grouping\
+                    denom = precinct_specific_totals.loc[precinct_specific_totals[col_allocating]==county_id]["Total_Votes"]\
+                    #Get one of the numerators, how many districtwide votes to allocate\
+                    numer = to_dole_out_totals.loc[to_dole_out_totals[col_allocating]==county_id][race]\
+                    #Get the "total votes" for this particular precinct\
+                    val = df_receiving_votes.at[index,"Total_Votes"]\
+                    #Get the vote share, the precincts % of total precinct votes in the district times votes to allocate\
+                else:\
+                    #Get the denominator for the allocation (the precinct vote totals)\
+                    denom = precinct_specific_totals.loc[precinct_specific_totals[col_allocating]==county_id][race]\
+                    #Get one of the numerators, how many districtwide votes to allocate\
+                    numer = to_dole_out_totals.loc[to_dole_out_totals[col_allocating]==county_id][race]\
+                    #Get the vote totals for this race in this precinct\
+                    val = df_receiving_votes.at[index,race]\
+                    #Get the vote share, the precincts % of total precinct votes in the district times votes to allocate\
+                if ((float(denom)==0)):\
+                    vote_share = 0\
+                else:\
+                    vote_share = (float(val)/float(denom))*float(numer)\
+                df_receiving_votes.at[index,add_var] = vote_share\
+                #Take the decimal remainder of the allocation\
+                df_receiving_votes.at[index,rem_var] = vote_share%1\
+                #Take the floor of the allocation\
+                df_receiving_votes.at[index,floor_var] = np.floor(vote_share)\
+\
+    #After the first pass through, get the sums of the races by district to assist in the rounding            \
+    first_allocation = pd.DataFrame(df_receiving_votes.groupby([col_allocating]).sum())\
+\
+    #Now we want to iterate district by district to work on rounding\
+    county_list = list(to_dole_out_totals[col_allocating].unique()) \
+\
+    #Iterate over the district\
+    for county in county_list:\
+        for race in column_list:\
+            add_var = race+"_add"\
+            rem_var = race+"_rem"\
+            floor_var = race+"_floor"\
+            #County how many votes still need to be allocated (because we took the floor of all the initial allocations)\
+            to_go = int(np.round((int(to_dole_out_totals.loc[to_dole_out_totals[col_allocating]==county][race])-first_allocation.loc[first_allocation.index==county,floor_var])))\
+            #Grab the n precincts with the highest remainders and round these up, where n is the # of votes that still need to be allocated\
+            for index in df_receiving_votes.loc[df_receiving_votes[col_allocating]==county][rem_var].nlargest(to_go).index:\
+                df_receiving_votes.at[index,add_var] = np.ceil(df_receiving_votes.at[index,add_var])\
+\
+    #Iterate over every race again\
+    for race in column_list:\
+        add_var = race+"_add"\
+        #Round every allocation down to not add fractional votes\
+        df_receiving_votes.loc[:,add_var]=np.floor(df_receiving_votes.loc[:,add_var])\
+        df_receiving_votes.loc[:,race]+=df_receiving_votes.loc[:,add_var]\
+        \
+    df_receiving_votes = df_receiving_votes[original_cols]\
+    \
+    return df_receiving_votes\
+\
+president_allocated = allocate_absentee(to_add_to,to_allocate,data_columns,'County')}

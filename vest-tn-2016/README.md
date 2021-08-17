@@ -25,7 +25,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: TN Voter Precinct Maps
   - Date accessed: 8/17/2021
   - Link: https://comptroller.tn.gov/search-results.html?q=current+voter+precinct+map
-  - Note: Downloaded 94 files named 'Current Voter Precinct Maps'. McNairy County map is missing.
+  - Note: Downloaded 94 files named 'Current Voter Precinct Maps'. McNairy County map was unavailable.
 
 ## File processing:
 

@@ -1,0 +1,960 @@
+,unique_ID
+1985,Anderson-Clinton Middle
+1986,Anderson-Lake City MS
+1987,Anderson-Oak Ridge
+1988,Bedford-1-1 Wartrace
+1989,Bedford-1-2 Bell Buckle
+1990,Bedford-2-3 Fair Haven
+1991,Bedford-3-3 Unionville
+1992,Bedford-4-3 Bedford
+1993,Bedford-5-2 Flat Creek
+1994,Bedford-5-5 Normandy
+1995,Bedford-6-1 East Side
+1996,Bedford-7-1 Deery Eakin
+1997,Bedford-8-1 Thomas
+1998,Bedford-9-2 Southside
+1999,Benton-1 Holladay
+2000,Benton-4 Camden Elementary
+2001,Benton-5 Library
+2002,Benton-6 Big Sandy
+2003,Bledsoe-1-1 Dill
+2004,Bledsoe-1-2 Griffith
+2005,Bledsoe-1-3 Mt. Crest
+2006,Bledsoe-2-1 Cold Springs
+2007,Bledsoe-2-2 Luminary
+2008,Bledsoe-3-1 Brayton
+2009,Bledsoe-3-2 Rigsby
+2010,Bledsoe-4-1 Pikeville
+2011,Bledsoe-5-1 Bellview
+2012,Bledsoe-5-2 Nine Mile
+2013,Bledsoe-6-1 Lee Station
+2014,Bledsoe-6-2 Lusk
+2015,Blount-Alcoa
+2016,Blount-Eagleton MS Cafeteria
+2017,Blount-Maryville HS
+2018,Blount-Maryville Jr High
+2019,Blount-Oakview
+2020,Blount-William Blount HS
+2021,Blount-Wm Blount Academy
+2022,Bradley-1-1 McDonald
+2023,Bradley-1-2 Prospect
+2024,Bradley-1-3 Hopewell
+2025,Bradley-2-1 E.L. Ross
+2026,Bradley-2-2 Walker Valley
+2027,Bradley-3-1 Lee University
+2028,Bradley-3-2 Senior Center
+2029,Bradley-4-1 Oak Grove
+2030,Bradley-4-2 Michigan Ave
+2031,Bradley-5-1 Blythe/Bower
+2032,Bradley-5-2 Museum
+2033,Bradley-6-1 Valley View
+2034,Bradley-6-2 Blue Springs
+2035,Bradley-6-3 Waterville
+2036,Bradley-6-4 Black Fox
+2037,Bradley-7-1 Stuart
+2038,Bradley-7-2 Cleveland High
+2039,Campbell-1-1 Alder Springs
+2040,Campbell-1-2 Demory
+2041,Campbell-1-3 Pinecrest
+2042,Campbell-1-4 Valley View
+2043,Campbell-1-5 Well Springs
+2044,Campbell-2-1 College Hill
+2045,Campbell-2-2 East LaFollette
+2046,Campbell-2-3 LaFollette ES
+2047,Campbell-3-1 CCHS
+2048,Campbell-3-2 Jacksboro Sta
+2049,Campbell-3-3 West LaFollette
+2050,Campbell-4-1 Caryville
+2051,Campbell-4-2 Clinchmore
+2052,Campbell-4-3 Jacksboro
+2053,Campbell-4-4 Ridgewood
+2054,Campbell-5-1 Elk Valley
+2055,Campbell-5-2 Habersham
+2056,Campbell-5-3 Jellico
+2057,Campbell-5-4 Newcomb
+2058,Campbell-5-5 White Oak
+2059,Cannon-1-1 Westside
+2060,Cannon-2-1 Auburntown
+2061,Cannon-2-2 Gassaway
+2062,Cannon-2-3 Pleasant Ridge
+2063,Cannon-2-4 Short Mountain
+2064,Cannon-3-2 Woodland
+2065,Cannon-4-1 Eastside
+2066,Cannon-4-2 Short Mountain
+2067,Cannon-5-1 Woodbury
+2068,Carroll-Lavinia
+2069,Carroll-Trezevant
+2070,Carroll-McLemoresville
+2071,Carroll-Cedar Grove
+2072,Carroll-Clarksburg
+2073,Carroll-Macedonia
+2074,Carroll-Civic Center
+2075,Carroll-Huntingdon
+2076,Carroll-Buena Vista
+2077,Carroll-Bruceton
+2078,Carroll-Hollow Rock
+2079,Carroll-Vale
+2080,Carroll-Atwood
+2081,Carroll-Senior Citizens
+2082,Carroll-Cannon
+2083,Carroll-Concord
+2084,Carroll-Westport
+2085,Carroll-Bethel College
+2086,Carroll-McKenzie
+2087,Carter-National Guard
+2088,Cheatham-1-1 County Library
+2089,Cheatham-2-2 East Cheatham
+2090,Cheatham-3-1 Pleasant View
+2091,Cheatham-4-1 West Cheatham
+2092,Cheatham-4-3 Sycamore
+2093,Cheatham-5-1 Greenbrier
+2094,Cheatham-5-2 Pegram
+2095,Cheatham-6-1 Harpeth
+2096,Chester-4-1 West Chester - City
+2097,Chester-5-1 East Chester - City
+2098,Claiborne-8-2 Vanbebber Sprngs
+2099,Clay-1 Dentons Cross Road
+2100,Coffee-1 Ada Wright CC
+2101,Coffee-2 St Paul
+2102,Coffee-3 Trinity
+2103,Coffee-4 First Baptist
+2104,Coffee-5 Hillsboro
+2105,Coffee-6 TN Vocational Center
+2106,Coffee-7 Forest Mill
+2107,Coffee-8 New Union
+2108,Coffee-9-1 Pocahontas
+2109,Coffee-9-2 Summitville
+2110,Coffee-10 Mt. Ararat
+2111,Coffee-11 Fredonia
+2112,Coffee-12 North Coffee
+2113,Coffee-13-1 Blanton's Chapel
+2114,Coffee-13-2 Grace Baptist
+2115,Coffee-14 Hickerson
+2116,Coffee-15 Grace Baptist
+2117,Coffee-16 Lion's Club
+2118,Coffee-18 First Christian
+2119,Coffee-20 Sr Citizens Center
+2120,Coffee-21 Wilson Ave
+2121,Crockett-01
+2122,Crockett-02
+2123,Crockett-03
+2124,Crockett-04
+2125,Crockett-05
+2126,Crockett-06
+2127,Crockett-07
+2128,Crockett-08
+2129,Crockett-09
+2130,Cumberland-1 Cornerstone
+2131,Cumberland-2 Complex 2
+2132,Cumberland-3 Homestead
+2133,Cumberland-3 Dorton
+2134,Cumberland-3 Linary
+2135,Cumberland-3 Big Lick
+2136,Cumberland-4 Tabor
+2137,Cumberland-4 Bakers
+2138,Cumberland-4 Oak Hill
+2139,Cumberland-5 Lantana
+2140,Cumberland-5 Vandever
+2141,Cumberland-5 Tansi
+2142,Cumberland-6 Crab Orchard
+2143,Cumberland-6 Chestnut Hill
+2144,Cumberland-6 Ozone-Pineview
+2145,Cumberland-6 Grassy Cove
+2146,Cumberland-7 Rinnie
+2147,Cumberland-7 Woody
+2148,Cumberland-7 Mayland
+2149,Cumberland-8 Pleasant Hill
+2150,Cumberland-8 Pomona
+2151,Cumberland-8 Midway
+2152,Cumberland-9 Fairfield North
+2153,Cumberland-9 Fairfield South
+2154,Dekalb-1-3 Edgar Evins Park
+2155,Dekalb-7-1 Church of Christ
+2156,Dickson-1-1
+2157,Dickson-1-2
+2158,Dickson-2-1
+2159,Dickson-2-2
+2160,Dickson-3-1
+2161,Dickson-3-2
+2162,Dickson-4-1
+2163,Dickson-5-1
+2164,Dickson-6-1
+2165,Dickson-6-2
+2166,Dickson-7-1
+2167,Dickson-8-1
+2168,Dickson-9-1
+2169,Dickson-10-1
+2170,Dickson-11-1
+2171,Dickson-12-1
+2172,Dickson-12-2
+2173,Dyer-A1- Bonicord
+2174,Dyer-A2- Fowlkes
+2175,Dyer-B- Newbern
+2176,Dyer-C1- Tatumville
+2177,Dyer-C2- Trimble
+2178,Dyer-C3- Roellen
+2179,Dyer-D1- Millsfield
+2180,Dyer-D2- Bogota
+2181,Dyer-E1- Finley
+2182,Dyer-E2- Lenox
+2183,Dyer-F- Dyer Co Central
+2184,Dyer-G- Courthouse
+2185,Dyer-H- E. Dyersburg
+2186,Dyer-I1- Community Center
+2187,Dyer-I2- Hurricane Hill
+2188,Dyer-J- North Dyersburg
+2189,Fayette-Somerville City
+2190,Fayette-Fayette Corner
+2191,Fayette-Garnett
+2192,Fayette-Braden
+2193,Fayette-Gallaway
+2194,Fayette-Oakland
+2195,Fayette-Hickory Withe
+2196,Fayette-Elba
+2197,Fayette-Piperton
+2198,Fayette-Rossville
+2199,Fayette-Macon
+2200,Fayette-Williston
+2201,Fayette-Moscow
+2202,Fayette-Parks
+2203,Fayette-LaGrange
+2204,Franklin-1-1 Annex
+2205,Franklin-7-2 CG/Winchester Springs
+2206,Gibson-1-1 Medina
+2207,Gibson-1-2 Sitka
+2208,Gibson-2 Humboldt Church
+2209,Gibson-3 Bailey Park
+2210,Gibson-4 St James Baptist
+2211,Gibson-5 Lane Chapel Church
+2212,Gibson-6 Humboldt HS
+2213,Gibson-6-4 Gibson
+2214,Gibson-7-2 Fruitland
+2215,Gibson-8-1 Edison
+2216,Gibson-8-2 Brazil
+2217,Gibson-9 Courthouse
+2218,Gibson-10 Agri-Plex
+2219,Gibson-11-2 Moore's Chapel
+2220,Gibson-11-4 Union Central
+2221,Gibson-11-5 Skullbone
+2222,Gibson-12 Milan CPC
+2223,Gibson-13 Milan Polk Clark
+2224,Gibson-14 Milan 1stAssembly
+2225,Gibson-15 Milan Municipal
+2226,Gibson-16 Rutherford
+2227,Gibson-16-1 Yorkville
+2228,Gibson-16-2 Kenton
+2229,Gibson-17-1 Bradford
+2230,Gibson-18-1 Laneview
+2231,Gibson-18-2 Good Luck
+2232,Gibson-19-1 Dyer
+2233,Gibson-19-2 Currie
+2234,Giles-3A Richland Trace
+2235,Giles-4B Odd Fellows Hall
+2236,Giles-5B Agri Park
+2237,Giles-6A Martin
+2238,Giles-6B Bridgeforth
+2239,Giles-7A GCHS
+2240,Giles-7B Rec Center
+2241,Grainger-1-1
+2242,Grainger-1-2
+2243,Grainger-2-1
+2244,Grainger-2-2
+2245,Grainger-3-1
+2246,Grainger-3-2
+2247,Grainger-4-1
+2248,Grainger-4-2
+2249,Grainger-5-1
+2250,Grainger-5-2
+2251,Greene-1 Baileyton
+2252,Greene-4 Camp Creek
+2253,Greene-2 Chuckey Doak
+2254,Greene-4 Courthouse
+2255,Greene-2 Chuckey
+2256,Greene-5 Debusk
+2257,Greene-3 Doak
+2258,Greene-7 Glenwood
+2259,Greene-7 High School
+2260,Greene-6 McDonald
+2261,Greene-6 Mosheim
+2262,Greene-5 Middle School
+2263,Greene-5 Nolachuckey
+2264,Greene-1 Ottway
+2265,Greene-5 South Greene
+2266,Greene-3 Tusculum View
+2267,Greene-1 West Pines
+2268,Grundy-Beersheba Springs
+2269,Grundy-Gruetli-Laager
+2270,Grundy-Tracy City
+2271,Hamblen-01-1
+2272,Hamblen-02-1
+2273,Hamblen-03-1
+2274,Hamblen-04-1
+2275,Hamblen-05-1
+2276,Hamblen-06-1
+2277,Hamblen-07-1
+2278,Hamblen-08-1
+2279,Hamblen-09-1
+2280,Hamblen-09-2
+2281,Hamilton-175 Airport
+2282,Hamilton-212 Alton Park 1
+2283,Hamilton-214 Alton Park 2
+2284,Hamilton-003 Amnicola
+2285,Hamilton-050 Apison 1
+2286,Hamilton-118 Apison 2
+2287,Hamilton-216 Apison 3
+2288,Hamilton-004 Avondale
+2289,Hamilton-184 Bakewell 1
+2290,Hamilton-183 Bakewell 2
+2291,Hamilton-051 Birchwood
+2292,Hamilton-005 Bonny Oaks
+2293,Hamilton-006 Brainerd
+2294,Hamilton-007 Brainerd Hills
+2295,Hamilton-008 Bushtown
+2296,Hamilton-052 Collegedale 1
+2297,Hamilton-122 Collegedale 2
+2298,Hamilton-167 Collegedale 3
+2299,Hamilton-204 Collegedale 4
+2300,Hamilton-217 Collegedale 5
+2301,Hamilton-220 Collegedale 6
+2302,Hamilton-012 Concord 1
+2303,Hamilton-093 Concord 2
+2304,Hamilton-141 Concord 3
+2305,Hamilton-181 Concord 4
+2306,Hamilton-177 Concord 5
+2307,Hamilton-178 Concord 6
+2308,Hamilton-206 Concord 7
+2309,Hamilton-208 Courthouse 1
+2310,Hamilton-196 Courthouse 2
+2311,Hamilton-014 Dalewood
+2312,Hamilton-185 Dallas 1
+2313,Hamilton-172 Dallas 2
+2314,Hamilton-199 Downtown 1
+2315,Hamilton-197 Downtown 2
+2316,Hamilton-189 DuPont
+2317,Hamilton-017 East Brainerd 1
+2318,Hamilton-104 East Brainerd 2
+2319,Hamilton-018 East Chattanooga 1
+2320,Hamilton-192 East Chattanooga 2
+2321,Hamilton-019 East Lake
+2322,Hamilton-053 East Ridge 1
+2323,Hamilton-054 East Ridge 2
+2324,Hamilton-055 East Ridge 3
+2325,Hamilton-056 East Ridge 4
+2326,Hamilton-195 Eastdale
+2327,Hamilton-094 Eastgate 1
+2328,Hamilton-095 Eastgate 2
+2329,Hamilton-209 Eastside 1
+2330,Hamilton-132 Eastside 2
+2331,Hamilton-067 Fairmount
+2332,Hamilton-187 Falling Water
+2333,Hamilton-069 Flat Top Mountain
+2334,Hamilton-070 Ganns
+2335,Hamilton-023 Glenwood
+2336,Hamilton-058 Harrison 1
+2337,Hamilton-090 Harrison 2
+2338,Hamilton-098 Harrison 3
+2339,Hamilton-140 Harrison 4
+2340,Hamilton-180 Harrison 5
+2341,Hamilton-218 Harrison 6
+2342,Hamilton-025 Hixson 1
+2343,Hamilton-088 Hixson 2
+2344,Hamilton-101 Hixson 3
+2345,Hamilton-190 Kingspoint 1
+2346,Hamilton-191 Kingspoint 2
+2347,Hamilton-176 Kingspoint 3
+2348,Hamilton-028 Lake Hills
+2349,Hamilton-071 Lakesite
+2350,Hamilton-213 Lookout Mountain
+2351,Hamilton-048 Lookout Valley 1
+2352,Hamilton-092 Lookout Valley 2
+2353,Hamilton-029 Lupton City
+2354,Hamilton-059 Meadowview
+2355,Hamilton-188 Middle Valley 1
+2356,Hamilton-186 Middle Valley 2
+2357,Hamilton-031 Missionary Ridge
+2358,Hamilton-032 Moccasin Bend
+2359,Hamilton-033 Mountain Creek 1
+2360,Hamilton-106 Mountain Creek 2
+2361,Hamilton-215 Mountain Creek 3
+2362,Hamilton-074 Mowbray
+2363,Hamilton-171 Murray Hills 1
+2364,Hamilton-182 Murray Hills 2
+2365,Hamilton-035 North Chattanooga 1
+2366,Hamilton-139 North Chattanooga 2
+2367,Hamilton-194 Northgate 1
+2368,Hamilton-193 Northgate 2
+2369,Hamilton-037 Northwoods 1
+2370,Hamilton-038 Northwoods 2
+2371,Hamilton-060 Ooltewah 1
+2372,Hamilton-089 Ooltewah 2
+2373,Hamilton-143 Ooltewah 3
+2374,Hamilton-205 Ooltewah 4
+2375,Hamilton-169 Ooltewah 5
+2376,Hamilton-168 Ooltewah 6
+2377,Hamilton-075 Pleasant Grove 1
+2378,Hamilton-103 Pleasant Grove 2
+2379,Hamilton-076 Red Bank 1
+2380,Hamilton-077 Red Bank 2
+2381,Hamilton-078 Red Bank 3
+2382,Hamilton-210 Ridgedale 1
+2383,Hamilton-211 Ridgedale 2
+2384,Hamilton-061 Ridgeside
+2385,Hamilton-042 Riverview
+2386,Hamilton-080 Sale Creek
+2387,Hamilton-207 Signal Mountain 1
+2388,Hamilton-200 Signal Mountain 2
+2389,Hamilton-170 Snowhill 1
+2390,Hamilton-179 Snowhill 2
+2391,Hamilton-083 Soddy Daisy 1
+2392,Hamilton-084 Soddy Daisy 2
+2393,Hamilton-144 Soddy Daisy 3
+2394,Hamilton-219 Soddy Daisy 4
+2395,Hamilton-043 St. Elmo 1
+2396,Hamilton-137 St. Elmo 2
+2397,Hamilton-198 Stuart Heights
+2398,Hamilton-063 Summit 1
+2399,Hamilton-166 Summit 2
+2400,Hamilton-203 Summit 3
+2401,Hamilton-201 Summit 4
+2402,Hamilton-046 Tyner 1
+2403,Hamilton-097 Tyner 2
+2404,Hamilton-085 Valdeau
+2405,Hamilton-086 Walden
+2406,Hamilton-064 Westview 1
+2407,Hamilton-091 Westview 2
+2408,Hamilton-096 Westview 3
+2409,Hamilton-173 Woodmore 1
+2410,Hamilton-174 Woodmore 2
+2411,Hardin-Airport 1-1
+2412,Hardin-Olivet 1-2
+2413,Hardin-Nixon 2-1
+2414,Hardin-Walkers 2-2
+2415,Hardin-Counce 3-1
+2416,Hardin-Southside 3-2
+2417,Hardin-Shiloh 4-1
+2418,Hardin-Crump 4-2
+2419,Hardin-Saltillo 5-1
+2420,Hardin-Morris Chapel 5-2
+2421,Hardin-Cerro Gordo 6-1
+2422,Hardin-Rhodes 6-2
+2423,Hardin-Olive Hill 6-3
+2424,Hardin-Whites 7-1
+2425,Hardin-Walnut Grove 7-2
+2426,Hardin-North 8-1
+2427,Hardin-Library 9-1
+2428,Hardin-Fairground 10-1
+2429,Hawkins-6 Alum Well
+2430,Hawkins-2 Church Hill Outsid
+2431,Hawkins-4 Keplar
+2432,Hawkins-5 Rogersville No In
+2433,Hawkins-4 Rogersville No Out
+2434,Hawkins-5 Rogersville So In
+2435,Hawkins-5 Rogersville So Out
+2436,Hawkins-7 Strahl/Cherokee
+2437,Hawkins-4 Surgoinsville In
+2438,Hawkins-4 Surgoinsville Out
+2439,Haywood-1-1
+2440,Haywood-2-1
+2441,Haywood-3-1
+2442,Haywood-4-1
+2443,Haywood-5-1
+2444,Haywood-6-1
+2445,Haywood-7-1
+2446,Haywood-8-1
+2447,Haywood-9-1
+2448,Haywood-9-2
+2449,Haywood-10-1
+2450,Henderson-3-3 Fire Station #4
+2451,Henderson-3-4 Christian Chapel
+2452,Henderson-5-5 TN Tech Center
+2453,Henderson-4-6 Civic Center
+2454,Henderson-3-7 Darden
+2455,Henderson-6-8 Broad Street
+2456,Henderson-7-9 Middleburg
+2457,Henderson-3-10 Fire Sta #10
+2458,Henderson-7-11 Reagan
+2459,Henderson-7-12 Sardis
+2460,Henderson-7-13 Scotts Hill
+2461,Henderson-2-14 South Haven
+2462,Henderson-2-15 Westover
+2463,Henry-5-1 Henry Co High
+2464,Henry-5-2 TN Tech Center
+2465,Hickman-1-1 Nunnelly
+2466,Hickman-1-2 Pinewood
+2467,Hickman-2-2 Fairfield
+2468,Hickman-2-3 East Bank
+2469,Hickman-3-1 East CC
+2470,Hickman-4-1 Lake Benson
+2471,Hickman-5-1 Mt. Pleasant
+2472,Hickman-5-2 Middle School
+2473,Hickman-5-3 Shady Grove
+2474,Hickman-6-1 Justice Center
+2475,Hickman-7-1 Nunnelly
+2476,Hickman-7-2 Pleasantville
+2477,Hickman-7-3 Brushy
+2478,Hickman-7-4 Coble
+2479,Houston-Stewart
+2480,Houston-Erin
+2481,Houston-Arlington
+2482,Houston-Erin Elementary
+2483,Houston-Houston Co Middle
+2484,Houston-Griffins Chapel
+2485,Humphreys-1-1 Jera
+2486,Jefferson-10 Jeff City Fire Dp
+2487,Johnson-5 Doe
+2488,Lake-1 Tiptonville SR Citizens
+2489,Lake-2 Courthouse
+2490,Lake-3 Lake Co Middle
+2491,Lauderdale-Henning 1
+2492,Lauderdale-McBride 1
+2493,Lauderdale-Conner 2
+2494,Lauderdale-Lightfoot 5
+2495,Lauderdale-Arp 6
+2496,Lauderdale-Central 6
+2497,Lauderdale-Edith 7
+2498,Lauderdale-Gates 7
+2499,Lauderdale-Nankipoo 7
+2500,Lauderdale-Halls 8
+2501,Lawrence-01-1 St. Joseph
+2502,Lawrence-01-2 West Loretto
+2503,Lawrence-02-1 Loretto Civ Ctr
+2504,Lawrence-03-1 SE Lawrence
+2505,Lawrence-03-2 Centerpoint
+2506,Lawrence-04-1 Crossroads
+2507,Lawrence-05-1 Leoma
+2508,Lawrence-05-2 Gandy
+2509,Lawrence-06-1 Iron City
+2510,Lawrence-06-2 West Point
+2511,Lawrence-07-1 Lawrenceburg
+2512,Lawrence-08-1 New Prospect
+2513,Lawrence-09-1 Ethridge
+2514,Lawrence-09-2 Mars Hill
+2515,Lawrence-18-1 E. O. Coffman
+2516,Lincoln-1-1 Blanche
+2517,Lincoln-1-2 Molino
+2518,Lincoln-1-3 Taft
+2519,Lincoln-2-1 Boonshill
+2520,Lincoln-2-2 Howell
+2521,Lincoln-2-3 Petersburg
+2522,Lincoln-3-1 Recreation Center
+2523,Lincoln-3-2 Liberty
+2524,Lincoln-4-1 Maranatha
+2525,Lincoln-4-2 FNB
+2526,Lincoln-5-1 Calvary
+2527,Lincoln-5-2 Armory
+2528,Lincoln-6-1 Fayetteville CPC
+2529,Lincoln-6-2 Belleville
+2530,Lincoln-6-3 Mulberry
+2531,Lincoln-7-1 Elora
+2532,Lincoln-7-2 Flintville
+2533,Lincoln-7-3 Kelso
+2534,Lincoln-8-1 Lincoln
+2535,Lincoln-8-2 South Lincoln
+2536,Loudon-Tellico V. North
+2537,Loudon-Tellico V. South
+2538,Macon-Red Boiling Springs
+2539,Macon-Willette
+2540,Macon-County High School
+2541,Macon-County Junior High
+2542,Macon-Westside
+2543,Macon-Cross Roads
+2544,Macon-Armory
+2545,Macon-Welcome Center
+2546,Macon-Central
+2547,Macon-Lafayette
+2548,Madison-1-1 Civic Center
+2549,Madison-1-2 Mt Moriah
+2550,Madison-2-1 Alexander
+2551,Madison-2-2 Aldersgate
+2552,Madison-2-3 Montessori
+2553,Madison-3-1 Board of Educ
+2554,Madison-3-2 Old Bells Rd #10
+2555,Madison-3-3 J-CIL
+2556,Madison-4-1 Masonic Lodge
+2557,Madison-4-2 Andrew Jackson
+2558,Madison-4-3 Festivities
+2559,Madison-5-1 Whitehall
+2560,Madison-5-2 Macedonia
+2561,Madison-5-3 North Parkway
+2562,Madison-6-1 South Side
+2563,Madison-6-2 South
+2564,Madison-6-3 Malesus
+2565,Madison-6-4 Medon
+2566,Madison-7-1 UT Experiment
+2567,Madison-7-2 TN Tech Ctr
+2568,Madison-7-3 Denmark
+2569,Madison-7-4 Mercer
+2570,Madison-8-1 Beech Bluff
+2571,Madison-8-2 Browns
+2572,Madison-8-3 Mifflin
+2573,Madison-8-4 East Union
+2574,Madison-8-5 Lesters
+2575,Madison-9-2 Pope
+2576,Madison-9-3 Three Way
+2577,Madison-10-1 Spring Creek
+2578,Madison-10-2 North East
+2579,Madison-10-3 North Side
+2580,Marion-Whitwell Mountain
+2581,Marion-Walden's Ridge
+2582,Marshall-1 Chapel Hill
+2583,Marshall-2 Henry Horton Park
+2584,Marshall-3 Belfast
+2585,Marshall-4 Cornersville
+2586,Marshall-5 Recreation Center
+2587,Marshall-6 Parkview
+2588,Marshall-7 Hardison
+2589,Marshall-8 Lewisburg Gas
+2590,Marshall-9 McKnight Center
+2591,Maury-Riverside 1-1
+2592,Maury-West End 1-2
+2593,Maury-First Family 2-1
+2594,Maury-Highland 2-2
+2595,Maury-College Hill 3-1
+2596,Maury-St. Catherine 4-1
+2597,Maury-CP Church 5-1
+2598,Maury-Neapolis 5-2
+2599,Maury-Santa Fe 6-1
+2600,Maury-Spring Hill MS 6-2
+2601,Maury-Theta 6-3
+2602,Maury-Armory 7-1
+2603,Maury-Hampshire 7-2
+2604,Maury-Bear Creek 8-1
+2605,Maury-Culleoka 8-2
+2606,Maury-Bigbyville 9-1
+2607,Maury-Pleasant Heights 9-2
+2608,Maury-Mt. Pleasant 10-1
+2609,Maury-Rally Hill 11-1
+2610,Maury-Spring Hill 11-2
+2611,McMinn-City Park
+2612,McMinn-Etowah
+2613,McMinn-Central
+2614,McMinn-Englewood
+2615,McMinn-Rogers Creek
+2616,McMinn-Riceville
+2617,McMinn-Calhoun
+2618,McMinn-Niota
+2619,McMinn-Ingleside
+2620,McMinn-TCAT
+2621,McMinn-Courthouse
+2622,McMinn-North City
+2623,McMinn-Jones Chapel
+2624,McMinn-E K Baker
+2625,McMinn-Mountain View
+2626,McNairy-Bethel Springs 1-1
+2627,McNairy-Finger 1-2
+2628,McNairy-McNairy 1-3
+2629,McNairy-Adamsville 2-1
+2630,McNairy-Lawton 2-2
+2631,McNairy-Leapwood 3-1
+2632,McNairy-Northeast 3-2
+2633,McNairy-Purdy 3-3
+2634,McNairy-North Selmer 4-1
+2635,McNairy-Rose Creek 4-2
+2636,McNairy-Cypress 5-1
+2637,McNairy-East View 5-2
+2638,McNairy-Guys 5-3
+2639,McNairy-Ramer 5-4
+2640,McNairy-Courthouse SE 6-1
+2641,McNairy-Michie 7-1
+2642,McNairy-Stantonville 7-2
+2643,Monroe-01
+2644,Monroe-02
+2645,Monroe-03
+2646,Monroe-04
+2647,Monroe-05
+2648,Monroe-06
+2649,Monroe-07
+2650,Monroe-08
+2651,Monroe-09
+2652,Monroe-10
+2653,Monroe-11
+2654,Monroe-12
+2655,Monroe-14
+2656,Moore-2 High School
+2657,Moore-3 Moore County Bldg
+2658,Morgan-1-1 Coalfield
+2659,Morgan-2-1 Oakdale High
+2660,Morgan-2-2 Mossy Grove
+2661,Morgan-2-3 Oakdale
+2662,Morgan-3-1 Wartburg
+2663,Morgan-4-1 Lancing
+2664,Morgan-4-2 Deer Lodge
+2665,Morgan-4-3 Chestnut Ridge
+2666,Morgan-5-1 Sunbright
+2667,Morgan-5-2 Burrville
+2668,Morgan-6-1 Kellys
+2669,Morgan-6-2 Petros
+2670,Obion-2-1 Eddie Cox Sr Ctr
+2671,Obion-6-1 Troy Sr Ctr
+2672,Obion-6-2 Obion Sr Ctr
+2673,Obion-7-2 Obion Co Library
+2674,Perry-1-1 Cedar Creek
+2675,Perry-1-2 Marsh Creek
+2676,Perry-2-1 Pineview
+2677,Perry-2-2 Pope
+2678,Perry-3-1 Coon Creek
+2679,Perry-3-2 Flatwoods
+2680,Perry-4-1 Brush Creek
+2681,Perry-4-3 Lobelville
+2682,Perry-5-1 Linden
+2683,Perry-6-1 Lobelville
+2684,Pickett-Community Center 1-1
+2685,Pickett-Moodyville 1-2
+2686,Pickett-High School 2-1
+2687,Pickett-Chanute 3-1
+2688,Pickett-Travisville 3-2
+2689,Pickett-Boom 4-1
+2690,Pickett-Oak Hill 4-2
+2691,Pickett-Barnes Ridge 4-3
+2692,Pickett-Bolestown 4-4
+2693,Polk-1 Delano
+2694,Polk-1A Polk Co High
+2695,Polk-1B Chilhowee
+2696,Polk-2 Greasy Creek
+2697,Polk-2A Springtown
+2698,Polk-2C South Polk
+2699,Polk-2D Shiloh Baptist
+2700,Polk-3 Ducktown
+2701,Polk-3A Copper Basin
+2702,Putnam-1A Capshaw
+2703,Putnam-2A Northeast
+2704,Putnam-3A University
+2705,Putnam-4A Burks
+2706,Putnam-4B Monterey City
+2707,Putnam-4C Poplar Grove
+2708,Putnam-5A Cookeville CC
+2709,Putnam-5C Prescott South
+2710,Putnam-5F Dry Valley
+2711,Putnam-6A Cane Creek
+2712,Putnam-7A Burgess Falls
+2713,Putnam-7D Twin Oak
+2714,Putnam-8D Boma
+2715,Putnam-8E Buffalo Valley
+2716,Putnam-8F Cornerstone
+2717,Putnam-8G Upperman
+2718,Putnam-9B Double Springs
+2719,Putnam-11B Cookeville High
+2720,Roane-Johnson Sch House
+2721,Robertson-01-1 East Robertson
+2722,Robertson-02-1 Woodall
+2723,Robertson-03-1 Ebenezer
+2724,Robertson-03-2 Heritage
+2725,Robertson-04-1 Watauga
+2726,Robertson-05-1 Greenbrier
+2727,Robertson-06-1 Coopertown
+2728,Robertson-06-2 Mt. Sharon
+2729,Robertson-07-1 Jo Byrns
+2730,Robertson-07-2 Stroudsville
+2731,Robertson-08-1 Krisle
+2732,Robertson-08-2 HATS
+2733,Robertson-08-3 Owens Chapel
+2734,Robertson-09-1 Fair Assoc.
+2735,Robertson-10-1 South Haven
+2736,Robertson-11-1 Westside
+2737,Robertson-11-2 Heads
+2738,Robertson-12-1 Bransford
+2739,Rutherford-1-1
+2740,Rutherford-2-1
+2741,Rutherford-2-2
+2742,Rutherford-2-3
+2743,Rutherford-3-1
+2744,Rutherford-3-2
+2745,Rutherford-4-1
+2746,Rutherford-4-2
+2747,Rutherford-4-3
+2748,Rutherford-4-4
+2749,Rutherford-5-1
+2750,Rutherford-5-2
+2751,Rutherford-6-1
+2752,Rutherford-6-2
+2753,Rutherford-7-1
+2754,Rutherford-7-2
+2755,Rutherford-8-1
+2756,Rutherford-8-2
+2757,Rutherford-8-3
+2758,Rutherford-8-4
+2759,Rutherford-9-1
+2760,Rutherford-9-2
+2761,Rutherford-10-1
+2762,Rutherford-10-2
+2763,Rutherford-11-1
+2764,Rutherford-11-2
+2765,Rutherford-12-1
+2766,Rutherford-12-2
+2767,Rutherford-12-3
+2768,Rutherford-13-1
+2769,Rutherford-13-2
+2770,Rutherford-14-1
+2771,Rutherford-14-2
+2772,Rutherford-15-1
+2773,Rutherford-15-2
+2774,Rutherford-16-1
+2775,Rutherford-16-2
+2776,Rutherford-16-3
+2777,Rutherford-17-1
+2778,Rutherford-17-2
+2779,Rutherford-17-3
+2780,Rutherford-18-1
+2781,Rutherford-18-2
+2782,Rutherford-19-1
+2783,Rutherford-19-2
+2784,Rutherford-20-1
+2785,Rutherford-20-2
+2786,Rutherford-21-1
+2787,Rutherford-21-2
+2788,Sequatchie-7 Justice Center
+2789,Shelby-Memphis 47
+2790,Shelby-Memphis 62
+2791,Shelby-McConnell's
+2792,Shelby-Ross 05
+2793,Shelby-Ross 13
+2794,Shelby-Ross 14
+2795,Shelby-Ross 15
+2796,Shelby-Ross 16
+2797,Stewart-6-1 Public Library
+2798,Sumner-1-1 Westmoreland
+2799,Sumner-1-3 Corinth
+2800,Sumner-2-1 Portland
+2801,Sumner-2-2 Wiseman
+2802,Sumner-3-1 Civic Center
+2803,Sumner-3-3 Creekside
+2804,Sumner-4-1 Howard
+2805,Sumner-4-3 Cottontown
+2806,Sumner-4-4 Union
+2807,Sumner-5-1 FB Gallatin
+2808,Sumner-5-2 Guild
+2809,Sumner-6-1 Vol State
+2810,Sumner-6-2 Gallatin HS
+2811,Sumner-6-3 Jack Anderson
+2812,Sumner-7-1 Whitten
+2813,Sumner-7-3 Long Hollow
+2814,Sumner-8-1 Brown
+2815,Sumner-8-2 Hawkins
+2816,Sumner-9-1 Hendersonville
+2817,Sumner-9-2 Indian Lake
+2818,Sumner-10-1 Walton Ferry
+2819,Sumner-10-2 Merrol Hyde
+2820,Sumner-11-1 Beech
+2821,Sumner-11-2 Goodlettsville
+2822,Sumner-11-3 Millersville
+2823,Sumner-12-1 Oakmont
+2824,Sumner-12-3 White House
+2825,Tipton-1-1 NE Covington
+2826,Tipton-2-3 SE Covington
+2827,Tipton-3-6 Tipton West
+2828,Tipton-4-11 Atoka
+2829,Tipton-5-12 Munford
+2830,Tipton-6-14 SW Tipton
+2831,Tipton-7-19 Austin Peay
+2832,Tipton-8-21 Wilkinsville
+2833,Tipton-9-22 Brighton
+2834,Trousdale-01 Senior Center
+2835,Trousdale-02 Cato
+2836,Trousdale-03 Beech Grove
+2837,Trousdale-04 Halltown
+2838,Trousdale-05 Templow
+2839,Trousdale-06 Walnut Grove
+2840,Trousdale-07 High School
+2841,Trousdale-08 Willard
+2842,Trousdale-09 City
+2843,Warren-1-1 Civic Center
+2844,Warren-2-1 Courthouse
+2845,Warren-2-2 Airport
+2846,Warren-3-1 Westwood
+2847,Warren-3-2 Smartt
+2848,Warren-4-1 TSU
+2849,Warren-5-1 Mall
+2850,Warren-5-2 Towers
+2851,Warren-6-1 Caney Fork
+2852,Warren-7-1 Friendship
+2853,Warren-8-1 Fairview
+2854,Warren-8-3 Bonner
+2855,Warren-9-1 Morrison
+2856,Warren-9-2 Viola
+2857,Warren-10-1 Centertown UMC
+2858,Warren-10-2 Centertown CIC
+2859,Warren-11-1 Midway
+2860,Warren-11-2 Hwy 56 North
+2861,Warren-12-1 Northside
+2862,Warren-12-2 Lucky
+2863,Washington-01 Fall Branch
+2864,Washington-02 Harmony
+2865,Washington-03 Gray East
+2866,Washington-04 Gray City
+2867,Washington-05 B.C. East
+2868,Washington-06 Sulphur Springs
+2869,Washington-07 Gray West
+2870,Washington-08 B.C. West
+2871,Washington-09 B.C. City
+2872,Washington-17 Town Acres
+2873,Washington-20 Visitor's Center
+2874,Washington-25 Millennium
+2875,Washington-30 Grace
+2876,Washington-32 Cherokee Out
+2877,Washington-34 New Victory
+2878,Wayne-1 Waynesboro
+2879,Wayne-3-1 Beech Creek
+2880,Wayne-3-2 Crazy Horse
+2881,Wayne-3-3 Eagle Creek
+2882,Wayne-4-1 Collinwood
+2883,Wayne-4-2 Shawnettee
+2884,Wayne-5-1 Big Cypress
+2885,Wayne-5-2 Lutts
+2886,Wayne-5-3 Wayne Co High
+2887,Wayne-6-1 Holly Creek
+2888,Wayne-6-2 South Gate
+2889,Wayne-7-1 Buffalo River
+2890,Wayne-7-2 Ovilla
+2891,Weakley-1A Palmersville
+2892,Weakley-1B Latham
+2893,Weakley-2A Gleason
+2894,Weakley-3A Greenfield
+2895,Weakley-4A Sharon
+2896,Weakley-5A Martin CoC
+2897,Weakley-6A Trinity
+2898,Weakley-7A Martin Shepherd's
+2899,Weakley-8A Martin FUMC
+2900,Weakley-9A Dresden
+2901,Williamson-1-1
+2902,Williamson-1-2
+2903,Williamson-1-3
+2904,Williamson-1-4
+2905,Williamson-1-5
+2906,Williamson-2-1
+2907,Williamson-2-2
+2908,Williamson-2-3
+2909,Williamson-2-4
+2910,Williamson-2-5
+2911,Williamson-3-1
+2912,Williamson-3-2
+2913,Williamson-3-3
+2914,Williamson-4-1
+2915,Williamson-4-2
+2916,Williamson-4-3
+2917,Williamson-5-1
+2918,Williamson-5-2
+2919,Williamson-5-3
+2920,Williamson-5-4
+2921,Williamson-6-1
+2922,Williamson-6-2
+2923,Williamson-6-3
+2924,Williamson-7-1
+2925,Williamson-7-2
+2926,Williamson-7-3
+2927,Williamson-8-1
+2928,Williamson-8-2
+2929,Williamson-8-3
+2930,Williamson-9-1
+2931,Williamson-9-2
+2932,Williamson-9-3
+2933,Williamson-9-4
+2934,Williamson-9-5
+2935,Williamson-10-1
+2936,Williamson-10-2
+2937,Williamson-10-3
+2938,Williamson-11-1
+2939,Williamson-11-2
+2940,Williamson-11-3
+2941,Williamson-12-1
+2942,Williamson-12-2
+2943,Williamson-12-3

@@ -1,6 +1,6 @@
 # pdv-tn
 
-Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-tennessee-precinct-and-election-results/).
+Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-tennessee-precinct-and-election-results/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
@@ -10,18 +10,18 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ### Accessible files:
 
-- File: TN VEST 2016 File
-   - Date accessed: 7/27/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/SQU0V1&version=65.0
-   - File: `tn_2016.zip`
-- File: VEST Documentation File, 2016
-   - Date accessed: 7/27/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4938232&version=65.0
+- File: TN VEST 2020 File
+   - Date accessed: 9/20/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5007852&version=21.0
+   - File: `tn_2020.zip`
+- File: VEST Documentation File, 2020
+   - Date accessed: 9/20/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5206372&version=21.0
    - File: `documentation.txt`
-- File: TN Precinct-Level Election Results, 2016
-  - Date accessed: 7/27/2021
-  - Link: https://sos.tn.gov/products/elections/election-results
-  - Note: Selected '2016' and downloaded 'Results by Precinct Spreadsheet'
+- File: TN Precinct-Level Election Results, 2020
+  - Date accessed: 9/20/2021
+  - Link: https://sos.tn.gov/elections/results#2020
+  - Note: Selected and downloaded 'Results by Precinct Spreadsheet'
 - File: TN Voter Precinct Maps
   - Date accessed: 8/17/2021
   - Link: https://comptroller.tn.gov/search-results.html?q=current+voter+precinct+map
@@ -29,4 +29,4 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## File processing:
 
-`vest-tn-2016-validation.ipynb` is the script that is the basis of the validation report
+`vest-tn-2020-validation.ipynb` is the script that is the basis of the validation report

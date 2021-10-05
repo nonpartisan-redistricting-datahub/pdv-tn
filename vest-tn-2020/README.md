@@ -24,7 +24,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Note: Selected and downloaded 'Results by Precinct Spreadsheet'
 - File: TN Precinct Shapefiles
   - Date accessed: 8/26/2021
-  - Note: Reached out to TN Comptroller's office
+  - Note: Reached out to TN Comptroller's office. File available by request.
 - File: TN Voter Precinct Maps
   - Date accessed: 8/17/2021
   - Link: https://comptroller.tn.gov/search-results.html?q=current+voter+precinct+map
